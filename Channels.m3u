@@ -24,6 +24,8 @@ http://82.137.248.16:1935/Snews/stream25042018/chunklist.m3u8
 http://82.137.248.16:1935/Nour/stream25042018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/7DC2B4",SamaTV
 http://sama-tv.net:1935/live/samatv/gmswf.m3u8
+#EXTINF:-1 tvg-logo="http://www.lanacanal.tv/assets/TV/img/lana_logo.png",Lana Souria
+http://mtqtqloqdxtlive.mediatriple.net/mtqtqloqdxtlive/u_stream_5ae30a53230df_3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/archive/news/n1502280499.png",Ogarit
 http://82.137.248.16:1935/Ugarit/stream25042018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/J1wLfs",Syrian Education
