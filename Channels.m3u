@@ -83,7 +83,7 @@ https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/gPgPWd",LBC
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LDC_logo_new.png",LDC
-http://streaming.i-sat.tv:8081/live/ldc/chunks.m3u8
+http://streaming.i-sat.tv:8081/live/ldcle/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/W8NiAQ",OTV
 http://youness-export.com/tv/otv
 #EXTINF:-1 tvg-logo="https://goo.gl/CXxkJW",NBN
