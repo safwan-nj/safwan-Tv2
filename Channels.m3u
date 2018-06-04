@@ -258,70 +258,32 @@ http://arabapps.live:8000/live/newapp222/afsfsdfsf/620.ts
 
 #EXTINF:-1 tvg-logo="https://nupsa.edu.au/wp-content/uploads/2017/10/12788538_G.jpg" group-title="Other Sports",======Other Sports=======
 http://bit.ly/Safwanlogo
-#EXTINF:0,AD Sport 1
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/705.ts
-#EXTINF:0,AD Sport 2
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/704.ts
-#EXTINF:0,abu dahbi sport3
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/779.ts
-#EXTINF:0,abu dahbi sport4
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/780.ts
-#EXTINF:0,YAS Sports
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/141.ts
-#EXTINF:0,Dubai Racing Channel
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/499.ts
-#EXTINF:0,Dubai Sports 1
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/498.ts
-#EXTINF:0,Dubai Racing 3
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/500.ts
-#EXTINF:0,Dubai Sports 4
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/497.ts
-#EXTINF:0,Sharjah Sports
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/224.ts
-#EXTINF:0,DMC Sport
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/8501.ts
-#EXTINF:0,ONTV Sport
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/8500.ts
-#EXTINF:0,Eurosport
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/6395.ts
-#EXTINF:0,Eurosport1
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/898.ts
-#EXTINF:0,Sky Sports Premier League
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/1077.ts
-#EXTINF:0,Sky Sports 1 HD
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/6364.ts
-#EXTINF:0,Sky Sports Main Event
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/1076.ts
-#EXTINF:0,Sky Sports 2 HD
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/6363.ts
-#EXTINF:0,Sky Sports Action
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/1075.ts
-#EXTINF:0,Sky Sports Cricket
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/1074.ts
-#EXTINF:0,Sky Sports Golf
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/1073.ts
-#EXTINF:0,Sky Sports F1 HD
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/1072.ts
-#EXTINF:0,Sky Sports News
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/6398.ts
-#EXTINF:0,Sky Sports News
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/1071.ts
-#EXTINF:0,Bein Sports 1 HD FR^
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/8028.ts
-#EXTINF:0,Bein Sports 1 HD^
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/8034.ts
-#EXTINF:0,Bein Sports 2 HD FR^
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/8027.ts
-#EXTINF:0,Bein Sports 2 HD^
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/8033.ts
-#EXTINF:0,Bein Sports 3 HD^
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/8032.ts
-#EXTINF:0,Bein Sports 4 HD^
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/8031.ts
-#EXTINF:0,Bein Sports 5 HD^
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/8030.ts
-#EXTINF:0,Bein Sports 6 HD^
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/8029.ts
+#EXTINF:0,AR: AD Sports 1
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3460.ts
+#EXTINF:0,AR: AD Sports 2
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3461.ts
+#EXTINF:0,AR: Dubai Sports 1
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3955.ts
+#EXTINF:0,AR: Dubai Sports 3
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2787.ts
+#EXTINF:0,AR: Dubai Sports 4
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3953.ts
+#EXTINF:0,AR: Modern Sport
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4344.ts
+#EXTINF:0,AR: Nile Sport
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4272.ts
+#EXTINF:0,AR: Saudi Sport 1
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/8654.ts
+#EXTINF:0,AR: Sharjah Sports HD
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2785.ts
+#EXTINF:0,AR: Yas Sports HD
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/6142.ts
+#EXTINF:0,FR: Bein Sports 1 HD
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2569.ts
+#EXTINF:0,FR: Bein Sports 2 HD
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2556.ts
+#EXTINF:0,FR: Bein Sports 3 HD
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2590.ts
 
 
 
