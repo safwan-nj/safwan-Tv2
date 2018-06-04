@@ -134,35 +134,6 @@ http://selevision9893-i.akamaihd.net/hls/live/219353/98936/master.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/11vBxk",Rotana khalijia
 http://selevision9879-i.akamaihd.net/hls/live/219139/98791/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.ryanshorses.com.au/persistent/catalogue_images/products/vip.jpg" group-title="VIP",======VIP=======
-http://bit.ly/Safwanlogo
-
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2hhbm5lbHMvNWE1NjIwNTA4MzgxMy5wbmc=/150_150.png",Fox Movies
-http://streaming.i-sat.tv:8081/live/fox1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2hhbm5lbHMvNTlmZWY0Y2I5M2Q5Zi5wbmc=/150_150.png",Osn Yahla Cinema
-http://streaming.i-sat.tv:8081/live/oci/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2hhbm5lbHMvNWEwMDMwMGVkZWU0OC5wbmc=/150_150.png",Osn Star Movies
-http://streaming.i-sat.tv:8081/live/osm/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2F0ZWdvcmllcy81OWM4ZWI0YjY2MTc5LnBuZw==/150_150.png",art 1
-http://streaming.i-sat.tv:8081/live/art1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2hhbm5lbHMvNTljOGViYWY1YTU1OS5wbmc=/150_150.png",art 2
-http://streaming.i-sat.tv:8081/live/art2/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2F0ZWdvcmllcy82ZWFmNmYwMDQ0OTlkODNjMjAwNjEyYTJhNzNkNzEwOC5naWY=/150_150.png",I-Sat
-http://streaming.i-sat.tv:1935/live/hayat/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2hhbm5lbHMvNWE1NjFmMDFlY2EyMS5wbmc=/150_150.png",Discovery turbo
-http://streaming.i-sat.tv:8081/live/discovery1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2hhbm5lbHMvNWE1NjFmYTFhMzAwNy5wbmc=/150_150.png",Discovery
-http://streaming.i-sat.tv:8081/live/discovery2/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2hhbm5lbHMvYzRmZTAyYzZjZDBkNDFkYjhmMTEzODc3NWNmNmFjYmRfMjAwLnBuZw==/150_150.png",National Geografic
-http://streaming.i-sat.tv:1935/live/Nat/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2hhbm5lbHMvNTRlZDU1NjFkOTNmODc5ODI2MmQ0NTYzZWM3NWE1NTYucG5n/150_150.png",Kaifa
-http://streaming.i-sat.tv:1935/live/kifa.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2hhbm5lbHMvNTljYjY2NGEwMDA0ZS5wbmc=/150_150.png",Spacetoon
-http://streaming.i-sat.tv:8081/live/spacetoon/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2hhbm5lbHMvMzQ0NTMzNTYwNTgyZDc1Mjg5Yjc3OTE0OTQzM2M1OTIucG5n/150_150.png",Semsem
-http://streaming.i-sat.tv:1935/live/sms/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2hhbm5lbHMvNWE0OGY4NDRkOGJjMC5wbmc=/150_150.png",Toyour Aljannah
-http://streaming.i-sat.tv:8081/live/toyourjana/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/ogImageBinary/76eabaeb679e2466a4266304155e9ccba43dd3eb/mbc_OG.png" group-title="MBC",======MBC=======
 http://bit.ly/Safwanlogo
@@ -987,7 +958,7 @@ http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.imageto.org/images/7hJD9.gif" group-title="Turk",======Turk=======
 http://bit.ly/Safwanlogo
-#EXTINF:0,TR: A HBR HD
+#EXTINF:0,TR: A HBR 
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5362.ts
 #EXTINF:0,TR: A Melodi
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5372.ts
