@@ -167,25 +167,25 @@ http://streaming.i-sat.tv:8081/live/toyourjana/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/ogImageBinary/76eabaeb679e2466a4266304155e9ccba43dd3eb/mbc_OG.png" group-title="MBC",======MBC=======
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2014/june/week-3/18-6-2014/MBC-HD/original/3db336cad2cad7be4667ce664d96534ba2d1ae3c/MBC-HD.jpg",MBC 1
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2820.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2820.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png",MBC 2
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/1214.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/1214.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/MBC_3_logo.jpg",MBC 3
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3377.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3377.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MBC_4_logo.png/150px-MBC_4_logo.png",MBC 4
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/1217.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/1217.ts
 #EXTINF:-1 tvg-logo="http://frequencyme.com/wp-content/uploads/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A5%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D8%A3%D9%83%D8%B4%D9%86-%D8%B9%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%AD-mbc-action-hd.png",MBC Action
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/1213.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/1213.ts
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png",MBC Bollywood
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/1216.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/1216.ts
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CxvI-DpZprY/WOqNf9T801I/AAAAAAAAE7k/ptridxmc6kkpZapF8QoGxkaGsxpu6pEPACLcB/s1600/mbc_ae_drama.png",MBC Drama
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3457.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3457.ts
 #EXTINF:-1 tvg-logo="http://arabictvweb.com/wp-content/uploads/2017/10/mbc_ae_misr.png",MBC Masr
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3379.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3379.ts
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg",MBC Masr 2
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4275.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4275.ts
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2015/June/Week-1/5-6-2015/max/original/49f86603f071357c4f1732f4690c9eebbeb18d4f/max.jpg",MBC Max
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/1215.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/1215.ts
 
 
 
@@ -255,6 +255,7 @@ http://arabapps.live:8000/live/newapp222/afsfsdfsf/622.ts
 http://arabapps.live:8000/live/newapp222/afsfsdfsf/621.ts
 #EXTINF: tvg-logo="https://goo.gl/KFUpMa",BEINSPORT 8Low
 http://arabapps.live:8000/live/newapp222/afsfsdfsf/620.ts
+
 #EXTINF:-1 tvg-logo="https://nupsa.edu.au/wp-content/uploads/2017/10/12788538_G.jpg" group-title="Other Sports",======Other Sports=======
 http://bit.ly/Safwanlogo
 #EXTINF:0,AD Sport 1
@@ -671,9 +672,9 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 #EXTINF:-1,National Geographic
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
 #EXTINF:0,AR: Zee Aflam
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4523.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4523.ts
 #EXTINF:0,AR: Zee Alwan
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3414.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3414.ts
 #EXTINF:-1,Abu Dhabi Sports
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1,Abu Dhabi Sports SD
@@ -924,7 +925,7 @@ http://bit.ly/Safwanlogo
 http://bit.ly/Safwanlogo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1 
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3220.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3220.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 2 
 http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 3 
@@ -1025,273 +1026,273 @@ http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.imageto.org/images/7hJD9.gif" group-title="Turk",======Turk=======
 http://bit.ly/Safwanlogo
 #EXTINF:0,TR: A HBR HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5362.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5362.ts
 #EXTINF:0,TR: A Melodi
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5372.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5372.ts
 #EXTINF:0,TR: A Spor HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3843.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3843.ts
 #EXTINF:0,TR: A2 Tv
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5427.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5427.ts
 #EXTINF:0,TR: Adana
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5436.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5436.ts
 #EXTINF:0,TR: Akilli TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5413.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5413.ts
 #EXTINF:0,TR: Altas
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2687.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2687.ts
 #EXTINF:0,TR: Anadolu Vuslat
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5192.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5192.ts
 #EXTINF:0,TR: Animal Planet
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2683.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2683.ts
 #EXTINF:0,TR: AS TV Bursa
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5424.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5424.ts
 #EXTINF:0,TR: Atlas
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5376.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5376.ts
 #EXTINF:0,TR: ATV HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2678.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2678.ts
 #EXTINF:0,TR: Baby TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10930.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10930.ts
 #EXTINF:0,TR: Bengu Turk
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5400.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5400.ts
 #EXTINF:0,TR: Beyaz HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5422.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5422.ts
 #EXTINF:0,TR: Bloomberg
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5379.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5379.ts
 #EXTINF:0,TR: BS TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2748.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2748.ts
 #EXTINF:0,TR: Cartoon Network
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5639.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5639.ts
 #EXTINF:0,TR: Cem TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5402.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5402.ts
 #EXTINF:0,TR: Cinemax
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5367.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5367.ts
 #EXTINF:0,TR: CNN Turk HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2692.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2692.ts
 #EXTINF:0,TR: Damla TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5411.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5411.ts
 #EXTINF:0,TR: DaVinci Learning
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5423.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5423.ts
 #EXTINF:0,TR: Digimax 2 HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/6358.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/6358.ts
 #EXTINF:0,TR: Digimax HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2691.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2691.ts
 #EXTINF:0,TR: Discovery Channel HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10959.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10959.ts
 #EXTINF:0,TR: Discovery Science
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5434.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5434.ts
 #EXTINF:0,TR: Discovery Showcase
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10960.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10960.ts
 #EXTINF:0,TR: Disney Channel HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5440.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5440.ts
 #EXTINF:0,TR: Disney Junior
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10934.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10934.ts
 #EXTINF:0,TR: Dizi TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/6376.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/6376.ts
 #EXTINF:0,TR: Dolunay Int
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5414.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5414.ts
 #EXTINF:0,TR: Dost
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5394.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5394.ts
 #EXTINF:0,TR: Dream Turk
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2703.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2703.ts
 #EXTINF:0,TR: Dream TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2704.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2704.ts
 #EXTINF:0,TR: Duck
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10933.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10933.ts
 #EXTINF:0,TR: Ege
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5420.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5420.ts
 #EXTINF:0,TR: Ekin Turk
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5366.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5366.ts
 #EXTINF:0,TR: Euro D
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5439.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5439.ts
 #EXTINF:0,TR: Eurostar HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2666.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2666.ts
 #EXTINF:0,TR: Fanatik TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2700.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2700.ts
 #EXTINF:0,TR: FB TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5602.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5602.ts
 #EXTINF:0,TR: FB TV Spor
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5416.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5416.ts
 #EXTINF:0,TR: Fil TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5363.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5363.ts
 #EXTINF:0,TR: Flash TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2685.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2685.ts
 #EXTINF:0,TR: Fox Crime
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5419.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5419.ts
 #EXTINF:0,TR: Fox HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5421.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5421.ts
 #EXTINF:0,TR: Full Aksiyon
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5368.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5368.ts
 #EXTINF:0,TR: FX TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/6361.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/6361.ts
 #EXTINF:0,TR: GS TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5369.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5369.ts
 #EXTINF:0,TR: Haber Turk HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2693.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2693.ts
 #EXTINF:0,TR: Halk
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5406.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5406.ts
 #EXTINF:0,TR: Hilal
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5384.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5384.ts
 #EXTINF:0,TR: History
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5431.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5431.ts
 #EXTINF:0,TR: IMC
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5435.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5435.ts
 #EXTINF:0,TR: Kanal 24
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5405.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5405.ts
 #EXTINF:0,TR: Kanal 26
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5398.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5398.ts
 #EXTINF:0,TR: Kanal 5
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5396.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5396.ts
 #EXTINF:0,TR: Kanal 7 Avrupa
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2684.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2684.ts
 #EXTINF:0,TR: Kanal 7 HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2686.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2686.ts
 #EXTINF:0,TR: Kanal A
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5425.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5425.ts
 #EXTINF:0,TR: Kanal B
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5399.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5399.ts
 #EXTINF:0,TR: Kanal D HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2680.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2680.ts
 #EXTINF:0,TR: Kanal Firat
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5429.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5429.ts
 #EXTINF:0,TR: Kanal Tek
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5364.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5364.ts
 #EXTINF:0,TR: Kardelen TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5380.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5380.ts
 #EXTINF:0,TR: Kon TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5403.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5403.ts
 #EXTINF:0,TR: Koy TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5407.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5407.ts
 #EXTINF:0,TR: Kral Pop
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5355.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5355.ts
 #EXTINF:0,TR: Kral TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5360.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5360.ts
 #EXTINF:0,TR: Lalegul TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4508.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4508.ts
 #EXTINF:0,TR: Loca 1
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5432.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5432.ts
 #EXTINF:0,TR: Loca 3
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5393.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5393.ts
 #EXTINF:0,TR: Loca2
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5412.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5412.ts
 #EXTINF:0,TR: Minika Cocuk
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10931.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10931.ts
 #EXTINF:0,TR: Minika Go
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2694.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2694.ts
 #EXTINF:0,TR: Movie Smart Gold
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5383.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5383.ts
 #EXTINF:0,TR: Movie Smart Turk HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5374.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5374.ts
 #EXTINF:0,TR: Moviemax Star
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10957.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10957.ts
 #EXTINF:0,TR: Moviemax Turk HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5193.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5193.ts
 #EXTINF:0,TR: Nick JR
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/11079.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/11079.ts
 #EXTINF:0,TR: Nickelodeon
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10932.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10932.ts
 #EXTINF:0,TR: NR1 HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2705.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2705.ts
 #EXTINF:0,TR: NTV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5417.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5417.ts
 #EXTINF:0,TR: NTV Spor HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3310.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3310.ts
 #EXTINF:0,TR: Planet Turk
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5359.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5359.ts
 #EXTINF:0,TR: Planete Cocuk
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5356.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5356.ts
 #EXTINF:0,TR: Planete Mutfak
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5358.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5358.ts
 #EXTINF:0,TR: Planete Pembe
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5357.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5357.ts
 #EXTINF:0,TR: Power Turk HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2706.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2706.ts
 #EXTINF:0,TR: Power TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2707.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2707.ts
 #EXTINF:0,TR: Rumeli
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5397.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5397.ts
 #EXTINF:0,TR: Samanyolu TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5378.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5378.ts
 #EXTINF:0,TR: Semerkand TV HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2891.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2891.ts
 #EXTINF:0,TR: Seymen
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5388.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5388.ts
 #EXTINF:0,TR: Show HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2679.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2679.ts
 #EXTINF:0,TR: Show Max
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5409.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5409.ts
 #EXTINF:0,TR: Show Tv Avrupa
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5426.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5426.ts
 #EXTINF:0,TR: Sky 360
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5386.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5386.ts
 #EXTINF:0,TR: Sports TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3072.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3072.ts
 #EXTINF:0,TR: Star TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2681.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2681.ts
 #EXTINF:0,TR: Tarim TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2696.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2696.ts
 #EXTINF:0,TR: Tay TV
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5361.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5361.ts
 #EXTINF:0,TR: TGRT Haber HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5418.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5418.ts
 #EXTINF:0,TR: Tivibu Spor 1 HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4652.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4652.ts
 #EXTINF:0,TR: Tivibu Spor 2 HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5343.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5343.ts
 #EXTINF:0,TR: TLC
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2890.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2890.ts
 #EXTINF:0,TR: TMB
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5382.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5382.ts
 #EXTINF:0,TR: TRT 1 HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2608.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2608.ts
 #EXTINF:0,TR: TRT AVAZ HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2670.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2670.ts
 #EXTINF:0,TR: TRT Belgesel HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2676.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2676.ts
 #EXTINF:0,TR: TRT Cocuk
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2697.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2697.ts
 #EXTINF:0,TR: TRT Diyanet HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2677.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2677.ts
 #EXTINF:0,TR: TRT HABER HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2667.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2667.ts
 #EXTINF:0,TR: TRT Kurdi HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2671.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2671.ts
 #EXTINF:0,TR: TRT Muzik HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2702.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2702.ts
 #EXTINF:0,TR: TRT OKUL
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2672.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2672.ts
 #EXTINF:0,TR: TRT SPOR HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2675.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2675.ts
 #EXTINF:0,TR: TRT Turk HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2668.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2668.ts
 #EXTINF:0,TR: TRT World HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2669.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2669.ts
 #EXTINF:0,TR: Türkmax Gurme HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5387.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5387.ts
 #EXTINF:0,TR: TV 2 HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2695.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2695.ts
 #EXTINF:0,TR: TV 2000
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5395.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5395.ts
 #EXTINF:0,TR: TV 6
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5381.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5381.ts
 #EXTINF:0,TR: TV EM
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5415.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5415.ts
 #EXTINF:0,TR: TV Net
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5375.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5375.ts
 #EXTINF:0,TR: TV52 Ordu
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5410.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5410.ts
 #EXTINF:0,TR: TV8 HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5392.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5392.ts
 #EXTINF:0,TR: TVEM
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2688.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2688.ts
 #EXTINF:0,TR: Ulke HD
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5408.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5408.ts
 #EXTINF:0,TR: Ulusal Kanal
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5404.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5404.ts
 #EXTINF:0,TR: World Travel Channel
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3635.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3635.ts
 #EXTINF:0,TR: Yaban
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5391.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5391.ts
 #EXTINF:0,TR: Yol
-http://1r3ir4s75g.iran-cccam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5365.ts
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5365.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/4Gybfb" group-title="ABOUT ME",=======ABOUT ME=========
 http://bit.ly/Safwanlogo
