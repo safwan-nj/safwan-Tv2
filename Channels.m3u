@@ -97,7 +97,7 @@ https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/bXRkbR" group-title="ROTANA",======ROTANA=======
+#EXTINF:-1 tvg-logo="https://goo.gl/dYWQqH" group-title="ROTANA",======ROTANA=======
 http://bit.ly/Safwanlogo
 
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
@@ -112,7 +112,7 @@ http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 
-#EXTINF:-1 tvg-logo="https://goo.gl/C4As54",Rotana cinema EGY
+#EXTINF:-1 tvg-logo="https://goo.gl/HPY1B7",Rotana cinema EGY
 http://streaming.i-sat.tv:1935/live/mrtc/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/vPnuhL",Rotana cinema KSA
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2923.ts
