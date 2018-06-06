@@ -56,7 +56,7 @@ http://82.137.248.16:1935/RDimshq/RDimshqLive/chunklist.m3u8
 http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/n3d6Yu" group-title="LEBANON",======LEBANON=======
+#EXTINF:-1 tvg-logo="https://goo.gl/xZabzC" group-title="LEBANON",======LEBANON=======
 http://bit.ly/Safwanlogo
 
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
@@ -71,23 +71,23 @@ http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 
-#EXTINF:-1 tvg-logo="https://goo.gl/RqLZEG",Aljadeed
+#EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed
 http://youness-export.com/tv/aljadeed
-#EXTINF:-1 tvg-logo="https://goo.gl/26ApJZ",MTV lebanon
+#EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon
 https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/gPgPWd",LBC
+#EXTINF:-1 tvg-logo="https://goo.gl/68P6w9",LBC
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LDC_logo_new.png",LDC
+#EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
 http://streaming.i-sat.tv:8081/live/ldcle/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/W8NiAQ",OTV
+#EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
 http://youness-export.com/tv/otv
-#EXTINF:-1 tvg-logo="https://goo.gl/CXxkJW",NBN
+#EXTINF:-1 tvg-logo="https://goo.gl/qXKqRV",NBN
 http://youness-export.com/tv/nbn
-#EXTINF:-1 tvg-logo="https://goo.gl/W6RZbF",Future TV
+#EXTINF:-1 tvg-logo="https://goo.gl/swcwnE",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/BNkoss" ,Al Mayadeen
+#EXTINF:-1 tvg-logo="https://goo.gl/F3xjPh" ,Al Mayadeen
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/N9pFnM" ,Al Manar
+#EXTINF:-1 tvg-logo="https://goo.gl/KWUb31" ,Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvNWExNmJjYjA5MWY5Yy5wbmc=/150_150.png",Aghani
 https://svs.itworkscdn.net/aghanilive/aghanilive/chunklist.m3u8
@@ -112,22 +112,20 @@ http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 
-#EXTINF:-1 tvg-logo="https://goo.gl/ZoEbxG",Rotana cinema 1
-http://selevision9896-i.akamaihd.net/hls/live/219378/98961/1.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/ZoEbxG",Rotana cinema 2
+#EXTINF:-1 tvg-logo="https://goo.gl/vPnuhL",Rotana cinema EGY
 http://streaming.i-sat.tv:1935/live/mrtc/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/8ATo9a",Rotana aflam
-http://selevision9879-i.akamaihd.net/hls/live/219141/98793/master.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/fKt17f",Rotana classic
-http://selevision9879-i.akamaihd.net/hls/live/219144/98796/master.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/cQyskL",Rotana music
-http://selevision9889-i.akamaihd.net/hls/live/219309/98892/master.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/mQNyyw",Rotana clip
-http://selevision9888-i.akamaihd.net/hls/live/219301/98884/master.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/WBucUw",Rotana masryia
-http://selevision9893-i.akamaihd.net/hls/live/219353/98936/master.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/11vBxk",Rotana khalijia
-http://selevision9879-i.akamaihd.net/hls/live/219139/98791/master.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/vPnuhL",Rotana cinema KSA
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2923.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/gArRB3",Rotana classic
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2929.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/jmqpbp",Rotana music
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2932.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/NZ3ZUa",Rotana clip
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2931.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/we1jqe",Rotana masryia
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2928.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/hAZ938",Rotana khalijia
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2930.ts
 
 
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/ogImageBinary/76eabaeb679e2466a4266304155e9ccba43dd3eb/mbc_OG.png" group-title="MBC",======MBC=======
