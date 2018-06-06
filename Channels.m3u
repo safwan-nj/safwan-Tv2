@@ -275,7 +275,7 @@ http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4271.ts
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4273.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/s5sZ1a",Nile Life
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4270.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/t7ZytZ",Watan tv
+#EXTINF:-1 tvg-logo="https://goo.gl/z2kS9Y",Watan tv
 http://188.166.3.79:8081/watantv_source2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Ejvw6x",MehwarTV
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2815.ts
@@ -293,78 +293,58 @@ http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3378.ts
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4313.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/899jEC",Al Nahar One
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4311.ts
-
-#EXTINF:-1 tvg-logo="https://goo.gl/JiRmWX" group-title="IRAQ",=====IRAQ========
+#EXTINF:-1 tvg-logo="https://goo.gl/yXJFyG" group-title="IRAQ",=====IRAQ========
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
-
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20sumaria.jpg",Sumaria
+#EXTINF:-1 tvg-logo="https://goo.gl/QHufyd",Sumaria
 http://youness-export.com/tv/sumaria
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20sharqiya.jpg",AlSharqiya
+#EXTINF:-1 tvg-logo="https://goo.gl/6pBhKT",AlSharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.alqurtasnews.com/NewsImages/NB-186164-636087828264798947.jpg",Hounabaghdad
+#EXTINF:-1 tvg-logo="https://goo.gl/1rff7M",Houna Baghdad
 https://svs.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.dijlah.tv/templates/defaultNew/images/logo-sticky@2x.png",Dejlah
+#EXTINF:-1 tvg-logo="https://goo.gl/s66rYF",Dejlah
 http://91.134.145.75/Dijlah/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20rasheed.jpg",AL Rasheed TV
+#EXTINF:-1 tvg-logo="https://goo.gl/d4gkyy",AL Rasheed TV
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.msrawytop.com/wp-content/uploads/2014/10/103.png",baghdad
-http://212.18.231.213:1935/baghdad/ngrp:baghdad_all/gmswf.m3u8
-#EXTINF:-1 tvg-logo="http://www.livetvswatch.com/uploads/afaq-tv-live-from-iraq.png",afaqtv
-http://212.18.231.213:1935/afaqtv/afaqtv_source/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/images/alhadath-tv.jpg",Hadath Iraq TV
-http://streamer11.elementssys.com:8080/demo/Hadath/index.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-N2Cd-IFNP5w/VtFcmbtc7II/AAAAAAAAN44/hNLbypbLRjU/s1600/anb_jo.png",Anb iraq
+#EXTINF:-1 tvg-logo="https://goo.gl/LgfChV",Anb iraq
 http://185.27.116.54:1935/live/anb.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/4pX7zG" group-title="TUNISIA",=====TUNISIA========
+#EXTINF:-1 tvg-logo="https://goo.gl/jqFtgf",Baghdad
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3463.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/zfXXBu" group-title="TUNISIA",=====TUNISIA========
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
-
-#EXTINF:0 tvg-logo="https://tunisie14.tn/www/img/media/television-tunisienne/28.jpg",Alwataniya 1
-http://streaming.i-sat.tv:8081/live/tunsia1/chunks.m3u8
-#EXTINF:0 tvg-logo="https://goo.gl/qYB7Lw",Alwataniya 2
-http://www.elahmad.com/tv/m3u8/arab_cast1.m3u8?id=watania2
-#EXTINF:0 tvg-logo="http://www.tunisia-land.net/uploads/thumbs/85a5bd62c-1.jpg",Nesma Live
+#EXTINF:0 tvg-logo="https://goo.gl/oUB4Dz",Alwataniya 1
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2854.ts
+#EXTINF:0 tvg-logo="https://goo.gl/uUDT1H",Alwataniya 2
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2821.ts
+#EXTINF:0 tvg-logo="https://goo.gl/LPVPmr",Nesma Live
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1500000-audio_AACL_und_65200_120=65200.m3u8
-#EXTINF:0 tvg-logo="http://www.shahidhd.tv/video/uploads/thumbs/b7724aff1-1.jpg",Nesma Green
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1500000-audio_AACL_und_65200_120=65200.m3u8
-#EXTINF:0 tvg-logo="https://goo.gl/kRvFki",Elhiwar Ettounsi
-http://158.58.172.243:8081/edge/at/chunks.m3u8?nimblesessionid=5185446&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDE4IDc6MDk6MzQgUE0maGFzaF92YWx1ZT1DZkxadkphOEhhYlZKdGNaTkNCSXBBPT0mdmFsaWRtaW51dGVzPTU=
-
-#EXTINF:0 tvg-logo="http://arabtvz.com/video-elements/files/2009/10/zitounatv.jpg",Zaytouna
+#EXTINF:0 tvg-logo="https://goo.gl/vDQcuZ",Elhiwar Ettounsi
+http://158.58.172.243:8081/edge/at/chunks.m3u8
+#EXTINF:0 tvg-logo="https://goo.gl/HhKJYK",Zaytouna
 http://wowzacontrol.com:1935/8088/8088/chunklist_w194555271.m3u8
-
-#EXTINF:0,Jawhara Fm
+#EXTINF:0 tvg-logo="https://goo.gl/G91nAk",Jawhara Fm
 http://streaming.toutech.net/live/jfm/index.m3u8
-
-
-
-
-
-
+#EXTINF:0 tvg-logo="https://goo.gl/FaUDEs",Hannibal
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3167.ts
+#EXTINF:0 tvg-logo="https://goo.gl/NAsNkw",Tunisia First TV
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3352.ts
+#EXTINF:0 tvg-logo="https://goo.gl/G2Yje2",Ettasiaa
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3382.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/L5nsUw" group-title="NEWS",=====NEWS========
 http://bit.ly/Safwanlogo
 
