@@ -16,7 +16,7 @@ http://bit.ly/Safwanlogo
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf",Syria
 http://82.137.248.16:1935/Sat/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="hhttps://goo.gl/wsGL6Z",Syria drama
+#EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
 http://82.137.248.16:1935/Drama/stream25042018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
 http://82.137.248.16:1935/Snews/stream25042018/chunklist.m3u8
