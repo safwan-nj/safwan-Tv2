@@ -1,5 +1,5 @@
 
-#EXTINF:-1 tvg-logo="https://goo.gl/Sgq2ZM" group-title="SYRIA",======SYRIA=======
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="SYRIA",======SYRIA=======
 http://bit.ly/Safwanlogo
 
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
@@ -14,50 +14,47 @@ http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 
-#EXTINF:-1 tvg-logo="https://goo.gl/kN6gCH",Syria
+#EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf",Syria
 http://82.137.248.16:1935/Sat/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/xcrVtL",Syria drama
+#EXTINF:-1 tvg-logo="hhttps://goo.gl/wsGL6Z",Syria drama
 http://82.137.248.16:1935/Drama/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/uPNrS2",Syria news
+#EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
 http://82.137.248.16:1935/Snews/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/LYksJ1",NOOR ALSHAM HD
+#EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",NOOR ALSHAM HD
 http://82.137.248.16:1935/Nour/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/2EmWuU",SamaTV
+#EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",SamaTV
 http://sama-tv.net:1935/live/samatv/gmswf.m3u8
-#EXTINF:-1 tvg-logo="http://www.lanacanal.tv/assets/TV/img/lana_logo.png",Lana Souria
+#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Souria
 http://mtqtqloqdxtlive.mediatriple.net/mtqtqloqdxtlive/u_stream_5ae30a53230df_3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/qpnMGC",Ogarit
+#EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
 http://82.137.248.16:1935/Ugarit/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/vQx65r",Syrian Education
+#EXTINF:-1 tvg-logo="https://goo.gl/VmQutr",Syrian Education
 http://82.137.248.16:1935/SEdu/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/vtv9KG",Ninar
+#EXTINF:-1 tvg-logo="https://goo.gl/tE95C8",Ninar
 http://5.39.218.151:1984/live/ch1.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/5chCYK",Souryana HD
+#EXTINF:-1 tvg-logo="https://goo.gl/UT3KyH",Souryana HD
 http://82.137.248.16:1935/Souryana/stream25042018/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://goo.gl/71Av9p",Souria Tv
+#EXTINF:0 tvg-logo="https://goo.gl/EpsEdX",Souria Tv
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/yJKdwt",Halab-Today
+#EXTINF:-1 tvg-logo="https://goo.gl/R8GXvz",Halab-Today
 http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/SFD1Gb",Orient
+#EXTINF:-1 tvg-logo="https://goo.gl/eiDkcF",Orient
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/guozZR",alminber
+#EXTINF:-1 tvg-logo="https://goo.gl/yA8b7r",alminber
 http://itats.dynv6.net:1935/live/alminbar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/j1tkCb",Qamishlo
+#EXTINF:-1 tvg-logo="https://goo.gl/HhXY69",Qamishlo
 http://itats.dynv6.net:1935/live/Qamishlo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/h4cajx",ANN
+#EXTINF:-1 tvg-logo="https://goo.gl/4Uds7Q",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/vJAHDJ",DORAR TV
+#EXTINF:-1 tvg-logo="https://goo.gl/Gspd8D",DORAR TV
 http://de.live.net.sa:1935/live/dorar/gmswf.m3u8?v=1558393494
-#EXTINF:-1 tvg-logo="https://goo.gl/27d5c2",Radio Sham FM
+#EXTINF:-1 tvg-logo="https://goo.gl/HfUwYv",Radio Sham FM
 http://shamfm.info:8200/;
-#EXTINF:-1 tvg-logo="https://goo.gl/tUJVbD",Radio Damascus
-http://82.137.248.20:1935/RDimshq/RDimshqLive/chunklist_w631063346.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/CsyaLP",Radio Sawt Alshabab
-http://82.137.248.20:1935/RShabab/RShababLive/chunklist_w96167931.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/Dgddjq",Radio Amwaj
-http://82.137.248.20:1935/RAmwaj/RAmwajLive/chunklist_w710179176.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/9mykra",Radio Zanobia
-http://82.137.248.20:1935/RZenobia/RZenobiaLive/chunklist_w1279437512.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/mYfhGn",Radio Damascus
+http://82.137.248.16:1935/RDimshq/RDimshqLive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/UCQz7X",Radio Sawt Alshabab
+http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/n3d6Yu" group-title="LEBANON",======LEBANON=======
 http://bit.ly/Safwanlogo
