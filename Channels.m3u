@@ -100,7 +100,7 @@ http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2929.ts
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2932.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/NZ3ZUa",Rotana clip
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2931.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/we1jqe",Rotana masryia
+#EXTINF:-1 tvg-logo="https://goo.gl/we1jqe",Rotana Drama
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2928.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/hAZ938",Rotana khalijia
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2930.ts
@@ -235,59 +235,64 @@ http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2590.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/YjhnqD" group-title="EGYPT",======EGYPT=======
+#EXTINF:-1 tvg-logo="https://goo.gl/H6Vx6U" group-title="EGYPT",======EGYPT=======
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WBucUw",rotanamasr
+#EXTINF:-1 tvg-logo="https://goo.gl/we1jqe",Rotana Drama
 http://itats.dynv6.net:1935/live/rotanamasr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/YpqjwY",dmc
-http://itats.dynv6.net:1935/live/dmc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2hhbm5lbHMvNmMwZWU2ODMwYThjZTQ2YTZkYjdmOGQ3ZjhjOWI3MGQucG5n/150_150.png",dmc Drama
+#EXTINF:-1 tvg-logo="https://goo.gl/32dqnj",dmc
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3080.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/ecD8Q9",dmc Drama
 http://streaming.i-sat.tv:8081/live/dmcdrama/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/V39kzK",cbc
-http://itats.dynv6.net:1935/live/cbcone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/files/22/channels/c5f5caa35295799f947c172af3c0ebb5.png",cbc drama
+#EXTINF:-1 tvg-logo="https://goo.gl/KvzaEC",cbc
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3380.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/RFtbdU",cbc drama
 http://itats.dynv6.net:1935/live/cbc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvMjIvY2hhbm5lbHMvNWEwODA1NDM1MDk4Zi5wbmc=/150_150.png",cbc Sofra
-http://streaming.i-sat.tv:1935/live/csofra/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/rWiJUs",Elsharq tv
+#EXTINF:-1 tvg-logo="https://goo.gl/FoP5pB",cbc Sofra
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4315.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/vy1MgL",CBC Extra
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4314.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/hiCrAX",Elsharq tv
 http://46.101.172.110:8081/elsharqtv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/xWdY88",Al Kahera Wal Nas
-http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/azBUKZ",Mekameleen
-http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.seevii.com/stb/item//tv_live1/706.png",Nile Cinema
-http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/Dakxd4",Nile_drama
-http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_drama&t=ar
-#EXTINF:-1 tvg-logo="http://iphone-mrushdi.com/Live_TV/Logo/nile_comedy.png",Nile_comedy
-http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_comedy&t=ar
-#EXTINF:-1 tvg-logo="https://goo.gl/NTFUxM",Watan tv
-http://188.166.3.79:8081/watantv_source2/live/playlist.m3u8?v=1558393494
-#EXTINF:-1 tvg-logo="https://goo.gl/VjngqE",MehwarTV
-http://radiofm.onlinehorizons.net:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1558393494
-#EXTINF:-1 tvg-logo="https://goo.gl/HbF9UX",Alhayat
-http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=alhayat_2&t=ar
-#EXTINF:-1 tvg-logo="https://goo.gl/sgL87G",Al_nahar
-http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar&t=ar
-#EXTINF:-1 tvg-logo="https://goo.gl/F2SJD7",Al_nahar_youm
-http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar_youm&t=ar
-#EXTINF:-1 tvg-logo="https://goo.gl/PFmLPy",Al_nahar_drama
-http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar_drama&t=ar
-#EXTINF:-1 tvg-logo="https://goo.gl/3NvRLT",Al_nahar_sport
-http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar_sport&t=ar
+#EXTINF:-1 tvg-logo="https://goo.gl/zP5fMw",Mekameleen
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/LFSFG7",Nile Cinema
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4267.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/RirPxG",Nile_drama
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4269.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/ixcrbF",Nile_comedy
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4268.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/vC2b3s",Nile Cultural
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4271.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/rUVXhi",Nile Family
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4273.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/s5sZ1a",Nile Life
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4270.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/t7ZytZ",Watan tv
+http://188.166.3.79:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Ejvw6x",MehwarTV
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2815.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/ikqqeY",Alhayat 1
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3385.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/rNdKYf",Al Hayat +2
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4266.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/wLoesw",Al Hayat Musalsalat
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3381.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/5zEe7i",Al Nahar Al Yawm
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4337.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/9bA5dd",Al Nahar Cinema
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3378.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/8oUGYt",Al Nahar Drama
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4313.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/899jEC",Al Nahar One
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4311.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/JiRmWX" group-title="IRAQ",=====IRAQ========
 http://bit.ly/Safwanlogo
@@ -657,16 +662,9 @@ http://38.96.148.30:1935/live/omantv2//playlist.m3u8
 http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
 #EXTINF:-1,Al Masirah
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
-#EXTINF:-1,CBC
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
-#EXTINF:-1,Al Kahera Wal Nas
-http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
-#EXTINF:-1,El Sharq [Off]
-http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
-#EXTINF:-1,Mekameleen
-http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
-#EXTINF:-1,Nile Cinema
-http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
+
+
+
 #EXTINF:-1,Nessma [Geo]
 http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
 #EXTINF:-1,Nessma*
@@ -713,8 +711,6 @@ http://selevision9876-i.akamaihd.net/hls/live/219117/98769/master.m3u8
 http://selevision9877-i.akamaihd.net/hls/live/219119/98771/master.m3u8
 #EXTINF:-1,Al Nahar Drama
 http://selevision9877-i.akamaihd.net/hls/live/219120/98772/master.m3u8
-#EXTINF:-1,CBC
-http://selevision9877-i.akamaihd.net/hls/live/219121/98773/master.m3u8
 #EXTINF:-1,France 24
 http://selevision9877-i.akamaihd.net/hls/live/219124/98776/master.m3u8
 #EXTINF:-1,Al Qahira Wal Nas
@@ -747,12 +743,7 @@ http://selevision9881-i.akamaihd.net/hls/live/219188/98815/master.m3u8
 http://selevision9881-i.akamaihd.net/hls/live/219192/98819/master.m3u8
 #EXTINF:-1,Al Dhafra
 http://selevision9882-i.akamaihd.net/hls/live/219194/98821/master.m3u8
-#EXTINF:-1,Nile Comedy
-http://selevision9882-i.akamaihd.net/hls/live/219201/98827/master.m3u8
-#EXTINF:-1,Nile Cinema
-http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
-#EXTINF:-1,CBC Drama
-http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
+
 #EXTINF:-1,Al Hayat
 http://selevision9884-i.akamaihd.net/hls/live/219262/98846/master.m3u8
 #EXTINF:-1,Dubai
