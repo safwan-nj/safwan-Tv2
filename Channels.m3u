@@ -14,41 +14,39 @@ http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 
-#EXTINF:-1 tvg-logo="https://goo.gl/NELEu4",Syria
+#EXTINF:-1 tvg-logo="https://goo.gl/kN6gCH",Syria
 http://82.137.248.16:1935/Sat/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/6VDvyT",Syria drama
+#EXTINF:-1 tvg-logo="https://goo.gl/xcrVtL",Syria drama
 http://82.137.248.16:1935/Drama/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/Somnnp",Syria news
+#EXTINF:-1 tvg-logo="https://goo.gl/uPNrS2",Syria news
 http://82.137.248.16:1935/Snews/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/QRjirn",NOOR ALSHAM HD
+#EXTINF:-1 tvg-logo="https://goo.gl/LYksJ1",NOOR ALSHAM HD
 http://82.137.248.16:1935/Nour/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/7DC2B4",SamaTV
+#EXTINF:-1 tvg-logo="https://goo.gl/2EmWuU",SamaTV
 http://sama-tv.net:1935/live/samatv/gmswf.m3u8
 #EXTINF:-1 tvg-logo="http://www.lanacanal.tv/assets/TV/img/lana_logo.png",Lana Souria
 http://mtqtqloqdxtlive.mediatriple.net/mtqtqloqdxtlive/u_stream_5ae30a53230df_3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/archive/news/n1502280499.png",Ogarit
+#EXTINF:-1 tvg-logo="https://goo.gl/qpnMGC",Ogarit
 http://82.137.248.16:1935/Ugarit/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/J1wLfs",Syrian Education
+#EXTINF:-1 tvg-logo="https://goo.gl/vQx65r",Syrian Education
 http://82.137.248.16:1935/SEdu/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/UgJxPg",Syria is here
+#EXTINF:-1 tvg-logo="https://goo.gl/vtv9KG",Ninar
 http://5.39.218.151:1984/live/ch1.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/BsYcK8",Souryana HD
+#EXTINF:-1 tvg-logo="https://goo.gl/5chCYK",Souryana HD
 http://82.137.248.16:1935/Souryana/stream25042018/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://www.syria.tv/sites/all/themes/syriatv/images/logo.png",Souria Tv
+#EXTINF:0 tvg-logo="https://goo.gl/71Av9p",Souria Tv
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/JKjU7r",Halab-Today
+#EXTINF:-1 tvg-logo="https://goo.gl/yJKdwt",Halab-Today
 http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/HgMfBA",Orient
+#EXTINF:-1 tvg-logo="https://goo.gl/SFD1Gb",Orient
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/GP5JXN",alminber
+#EXTINF:-1 tvg-logo="https://goo.gl/guozZR",alminber
 http://itats.dynv6.net:1935/live/alminbar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/PRZoEL",nabd syria
-http://itats.dynv6.net:1935/live/nabd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/zeScPP",Qamishlo
+#EXTINF:-1 tvg-logo="https://goo.gl/j1tkCb",Qamishlo
 http://itats.dynv6.net:1935/live/Qamishlo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/a7VNXv",ANN
+#EXTINF:-1 tvg-logo="https://goo.gl/h4cajx",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/FEKt77",DORAR TV
+#EXTINF:-1 tvg-logo="https://goo.gl/vJAHDJ",DORAR TV
 http://de.live.net.sa:1935/live/dorar/gmswf.m3u8?v=1558393494
 #EXTINF:-1 tvg-logo="https://goo.gl/27d5c2",Radio Sham FM
 http://shamfm.info:8200/;
