@@ -388,33 +388,25 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream/playlist.m3u
 #EXTINF:-1 tvg-logo="https://goo.gl/CVxXGN",Al Hiwar
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3447.ts
 
-#EXTINF:-1 tvg-logo="https://goo.gl/fjgqZq" group-title="OTHER ARAB",=====OTHER ARAB========
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OTHER ARAB",=====OTHER ARAB========
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
 http://bit.ly/Safwanlogo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
-
-#EXTINF:-1 tvg-logo="https://goo.gl/CKkv7j",nat geo
+#EXTINF:-1 tvg-logo="https://goo.gl/fQkZGt",nat geo
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%201.jpg",saudi thaqafya
-http://selevision9885-i.akamaihd.net/hls/live/219271/98855/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai.jpg",dubai
-http://selevision9891-i.akamaihd.net/hls/live/219333/98916/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sama%20dubai.jpg",sama dubai
-http://selevision9878-i.akamaihd.net/hls/live/219135/98787/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai%20one.jpg",dubai one
-http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b750000.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-Zaman-TV_o.jpg",dubai zaman
-http://selevision9886-i.akamaihd.net/hls/live/219281/98865/master.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/gPJMso",sama dubai
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2797.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/VCTGaq",dubai one
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/kNwQnx",dubai zaman
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3044.ts
+
 #EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/noor%20dubai.jpg",noor dubai
 http://selevision9895-i.akamaihd.net/hls/live/219374/98957/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/emirate_logo.png",emarat
