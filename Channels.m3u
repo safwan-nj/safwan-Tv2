@@ -361,6 +361,8 @@ http://bit.ly/Safwanlogo
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FMuNVJ",Aljazeera
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/ApfiLZ",Al Jazeera Mubashir
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3105.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/1qk56w",Alarabiyia
 http://live.alarabiya.net/alarabiya/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/3KqyJ8",Alhadath
@@ -383,6 +385,8 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/iZjucR",NRT Arabiya
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/CVxXGN",Al Hiwar
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3447.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/fjgqZq" group-title="OTHER ARAB",=====OTHER ARAB========
 http://bit.ly/Safwanlogo
