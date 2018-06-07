@@ -127,7 +127,7 @@ http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3379.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Masr 2
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4275.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/oXGqeX",Wanasah
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3079.ts
+http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD",======BeIn Sports HD=======
 http://bit.ly/Safwanlogo
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 HD
@@ -209,7 +209,7 @@ http://arabapps.live:8000/live/newapp222/afsfsdfsf/1032.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/6z6oZW",ALKASS Sport 5HD
 http://arabapps.live:8000/live/newapp222/afsfsdfsf/1031.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/jp3VHg",AD Sports 1
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3460.ts
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/622T6X",AD Sports 2
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3461.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/ZYV8Bm",Dubai Sports 1
@@ -218,6 +218,8 @@ http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3955.ts
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2787.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/TBJpxh",Dubai Sports 4
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3953.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/BLTSHm",Dubai Racing
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2747.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/9dyaVx",Nile Sport
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4272.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/yqT9bE",Saudi Sport 
@@ -306,7 +308,6 @@ http://bit.ly/Safwanlogo
 http://youness-export.com/tv/sumaria
 #EXTINF:-1 tvg-logo="https://goo.gl/o1RcAe",Al Iraqiya
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3458.ts
-
 #EXTINF:-1 tvg-logo="https://goo.gl/6pBhKT",AlSharqiya 1
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/6pBhKT",AlSharqiya 2
@@ -321,6 +322,8 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 http://185.27.116.54:1935/live/anb.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/jqFtgf",Baghdad
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3463.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/e2U9ST",Al Taghier
+http://stream1.joinvisions.net:1935/taglive/taghier/media.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/zfXXBu" group-title="TUNISIA",=====TUNISIA========
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
@@ -351,6 +354,22 @@ http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3352.ts
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3382.ts
 #EXTINF:0 tvg-logo="https://goo.gl/vskFGU",Al Insen
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3429.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/YASYFB" group-title="MAROC",=====MAROC========
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/Cpdiby",2M Monde
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3386.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/ZTJaqk",Al Oula
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/LvmxYj",Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Ffrojb",Arrabiaa Althaqafiya
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Kfa6zQ",Al Maghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Dq5q7b",Assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/6k6Wmn",Tamazight
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS",=====NEWS========
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
@@ -367,7 +386,7 @@ http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/1qk56w",Alarabiyia
 http://live.alarabiya.net/alarabiya/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/3KqyJ8",Alhadath
+#EXTINF:-1 tvg-logo="https://goo.gl/HhuU7u",Alhadath
 http://live.alhadath.net/hadath/myStream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/YK24WH",RT Arabic
 https://secure-streams.akamaized.net/rt-arab/index.m3u8
@@ -389,6 +408,16 @@ http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/CVxXGN",Al Hiwar
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3447.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS",=====KIDS========
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/UxV1RC",majed kids 
+http://adtv.ercdn.net/adsport7/adsport7.m3u8 
+#EXTINF:-1 tvg-logo="https://goo.gl/zaUKgm",taha 
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4334.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/xDxDbp",Nour Alshabab
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/5JgvNw",Semsem
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4277.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OTHER ARAB",=====OTHER ARAB========
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
@@ -404,7 +433,7 @@ http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/K2guvh",Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-logo="https://goo.gl/gPJMso",Sama Dubai
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2797.ts
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
 #EXTINF:-1 tvg-logo="https://goo.gl/VCTGaq",Dubai One
 http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/kNwQnx",dubai zaman
@@ -417,42 +446,21 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/3pBjuN",aldhafra
 http://aldafrahtv.noip.us:1935/live/_definst_/myStream1/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%201.jpg",saudi 1
-
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%201.jpg",saudi 2
-
-#EXTINF:-1 tvg-logo="http://pallap.com/up/1421327854.jpg",alresala
-
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/bahrain.jpg",bahrain 1
-
-#EXTINF:-1 tvg-logo="",Libya one
-http://82.212.74.2:8000/live/hls/7308.m3u8
-#EXTINF:-1 tvg-logo="",Libya news
+#EXTINF:-1 tvg-logo="https://goo.gl/R4v8gE",saudi 1
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4357.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/o5WbNV",saudi 2
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4356.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/d88TqU",alresala
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2811.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/oDsViu",bahrain 1
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2858.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/xWdDhB",Libya 24
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3436.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/HQoJeZ",Libya news
 http://starmena.ercdn.net/libyaschannel/libyaschannel.m3u8
-#EXTINF:-1 tvg-logo="",alnabaa
-http://46.101.172.110:8081/alnabaatv_source/nabaatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="",altanasuh
-http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Libya 24
-http://54.154.193.37:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/caXE8LHBm_4/hqdefault.jpg",2M monde
-http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png",aloula
-http://95.81.155.40/5958/index.m3u8
-#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/laayoune.png",al aoula laayoune
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=alaoulainter
-#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png",arriadia
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
-#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya.png",athaqafia 4
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arrabiaa
-#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/almaghribia.png",al maghribia
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=almaghribya
-#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissa.png",assadissa
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=assadissa
-#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/tamazight.png", tamazight tv8
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=tamazight
-#EXTINF:-1 tvg-logo="http://arabicfomny.com/fomnyarabictv/alshorooq_tv_live.jpg",alshorooq sudan vlc
+#EXTINF:-1 tvg-logo="https://goo.gl/whPjSk",alnabaa
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2807.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/FBEfnJ",alshorooq sudan
 rtmp://82.212.74.98:1935/live/7913
 #EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/images/taybatv.jpg",tayba
 http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8
@@ -460,128 +468,72 @@ http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/334.jpg",afriqia2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/YnGKEv",majed kids 
-http://adtv.ercdn.net/adsport7/adsport7.m3u8 
-#EXTINF:-1 tvg-logo="https://goo.gl/ZCJiWH",taha 
-rtmp://93.95.207.36:9200/livepkgr/livestream2 
-#EXTINF:-1 tvg-logo="https://goo.gl/umTVYV",nour kids
-https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Al Taghier
-http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
-#EXTINF:-1,Amen FM 89.5
-http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
-#EXTINF:-1,Semsem
-http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
-#EXTINF:-1,Al Aqsa
+#EXTINF:-1 tvg-logo="https://goo.gl/yK8pQB",Amen FM 89.5
+http://185.27.116.54:1935/live/amn/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Qg2aBV",Al Aqsa
 http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
-
-
-
-#EXTINF:-1,Masdar TV
+#EXTINF:-1 tvg-logo="https://goo.gl/DHcxsi",Masdar TV
 http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
-
-#EXTINF:-1,Wanasah
-http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
-#EXTINF:-1,Al Aan
-http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
-
-
-#EXTINF:-1,CNBC Arabiya
-http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Al Aan
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist.m3u8
 
 
 
-
-
-
-
-
-
-#EXTINF:-1,Dubai Zaman*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1,Dubai Sports
-http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
-#EXTINF:-1,Dubai Sports*
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1,Sama Dubai
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
-#EXTINF:-1,Sama Dubai*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-
-
-#EXTINF:-1,Dubai Racing 1
-http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8
-#EXTINF:-1,Dubai Racing 2
-http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8
-#EXTINF:-1,Abu Dhabi TV
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-
-
-#EXTINF:-1,National Geographic
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",National Geographic
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
-#EXTINF:0,AR: Zee Aflam
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Zee Aflam
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4523.ts
-#EXTINF:0,AR: Zee Alwan
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Zee Alwan
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3414.ts
-#EXTINF:-1,Abu Dhabi Sports
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Abu Dhabi Sports
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1,Abu Dhabi Sports SD
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Abu Dhabi Sports SD
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1,Abu Dhabi Sports SD*
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Abu Dhabi Sports SD*
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1,Abu Dhabi Sports HD
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Abu Dhabi Sports HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Abu Dhabi Sports 2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1,Abu Dhabi Sports 2 SD
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Abu Dhabi Sports 2 SD
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 SD*
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Abu Dhabi Sports 2 SD*
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 HD
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 3
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Abu Dhabi Sports 3
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1,Abu Dhabi Sports 4
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Abu Dhabi Sports 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1,Abu Dhabi Sports 5
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Abu Dhabi Sports 5
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-#EXTINF:-1,Abu Dhabi Sports 6
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Abu Dhabi Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
-#EXTINF:-1,Al Jazeera
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
-
-#EXTINF:-1,Al Jazeera Documentary
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,Al Kass Sports
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1,Al Kass Sports 2
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1,Al Kass Sports 3
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Al Kass Sports 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1,Al Kass Sports 4
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Al Kass Sports 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1,Al Kass Sports 5
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-
-
-#EXTINF:-1,KTV 1
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",KTV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
-#EXTINF:-1,KTV 1*
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",KTV 1*
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
-#EXTINF:-1,KTV 2
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",KTV 2
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
-#EXTINF:-1,KTV 2*
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",KTV 2*
 https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
-#EXTINF:-1,KTV Sport
+#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",KTV Sport
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 #EXTINF:-1,KTV Al Arabi
 https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
@@ -603,38 +555,10 @@ http://38.96.148.30:1935/live/omantv2//playlist.m3u8
 http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
 #EXTINF:-1,Al Masirah
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1,Al Nabaa
-http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
-#EXTINF:-1,Libya 218
-http://91.134.145.75:10001/218tv/218tv/playlist.m3u8
-#EXTINF:-1,Libya TV
-http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 #EXTINF:-1,Dzair TV [Geo]
 http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
 
-#EXTINF:-1,Al Aoula
-http://95.81.155.40/5958/index.m3u8
-#EXTINF:-1,Al Aoula Int'l
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1,Al Aoula Laayoune
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1,Arryadia
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,Arrabiaa
-http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1,Al Maghribia
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1,Assadissa
-http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1,Tamazight
-http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1,Kana TV
-http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
+
 
 
 
