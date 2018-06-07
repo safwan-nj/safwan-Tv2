@@ -14,7 +14,7 @@ http://82.137.248.16:1935/Sat/stream25042018/chunklist.m3u8
 http://82.137.248.16:1935/Drama/stream25042018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
 http://82.137.248.16:1935/Snews/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",NOOR ALSHAM HD
+#EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham HD
 http://82.137.248.16:1935/Nour/stream25042018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",SamaTV
 http://sama-tv.net:1935/live/samatv/gmswf.m3u8
@@ -76,10 +76,10 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/gmswf.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/KWUb31" ,Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i-sat.tv/image/ZmlsZXMvNWExNmJjYjA5MWY5Yy5wbmc=/150_150.png",Aghani
-https://svs.itworkscdn.net/aghanilive/aghanilive/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/97hudG",Arabica TV
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/jBWNeU" group-title="ROTANA",======ROTANA=======
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
@@ -232,9 +232,6 @@ http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2569.ts
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2556.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/EMq3xz",FR: Bein Sports 3 HD
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2590.ts
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/H6Vx6U" group-title="EGYPT",======EGYPT=======
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
@@ -307,8 +304,13 @@ http://bit.ly/Safwanlogo
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/QHufyd",Sumaria
 http://youness-export.com/tv/sumaria
-#EXTINF:-1 tvg-logo="https://goo.gl/6pBhKT",AlSharqiya
+#EXTINF:-1 tvg-logo="https://goo.gl/o1RcAe",Al Iraqiya
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3458.ts
+
+#EXTINF:-1 tvg-logo="https://goo.gl/6pBhKT",AlSharqiya 1
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/6pBhKT",AlSharqiya 2
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/1rff7M",Houna Baghdad
 https://svs.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s66rYF",Dejlah
@@ -362,7 +364,7 @@ http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FMuNVJ",Aljazeera
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/ApfiLZ",Al Jazeera Mubashir
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3105.ts
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/1qk56w",Alarabiyia
 http://live.alarabiya.net/alarabiya/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/3KqyJ8",Alhadath
@@ -387,7 +389,6 @@ http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/CVxXGN",Al Hiwar
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3447.ts
-
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OTHER ARAB",=====OTHER ARAB========
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
@@ -398,37 +399,33 @@ http://bit.ly/Safwanlogo
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/fQkZGt",nat geo
+#EXTINF:-1 tvg-logo="https://goo.gl/fQkZGt",Nat Geo
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/gPJMso",sama dubai
+#EXTINF:-1 tvg-logo="https://goo.gl/K2guvh",Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1 tvg-logo="https://goo.gl/gPJMso",Sama Dubai
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2797.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/VCTGaq",dubai one
+#EXTINF:-1 tvg-logo="https://goo.gl/VCTGaq",Dubai One
 http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/kNwQnx",dubai zaman
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3044.ts
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/9s9b9p",emarat
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1 tvg-logo="https://goo.gl/VCUibL",abu dhabi drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 tvg-logo="https://goo.gl/FXWWmQ",alrai
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/3pBjuN",aldhafra
+http://aldafrahtv.noip.us:1935/live/_definst_/myStream1/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/noor%20dubai.jpg",noor dubai
-http://selevision9895-i.akamaihd.net/hls/live/219374/98957/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/emirate_logo.png",emarat
-http://selevision9876-i.akamaihd.net/hls/live/219114/98766/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/abu%20dhabi%20drama.jpg",abu dhabi drama
-http://selevision9876-i.akamaihd.net/hls/live/219115/98767/master.m3u8
-#EXTINF:-1 tvg-logo="http://c.top4top.net/p_333ybacr1.jpg",Yas
-http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.alraimediagroup.com/MediaGroupAdmin/uploads/images/AlraiTV.jpg",alrai
-http://selevision9878-i.akamaihd.net/hls/live/219129/98781/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.censorshiplebanon.org/img/projects/Kuwait-TV-PX.jpg",kwait 1
-http://selevision9878-i.akamaihd.net/hls/live/219137/98789/master.m3u8
-#EXTINF:-1 tvg-logo="http://live.aldafrah.tv/test/2013/Ramadan/images/NEW-LOGO-2012.png",aldhafra
-http://selevision9882-i.akamaihd.net/hls/live/219194/98821/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%201.jpg",saudi 1
-http://selevision9881-i.akamaihd.net/hls/live/219192/98819/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%201.jpg",saudi 2
-http://selevision9896-i.akamaihd.net/hls/live/219380/98963/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://pallap.com/up/1421327854.jpg",alresala
-http://selevision9891-i.akamaihd.net/hls/live/219329/98912/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/bahrain.jpg",bahrain 1
-http://selevision9888-i.akamaihd.net/hls/live/219299/98883/master.m3u8
+
 #EXTINF:-1 tvg-logo="",Libya one
 http://82.212.74.2:8000/live/hls/7308.m3u8
 #EXTINF:-1 tvg-logo="",Libya news
@@ -469,28 +466,15 @@ http://adtv.ercdn.net/adsport7/adsport7.m3u8
 rtmp://93.95.207.36:9200/livepkgr/livestream2 
 #EXTINF:-1 tvg-logo="https://goo.gl/umTVYV",nour kids
 https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
-#EXTINF:-1,Al Hurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1,BBC
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,Deutsche Welle
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1,NRT
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
-#EXTINF:-1,TRT
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1,LBCi
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
-#EXTINF:-1,Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1,Arabica TV
-https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
-#EXTINF:-1,Hawacom TV
-http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
-#EXTINF:-1,Al Mayadeen
-http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
-#EXTINF:-1,Al Manar
-http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,Al Taghier
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 #EXTINF:-1,Amen FM 89.5
@@ -499,46 +483,29 @@ http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
 http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
 #EXTINF:-1,Al Aqsa
 http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1,Al Forat
-http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
-#EXTINF:-1,Al Rasheed
-http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1,Al Sharqiya
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1,Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+
+
+
 #EXTINF:-1,Masdar TV
 http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
-#EXTINF:-1,Rotana Cinema
-http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
-#EXTINF:-1,Rotana Classic
-http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
-#EXTINF:-1,Rotana Clip
-http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
+
 #EXTINF:-1,Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 #EXTINF:-1,Al Aan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
-#EXTINF:-1,Al Arabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1,Al Dafrah TV
-http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
+
+
 #EXTINF:-1,CNBC Arabiya
 http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
-#EXTINF:-1,Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1,Dubai TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
-#EXTINF:-1,Dubai TV*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1,Dubai One
-http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
-#EXTINF:-1,Dubai One*
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/master.m3u8
-#EXTINF:-1,Dubai One**
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1,Dubai Zaman
-http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,Dubai Zaman*
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1,Dubai Sports
@@ -549,16 +516,16 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
 #EXTINF:-1,Sama Dubai*
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1,YAS Sports
-http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
+
+
 #EXTINF:-1,Dubai Racing 1
 http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8
 #EXTINF:-1,Dubai Racing 2
 http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8
 #EXTINF:-1,Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1,Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+
+
 #EXTINF:-1,National Geographic
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
 #EXTINF:0,AR: Zee Aflam
@@ -591,8 +558,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
 #EXTINF:-1,Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
-#EXTINF:-1,Al Jazeera Mubasher
-http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
+
 #EXTINF:-1,Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1,Al Kass Sports
@@ -605,8 +571,8 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1,Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,Al Rai
-http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+
+
 #EXTINF:-1,KTV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
 #EXTINF:-1,KTV 1*
@@ -640,10 +606,8 @@ http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 
 
 
-#EXTINF:-1,Nessma [Geo]
-http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
-#EXTINF:-1,Nessma*
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+
+
 #EXTINF:-1,Al Nabaa
 http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
 #EXTINF:-1,Libya 218
@@ -652,8 +616,7 @@ http://91.134.145.75:10001/218tv/218tv/playlist.m3u8
 http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 #EXTINF:-1,Dzair TV [Geo]
 http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
-#EXTINF:-1,Ennahar TV
-http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
+
 #EXTINF:-1,Al Aoula
 http://95.81.155.40/5958/index.m3u8
 #EXTINF:-1,Al Aoula Int'l
@@ -672,117 +635,7 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1,Kana TV
 http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
-#EXTINF:-1,abu dhabi Emarat
-http://selevision9876-i.akamaihd.net/hls/live/219113/98765/master.m3u8
-#EXTINF:-1,abu dhabi
-http://selevision9876-i.akamaihd.net/hls/live/219114/98766/master.m3u8
-#EXTINF:-1,abu dhabi drama
-http://selevision9876-i.akamaihd.net/hls/live/219115/98767/master.m3u8
-#EXTINF:-1,Syria Drama
-http://selevision9876-i.akamaihd.net/hls/live/219116/98768/master.m3u8
-#EXTINF:-1,Roya
-http://selevision9876-i.akamaihd.net/hls/live/219117/98769/master.m3u8
-#EXTINF:-1,Al Nahar
-http://selevision9877-i.akamaihd.net/hls/live/219119/98771/master.m3u8
-#EXTINF:-1,Al Nahar Drama
-http://selevision9877-i.akamaihd.net/hls/live/219120/98772/master.m3u8
-#EXTINF:-1,France 24
-http://selevision9877-i.akamaihd.net/hls/live/219124/98776/master.m3u8
-#EXTINF:-1,Al Qahira Wal Nas
-http://selevision9877-i.akamaihd.net/hls/live/219125/98777/master.m3u8
-#EXTINF:-1,Al Rai
-http://selevision9878-i.akamaihd.net/hls/live/219129/98781/master.m3u8
-#EXTINF:-1,Yas
-http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
-#EXTINF:-1,abu dhabi sport 2
-http://selevision9878-i.akamaihd.net/hls/live/219133/98785/master.m3u8
-#EXTINF:-1,Sama Dubai
-http://selevision9878-i.akamaihd.net/hls/live/219135/98787/master.m3u8
-#EXTINF:-1,Kwait
-http://selevision9878-i.akamaihd.net/hls/live/219137/98789/master.m3u8
-#EXTINF:-1,Rotana Khalijia
-http://selevision9879-i.akamaihd.net/hls/live/219139/98791/master.m3u8
-#EXTINF:-1,Rotana Aflam
-http://selevision9879-i.akamaihd.net/hls/live/219141/98793/master.m3u8
-#EXTINF:-1,Oman
-http://selevision9879-i.akamaihd.net/hls/live/219142/98794/master.m3u8
-#EXTINF:-1,Rotana Classic
-http://selevision9879-i.akamaihd.net/hls/live/219144/98796/master.m3u8
-#EXTINF:-1,Abo Dhabi
-http://selevision9879-i.akamaihd.net/hls/live/219147/98799/master.m3u8
-#EXTINF:-1,CNBC Arabic
-http://selevision9881-i.akamaihd.net/hls/live/219183/98810/master.m3u8
-#EXTINF:-1,Nautical
-http://selevision9881-i.akamaihd.net/hls/live/219188/98815/master.m3u8
-#EXTINF:-1,Saudi 1
-http://selevision9881-i.akamaihd.net/hls/live/219192/98819/master.m3u8
-#EXTINF:-1,Al Dhafra
-http://selevision9882-i.akamaihd.net/hls/live/219194/98821/master.m3u8
 
-#EXTINF:-1,Al Hayat
-http://selevision9884-i.akamaihd.net/hls/live/219262/98846/master.m3u8
-#EXTINF:-1,Dubai
-http://selevision9884-i.akamaihd.net/hls/live/219264/98848/master.m3u8
-#EXTINF:-1,Saudi Quran
-http://selevision9885-i.akamaihd.net/hls/live/219267/98851/master.m3u8
-#EXTINF:-1,Saudi Sport
-http://selevision9885-i.akamaihd.net/hls/live/219269/98853/master.m3u8
-#EXTINF:-1,Saudi Thaqafiya
-http://selevision9885-i.akamaihd.net/hls/live/219271/98855/master.m3u8
-#EXTINF:-1,Dubai Racing
-http://selevision9885-i.akamaihd.net/hls/live/219275/98859/master.m3u8
-#EXTINF:-1,Dubai Zaman
-http://selevision9886-i.akamaihd.net/hls/live/219281/98865/master.m3u8
-#EXTINF:-1,Dubai Zaman
-http://selevision9887-i.akamaihd.net/hls/live/219286/98870/master.m3u8
-#EXTINF:-1,ENNahar TV
-http://selevision9887-i.akamaihd.net/hls/live/219290/98874/master.m3u8
-#EXTINF:-1,Saudi News
-http://selevision9888-i.akamaihd.net/hls/live/219298/98882/master.m3u8
-#EXTINF:-1,Bahrain
-http://selevision9888-i.akamaihd.net/hls/live/219299/98883/master.m3u8
-#EXTINF:-1,Rotana Clip
-http://selevision9888-i.akamaihd.net/hls/live/219301/98884/master.m3u8
-#EXTINF:-1,Dubai Sport2 
-http://selevision9888-i.akamaihd.net/hls/live/219305/98888/master.m3u8
-#EXTINF:-1,Al Arabiya News
-http://selevision9888-i.akamaihd.net/hls/live/219306/98889/master.m3u8
-#EXTINF:-1,Rotana music
-http://selevision9889-i.akamaihd.net/hls/live/219309/98892/master.m3u8
-#EXTINF:-1,Dubai Sport
-http://selevision9890-i.akamaihd.net/hls/live/219326/98909/master.m3u8
-#EXTINF:-1,Extra News
-http://selevision9891-i.akamaihd.net/hls/live/219328/98911/master.m3u8
-#EXTINF:-1,Al Risala
-http://selevision9891-i.akamaihd.net/hls/live/219329/98912/master.m3u8
-#EXTINF:-1,Dubai
-http://selevision9891-i.akamaihd.net/hls/live/219333/98916/master.m3u8
-#EXTINF:-1,abu dhabi sport2
-http://selevision9891-i.akamaihd.net/hls/live/219334/98917/master.m3u8
-#EXTINF:-1,LBC
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/master.m3u8
-#EXTINF:-1,Dubai Sport3
-http://selevision9892-i.akamaihd.net/hls/live/219344/98927/master.m3u8
-#EXTINF:-1,Nour Dubai
-http://selevision9892-i.akamaihd.net/hls/live/219346/98929/master.m3u8
-#EXTINF:-1,Oman Eqtisadiya
-http://selevision9893-i.akamaihd.net/hls/live/219347/98930/master.m3u8
-#EXTINF:-1,Oman Sport
-http://selevision9893-i.akamaihd.net/hls/live/219348/98931/master.m3u8
-#EXTINF:-1,Oman Culture
-http://selevision9893-i.akamaihd.net/hls/live/219349/98932/master.m3u8
-#EXTINF:-1,Sama Dubai
-http://selevision9893-i.akamaihd.net/hls/live/219351/98934/master.m3u8
-#EXTINF:-1,Rotana masryia
-http://selevision9893-i.akamaihd.net/hls/live/219353/98936/master.m3u8
-#EXTINF:-1,Nour Dubai
-http://selevision9895-i.akamaihd.net/hls/live/219374/98957/master.m3u8
-#EXTINF:-1,Rotana Cinema
-http://selevision9896-i.akamaihd.net/hls/live/219378/98961/master.m3u8
-#EXTINF:-1,Dubai Racing3
-http://selevision9896-i.akamaihd.net/hls/live/219379/98962/master.m3u8
-#EXTINF:-1,Saudi2
-http://selevision9896-i.akamaihd.net/hls/live/219380/98963/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="DEUTSCH",======DEUTSCH=======
