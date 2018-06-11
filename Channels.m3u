@@ -63,7 +63,7 @@ http://youness-export.com/tv/aljadeed
 #EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon
 https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/68P6w9",LBC
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
+http://youness-export.com/tv/lbc
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
 http://streaming.i-sat.tv:8081/live/ldcle/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
@@ -255,6 +255,18 @@ http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2569.ts
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2556.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/EMq3xz",FR: Bein Sports 3 HD
 http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2590.ts
+#EXTINF:0,bein max 2 SD
+#EXTVLCOPT:http-user-agent=yacinetv
+http://yacinetv1.ddns.net:7777/live/worldcup0/worldcup21/107.ts
+#EXTINF:0,Bein Max 2 HD
+#EXTVLCOPT:http-user-agent=yacinetv
+http://yacinetv1.ddns.net:7777/live/worldcup0/worldcup21/108.ts
+#EXTINF:0,bein max 1 SD
+#EXTVLCOPT:http-user-agent=yacinetv
+http://yacinetv1.ddns.net:7777/live/worldcup0/worldcup21/106.ts
+#EXTINF:0,Bein Max 1 HD
+#EXTVLCOPT:http-user-agent=yacinetv
+http://yacinetv1.ddns.net:7777/live/worldcup0/worldcup21/109.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/H6Vx6U" group-title="EGYPT",======EGYPT=======
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
