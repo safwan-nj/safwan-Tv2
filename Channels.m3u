@@ -158,16 +158,48 @@ http://arabapps.live:8000/live/newapp4444/adasfsdgdfhfhgfhjkyuj/249.ts
 http://arabapps.live:8000/live/newapp4444/adasfsdgdfhfhgfhjkyuj/489.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Max",======BeIn Max=======
 http://bit.ly/Safwanlogo
-#EXTINF: tvg-logo="https://goo.gl/gFcx9J",BEIN max1
-http://arabapps.live:8000/live/newapp4444/adasfsdgdfhfhgfhjkyuj/1134.ts
-#EXTINF: tvg-logo="https://goo.gl/UHxrLZ",BEIN max2
-http://arabapps.live:8000/live/newapp4444/adasfsdgdfhfhgfhjkyuj/1135.ts
+#EXTINF:0,Bein Max 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1134.ts
+#EXTINF:0,Bein Max 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1135.ts
+#EXTINF:0,|AR| beIN SPORTS MAX HD1
+#EXTVLCOPT:network-caching=1000
+http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1153.ts
+#EXTINF:0,|AR| beIN SPORTS MAX HD2
+#EXTVLCOPT:network-caching=1000
+http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1152.ts
+#EXTINF:0,|AR| beIN SPORTS MAX SD1
+#EXTVLCOPT:network-caching=1000
+http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1149.ts
+#EXTINF:0,|AR| beIN SPORTS MAX SD2
+#EXTVLCOPT:network-caching=1000
+http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1148.ts
+#EXTINF:0,Salam worldcup
+#EXTVLCOPT:network-caching=1000
+http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1137.ts
+#EXTINF:0,Ajyal worldcup
+#EXTVLCOPT:network-caching=1000
+http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1136.ts
+#EXTINF:0,BethLehm TV worldcup
+#EXTVLCOPT:network-caching=1000
+http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1138.ts
+#EXTINF:0,falcon worldcup
+#EXTVLCOPT:network-caching=1000
+http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1141.ts
+#EXTINF:0,falcon 2 worldcup
+#EXTVLCOPT:network-caching=1000
+http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1140.ts
+#EXTINF:0,falcon 3 worldcup
+#EXTVLCOPT:network-caching=1000
+http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1139.ts
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD",======BeIn Sports SD=======
 http://bit.ly/Safwanlogo
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 SD
-http://arabapps.live:8000/live/newapp4444/adasfsdgdfhfhgfhjkyuj/1130.ts
+http://arabapps.live:8000/live/newapp4444/fsfgfgghgjjhjhjhj/1130.ts
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 SD
 http://arabapps.live:8000/live/newapp4444/adasfsdgdfhfhgfhjkyuj/1129.ts
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 SD
@@ -231,6 +263,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-logo="https://goo.gl/6z6oZW",Al Kass Sports 5sd
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
 #EXTINF:-1 tvg-logo="https://goo.gl/jp3VHg",AD Sports 1
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/622T6X",AD Sports 2
