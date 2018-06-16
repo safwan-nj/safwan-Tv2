@@ -158,41 +158,29 @@ http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/249.ts
 http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/489.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Max",======BeIn Max=======
 http://bit.ly/Safwanlogo
-#EXTINF:0,Bein Max 1 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",Bein Max 1 FHD
 http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1134.ts
-#EXTINF:0,Bein Max 2 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",Bein Max 2 FHD
 http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1135.ts
-#EXTINF:0,|AR| beIN SPORTS MAX HD1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",beIN SPORTS MAX HD1
 http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1153.ts
-#EXTINF:0,|AR| beIN SPORTS MAX HD2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",beIN SPORTS MAX HD2
 http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1152.ts
-#EXTINF:0,|AR| beIN SPORTS MAX SD1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",beIN SPORTS MAX SD1
 http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1149.ts
-#EXTINF:0,|AR| beIN SPORTS MAX SD2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",beIN SPORTS MAX SD2
 http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1148.ts
 #EXTINF:0,Salam worldcup
-#EXTVLCOPT:network-caching=1000
 http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1137.ts
 #EXTINF:0,Ajyal worldcup
-#EXTVLCOPT:network-caching=1000
 http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1136.ts
 #EXTINF:0,BethLehm TV worldcup
-#EXTVLCOPT:network-caching=1000
 http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1138.ts
 #EXTINF:0,falcon worldcup
-#EXTVLCOPT:network-caching=1000
 http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1141.ts
 #EXTINF:0,falcon 2 worldcup
-#EXTVLCOPT:network-caching=1000
 http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1140.ts
 #EXTINF:0,falcon 3 worldcup
-#EXTVLCOPT:network-caching=1000
 http://arabapps.live:8000/live/newapp99999/fsfgfgghgjjhjhjhj/1139.ts
 
 
