@@ -76,10 +76,8 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/gmswf.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/KWUb31" ,Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://goo.gl/97hudG",Arabica TV
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://goo.gl/jBWNeU" group-title="ROTANA",======ROTANA=======
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
