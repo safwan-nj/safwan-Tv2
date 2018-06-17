@@ -159,29 +159,83 @@ http://arabapps.live:8000/live/newapp11111/ddngfnmBNBJNJJ/489.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Max",======BeIn Max=======
 http://bit.ly/Safwanlogo
 #EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",Bein Max 1 FHD
-http://arabapps.live:8000/live/newapp11111/ddngfnmBNBJNJJ/1134.ts
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1841.ts
 #EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",Bein Max 2 FHD
-http://arabapps.live:8000/live/newapp11111/ddngfnmBNBJNJJ/1135.ts
-#EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",beIN SPORTS MAX HD1
-http://arabapps.live:8000/live/newapp11111/ddngfnmBNBJNJJ/1153.ts
-#EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",beIN SPORTS MAX HD2
-http://arabapps.live:8000/live/newapp11111/ddngfnmBNBJNJJ/1152.ts
-#EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",beIN SPORTS MAX SD1
-http://arabapps.live:8000/live/newapp11111/ddngfnmBNBJNJJ/1149.ts
-#EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",beIN SPORTS MAX SD2
-http://arabapps.live:8000/live/newapp11111/ddngfnmBNBJNJJ/1148.ts
-#EXTINF:0,Salam worldcup
-http://arabapps.live:8000/live/newapp11111/ddngfnmBNBJNJJ/1137.ts
-#EXTINF:0,Ajyal worldcup
-http://arabapps.live:8000/live/newapp11111/ddngfnmBNBJNJJ/1136.ts
-#EXTINF:0,BethLehm TV worldcup
-http://arabapps.live:8000/live/newapp11111/ddngfnmBNBJNJJ/1138.ts
-#EXTINF:0,falcon worldcup
-http://arabapps.live:8000/live/newapp11111/ddngfnmBNBJNJJ/1141.ts
-#EXTINF:0,falcon 2 worldcup
-http://arabapps.live:8000/live/newapp11111/ddngfnmBNBJNJJ/1140.ts
-#EXTINF:0,falcon 3 worldcup
-http://arabapps.live:8000/live/newapp11111/ddngfnmBNBJNJJ/1139.ts
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1840.ts
+#EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",beIN SPORTS MAX eng
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1839.ts
+#EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",beIN SPORTS MAX fr
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1838.ts
+#EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",beIN SPORTS MAX hd1
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1837.ts
+#EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",beIN SPORTS MAX hd2
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1836.ts
+#EXTINF:-1,BeIN_Sport_MAX_World_Cup_RU2018 3 HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1835.ts
+#EXTINF:-1,WORLD_CUP_RU2018
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1834.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1831.ts
+#EXTINF:-1,TR: TRT 4K
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1833.ts
+#EXTINF:-1,TR: TRT HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1832.ts
+#EXTINF:-1,BEINSPORT 1SD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/627.ts
+#EXTINF:-1,BEINSPORT 2SD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/626.ts
+#EXTINF:-1,BEINSPORT 3SD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/625.ts
+#EXTINF:-1,BEINSPORT 4SD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/624.ts
+#EXTINF:-1,BEINSPORT 5SD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/623.ts
+#EXTINF:-1,BEINSPORT 6SD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/622.ts
+#EXTINF:-1,BEINSPORT 7SD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/621.ts
+#EXTINF:-1,BEINSPORT 8SD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/620.ts
+#EXTINF:-1,AR:BEINSPORTS-1 HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1.ts
+#EXTINF:-1,AR:BEINSPORTS-2 HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/2.ts
+#EXTINF:-1,AR:BEINSPORTS-3 HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/3.ts
+#EXTINF:-1,AR:BEINSPORTS-4 HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/4.ts
+#EXTINF:-1,AR:BEINSPORTS-5 HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/5.ts
+#EXTINF:-1,AR:BEINSPORTS-6 HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/6.ts
+#EXTINF:-1,AR:BEINSPORTS-7 HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/7.ts
+#EXTINF:-1,AR:BEINSPORTS-8 HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/8.ts
+#EXTINF:-1,BeIN MOVIES 1HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/457.ts
+#EXTINF:-1,BeIN MOVIES 2HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/456.ts
+#EXTINF:-1,BeIN MOVIES 3HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/455.ts
+#EXTINF:-1,BeIN MOVIES 4HD
+http://24.thgss.com:8000/live/48621529250133/48621529250133/454.ts
+#EXTINF:-1,beIN MOVIES-HD1
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1063.ts
+#EXTINF:-1,beIN MOVIES-HD2
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1062.ts
+#EXTINF:-1,beIN MOVIES-HD3
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1061.ts
+#EXTINF:-1,beIN MOVIES-HD4
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1060.ts
+#EXTINF:-1,Baraem kids
+http://24.thgss.com:8000/live/48621529250133/48621529250133/449.ts
+#EXTINF:-1,ABCkidsTV
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1571.ts
+#EXTINF:-1,BARAEM 2 kids
+http://24.thgss.com:8000/live/48621529250133/48621529250133/450.ts
+#EXTINF:-1,Bein Jeem HD kids
+http://24.thgss.com:8000/live/48621529250133/48621529250133/1072.ts
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD",======BeIn Sports SD=======
