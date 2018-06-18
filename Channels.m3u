@@ -551,7 +551,7 @@ http://38.96.148.30:1935/live/omantv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/CHG761",Oman Documentary
 http://38.96.148.30:1935/live/omantv4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="DEUTSCH",======DEUTSCH=======
+#EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="DEUTSCH",======DEUTSCH=======
 http://bit.ly/Safwanlogo
 
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
@@ -582,9 +582,9 @@ http://78.129.184.15:34546/streaming/stream/chunklist.m3u8
 http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/2000px-Alex_Offener_Kanal_Berlin_Logo.svg.png",ALEX Berlin
 http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.png",Allgau TV
+#EXTINF:-1 tvg-logo="http://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.pnghttp://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.png",Allgau TV
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.iptvdigital.com/images/canal_live/22_canal_live_28_canal_live_baden_tv.png",Baden TV
+#EXTINF:-1 tvg-logo="https://goo.gl/T8KaAG",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png",Blizz TV
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
@@ -602,6 +602,8 @@ http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlis
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png",INTV
 https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/p6PrJL",Krone Tv
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png",Munchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif",Noa 4 Norderstedt
@@ -636,13 +638,13 @@ http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 http://ios-stream.qvc.de/qvc.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg",1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1 tvg-logo="http://nossojogo.at/wp-content/uploads/2014/04/CI-Dorf-v3.jpg",Dorf TV
+#EXTINF:-1 tvg-logo="https://goo.gl/X38ph6",Dorf TV
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg",KroneHit
 http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 #EXTINF:-1 tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg",KroneHit*
 http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
-#EXTINF:-1 tvg-logo="http://www.campusfernsehen.at/wp-content/themes/Orion/images/logo_okto.png",Okto TV
+#EXTINF:-1 tvg-logo="https://goo.gl/4G5DeE",Okto TV
 http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rts-salzburg.at/wp-content/themes/rts/images/rts-logo.png",RTS Salzburg
 http://80.237.191.228:1935/live/_definst_/RTS2015/playlist.m3u8
@@ -652,17 +654,17 @@ http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-p.m3u8
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.stream2watch.cc/images/streams/600x400/14637428725379.png",W24
 http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
-#EXTINF:-1 tvg-logo="",RE Eins
+#EXTINF:-1 tvg-logo="https://goo.gl/C1Nw29",RE Eins
 http://www.reeins.tv:1935/live/re1/chunklist_w1257786105.m3u8
-#EXTINF:-1 tvg-logo="",Family live tv
+#EXTINF:-1 tvg-logo="https://goo.gl/9eUJhL",Family live tv
 http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/index_500_av-p.m3u8
-#EXTINF:-1 tvg-logo="",Munchen
+#EXTINF:-1 tvg-logo="https://goo.gl/C1Nw29",Munchen
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_3/chunklist_w1844412927.m3u8
-#EXTINF:-1 tvg-logo="",Deutsches Musik
+#EXTINF:-1 tvg-logo="https://goo.gl/a73NFk",Deutsches Musik
 http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
-#EXTINF:-1 tvg-logo="",Bayerischer Rundfunk
+#EXTINF:-1 tvg-logo="https://goo.gl/oSdecn",Bayerischer Rundfunk
 http://livestreams.br.de/i/bfssued_worldwide@119891/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-logo="",Deluxe Music
+#EXTINF:-1 tvg-logo="https://goo.gl/aNmW27",Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist_w1737037020.m3u8
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/8/8d/RTL-Tele-Luxembourg.jpg",RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
