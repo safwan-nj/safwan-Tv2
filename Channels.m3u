@@ -134,6 +134,17 @@ http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3414.ts
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="WorldCup 2018",======WorldCup 2018====
 http://bit.ly/Safwanlogo
+
+#EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",BeIN SPORTS HD1 MAX
+http://www.zeebra.tv:8000/live/Next88/Next88/5136.ts
+#EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",BeIN SPORTS HD2 MAX
+http://www.zeebra.tv:8000/live/Next88/Next88/5137.ts
+#EXTINF:0 tvg-logo="https://goo.gl/wLnk9L",BeIN SPORTS HD3 MAX
+http://www.zeebra.tv:8000/live/Next88/Next88/5138.ts
+#EXTINF:0 tvg-logo="https://goo.gl/wLnk9L",BeIN SPORTS HD4 MAX
+http://www.zeebra.tv:8000/live/Next88/Next88/5139.ts
+
+
 #EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",Bein Max 1 FHD
 http://arabapps.live:8000/live/newapp444444444/sfdgfdhfghgh/1134.ts
 #EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",Bein Max 2 FHD
