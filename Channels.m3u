@@ -20,6 +20,8 @@ http://82.137.248.16:1935/Nour/stream25042018/chunklist.m3u8
 http://sama-tv.net:1935/live/samatv/gmswf.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Souria
 http://mtqtqloqdxtlive.mediatriple.net/mtqtqloqdxtlive/u_stream_5ae30a53230df_3/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
+http://178.162.204.47:1935/fifa/fifa/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
 http://82.137.248.16:1935/Ugarit/stream25042018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VmQutr",Syrian Education
@@ -143,8 +145,8 @@ http://www.zeebra.tv:8000/live/Next88/Next88/5137.ts
 http://www.zeebra.tv:8000/live/Next88/Next88/5138.ts
 #EXTINF:0 tvg-logo="https://goo.gl/wLnk9L",BeIN SPORTS HD4 MAX
 http://www.zeebra.tv:8000/live/Next88/Next88/5139.ts
-
-
+#EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
+http://178.162.204.47:1935/fifa/fifa/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",Bein Max 1 FHD
 http://arabapps.live:8000/live/newapp444444444/sfdgfdhfghgh/1134.ts
 #EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",Bein Max 2 FHD
