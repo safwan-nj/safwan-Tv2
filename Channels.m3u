@@ -64,7 +64,7 @@ http://bit.ly/Safwanlogo
 http://youness-export.com/tv/aljadeed
 #EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon
 https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/68P6w9",LBC
+#EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC
 http://youness-export.com/tv/lbc
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
 http://streaming.i-sat.tv:8081/live/ldcle/chunks.m3u8
@@ -95,17 +95,19 @@ http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/BoM2KE",Rotana cinema EGY
 http://streaming.i-sat.tv:1935/live/mrtc/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/vPnuhL",Rotana cinema KSA
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2923.ts
+http://www.zeebra.tv:8000/live/Next88/Next88/2692.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/uuw9Fe",Rotana Aflam
+http://www.zeebra.tv:8000/live/Next88/Next88/2689.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/gArRB3",Rotana classic
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2929.ts
+http://www.zeebra.tv:8000/live/Next88/Next88/2693.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/jmqpbp",Rotana music
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2932.ts
+http://www.zeebra.tv:8000/live/Next88/Next88/2688.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/NZ3ZUa",Rotana clip
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2931.ts
+http://www.zeebra.tv:8000/live/Next88/Next88/2691.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/we1jqe",Rotana Drama
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2928.ts
+http://www.zeebra.tv:8000/live/Next88/Next88/2690.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/hAZ938",Rotana khalijia
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2930.ts
+http://www.zeebra.tv:8000/live/Next88/Next88/2687.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC",======MBC=======
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1",MBC 1
