@@ -138,7 +138,6 @@ http://www.zeebra.tv:8000/live/Next88/Next88/2680.ts
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="WorldCup 2018",======WorldCup 2018====
 http://bit.ly/Safwanlogo
-
 #EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",BeIN SPORTS HD1 MAX
 http://www.zeebra.tv:8000/live/Next88/Next88/5136.ts
 #EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",BeIN SPORTS HD2 MAX
