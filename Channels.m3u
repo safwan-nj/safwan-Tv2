@@ -9,13 +9,13 @@ http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf",Syria
-http://82.137.248.16:1935/Sat/stream25042018/chunklist.m3u8
+http://82.137.248.16:1935/Sat/stream07072018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
-http://82.137.248.16:1935/Drama/stream25042018/chunklist.m3u8
+http://82.137.248.16:1935/Drama/stream07072018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
-http://82.137.248.16:1935/Snews/stream25042018/chunklist.m3u8
+http://82.137.248.16:1935/Snews/stream07072018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham HD
-http://82.137.248.16:1935/Nour/stream25042018/chunklist.m3u8
+http://82.137.248.16:1935/Nour/stream07072018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",SamaTV
 http://sama-tv.net:1935/live/samatv/gmswf.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Souria
@@ -23,13 +23,13 @@ http://mtqtqloqdxtlive.mediatriple.net/mtqtqloqdxtlive/u_stream_5ae30a53230df_3/
 #EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
 http://178.162.204.47:1935/fifa/fifa/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
-http://82.137.248.16:1935/Ugarit/stream25042018/chunklist.m3u8
+http://82.137.248.16:1935/Ugarit/stream07072018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VmQutr",Syrian Education
-http://82.137.248.16:1935/SEdu/stream25042018/chunklist.m3u8
+http://82.137.248.16:1935/SEdu/stream07072018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/tE95C8",Ninar
 http://5.39.218.151:1984/live/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/UT3KyH",Souryana HD
-http://82.137.248.16:1935/Souryana/stream25042018/chunklist.m3u8
+http://82.137.248.16:1935/Souryana/stream07072018/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/EpsEdX",Souria Tv
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/R8GXvz",Halab-Today
