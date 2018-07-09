@@ -138,6 +138,7 @@ http://www.zeebra.tv:8000/live/Next88/Next88/2680.ts
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="WorldCup 2018",======WorldCup 2018====
 http://bit.ly/Safwanlogo
+
 #EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",BeIN SPORTS HD1 MAX
 http://www.zeebra.tv:8000/live/Next88/Next88/5136.ts
 #EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",BeIN SPORTS HD2 MAX
@@ -174,7 +175,7 @@ http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1141.ts
 http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1140.ts
 #EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",falcon 3 worldcup
 http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1139.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD",======BeIn Sports HD1=======
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD1",======BeIn Sports HD1=======
 http://bit.ly/Safwanlogo
 #EXTINF: tvg-logo="https://goo.gl/fETVF3",beIN SPORTS NEWS
 http://www.zeebra.tv:8000/live/Next88/Next88/2673.ts
@@ -201,7 +202,7 @@ http://www.zeebra.tv:8000/live/Next88/Next88/9.ts
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 HD
 http://www.zeebra.tv:8000/live/Next88/Next88/8.ts
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD",======BeIn Sports HD2=======
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD2",======BeIn Sports HD2=======
 http://bit.ly/Safwanlogo
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1
 http://www.zeebra.tv:8000/live/Next88/Next88/1791.ts
@@ -247,7 +248,7 @@ http://www.zeebra.tv:8000/live/Next88/Next88/3079.ts
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10
 http://www.zeebra.tv:8000/live/Next88/Next88/3080.ts
 
-#EXTINF: tvg-logo="https://goo.gl/fETVF3",BEINSPORTS Max
+#EXTINF: tvg-logo="https://goo.gl/fETVF3",logo not exist
 
 
 
