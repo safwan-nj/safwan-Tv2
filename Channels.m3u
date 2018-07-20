@@ -934,6 +934,12 @@ http://livestreams.br.de/i/bfssued_worldwide@119891/index_3776_av-p.m3u8
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist_w1737037020.m3u8
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/8/8d/RTL-Tele-Luxembourg.jpg",RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" group-title="TEST",=======TEST=========
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="http://img-fotki.yandex.ru/get/67777/130731138.1d/0_2dd584_af94af1d_orig.jpg" ,Zootopia
+#EXTVLCOPT:sub-file="https://raw.githubusercontent.com/safwan-nj/safwan-Tv2/master/zootopia.srt"
+#EXTVLCOPT:subsdec-encoding=UTF-8
+http://platinum.cdn.apollostream.xyz/2e1d8889aa3f7cd3cca6b9977e84f7d5:2018072102:1494899160/flv/2bdbf1a34991bb91892dfe4c1a344a4b.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" group-title="ABOUT ME",=======ABOUT ME=========
 http://bit.ly/Safwanlogo
