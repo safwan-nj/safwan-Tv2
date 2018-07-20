@@ -136,19 +136,6 @@ http://www.zeebra.tv:8000/live/Next88/Next88/2685.ts
 http://www.zeebra.tv:8000/live/Next88/Next88/2680.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/oXGqeX",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="WorldCup 2018",======WorldCup 2018====
-http://bit.ly/Safwanlogo
-
-#EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",BeIN SPORTS HD1 MAX
-http://www.zeebra.tv:8000/live/Next88/Next88/5136.ts
-#EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",BeIN SPORTS HD2 MAX
-http://www.zeebra.tv:8000/live/Next88/Next88/5137.ts
-#EXTINF:0 tvg-logo="https://goo.gl/wLnk9L",BeIN SPORTS HD3 MAX
-http://www.zeebra.tv:8000/live/Next88/Next88/5138.ts
-#EXTINF:0 tvg-logo="https://goo.gl/wLnk9L",BeIN SPORTS HD4 MAX
-http://www.zeebra.tv:8000/live/Next88/Next88/5139.ts
-#EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
-http://178.162.204.47:1935/fifa/fifa/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD1",======BeIn Sports HD1=======
 http://bit.ly/Safwanlogo
@@ -252,6 +239,8 @@ http://www.zeebra.tv:8000/live/Next88/Next88/3117.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Other Sports",======Other Sports=======
 http://bit.ly/Safwanlogo
+#EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
+http://178.162.204.47:1935/fifa/fifa/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/4dYPSD",Al Kass Sports 1sd
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1 tvg-logo="https://goo.gl/UMCGZV",Al Kass Sports 2sd
