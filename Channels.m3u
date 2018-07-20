@@ -67,7 +67,7 @@ https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC
 http://youness-export.com/tv/lbc
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
-http://streaming.i-sat.tv:8081/live/ldcle/chunks.m3u8
+http://streaming.i-sat.tv:8081/livestream/ldcle/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
 http://youness-export.com/tv/otv
 #EXTINF:-1 tvg-logo="https://goo.gl/qXKqRV",NBN
@@ -93,21 +93,21 @@ http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/BoM2KE",Rotana cinema EGY
-http://streaming.i-sat.tv:1935/live/mrtc/chunklist.m3u8
+http://streaming.i-sat.tv:1935/livestream/mrtc/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/vPnuhL",Rotana cinema KSA
 http://www.zeebra.tv:8000/live/Next88/Next88/2692.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/uuw9Fe",Rotana Aflam
-http://www.zeebra.tv:8000/live/Next88/Next88/2689.ts
+http://streaming.i-sat.tv:8081/livestream/rotanaaflamm/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/gArRB3",Rotana classic
-http://www.zeebra.tv:8000/live/Next88/Next88/2693.ts
+http://streaming.i-sat.tv:1935/livestream/rtca/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/jmqpbp",Rotana music
-http://www.zeebra.tv:8000/live/Next88/Next88/2688.ts
+http://streaming.i-sat.tv:8081/livestream/rotanamusick/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/NZ3ZUa",Rotana clip
-http://www.zeebra.tv:8000/live/Next88/Next88/2691.ts
+http://streaming.i-sat.tv:1935/livestream/rtcp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/we1jqe",Rotana Drama
-http://www.zeebra.tv:8000/live/Next88/Next88/2690.ts
+http://streaming.i-sat.tv:1935/livestream/rotanamasr/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/hAZ938",Rotana khalijia
-http://www.zeebra.tv:8000/live/Next88/Next88/2687.ts
+http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC",======MBC=======
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1",MBC 1
@@ -149,32 +149,7 @@ http://www.zeebra.tv:8000/live/Next88/Next88/5138.ts
 http://www.zeebra.tv:8000/live/Next88/Next88/5139.ts
 #EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
 http://178.162.204.47:1935/fifa/fifa/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",Bein Max 1 FHD
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1134.ts
-#EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",Bein Max 2 FHD
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1135.ts
-#EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",beIN SPORTS MAX1 HD
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1153.ts
-#EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",beIN SPORTS MAX2 HD
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1152.ts
-#EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",beIN SPORTS MAX1 SD
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1149.ts
-#EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",beIN SPORTS MAX2 SD
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1148.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/3n3CsA",Namsa At
-http://78.129.184.15:34546/streaming/stream/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",Salam worldcup
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1137.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",Ajyal worldcup
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1136.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",BethLehm TV worldcup
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1138.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",falcon worldcup
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1141.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",falcon 2 worldcup
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1140.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",falcon 3 worldcup
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1139.ts
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD1",======BeIn Sports HD1=======
 http://bit.ly/Safwanlogo
 #EXTINF: tvg-logo="https://goo.gl/fETVF3",beIN SPORTS NEWS
@@ -277,17 +252,6 @@ http://www.zeebra.tv:8000/live/Next88/Next88/3117.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Other Sports",======Other Sports=======
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/4dYPSD",ALKASS SPORT 1HD
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1034.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/UMCGZV",ALKASS Sport 2HD
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1033.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/FPnGzd",ALKASS SPORT 3HD
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1030.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/Xvk8n8",ALKASS Sport 4HD
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1032.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/6z6oZW",ALKASS Sport 5HD
-http://arab-apps.live:8000/live/9anawat3/gfh7658645hgjhdf/1031.ts
-
 #EXTINF:-1 tvg-logo="https://goo.gl/4dYPSD",Al Kass Sports 1sd
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1 tvg-logo="https://goo.gl/UMCGZV",Al Kass Sports 2sd
@@ -326,12 +290,6 @@ http://www.zeebra.tv:8000/live/Next88/Next88/2694.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/ecHNDb",Oman Sports
 http://38.96.148.30:1935/live/omantv2//playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/PX8MVn",FR: Bein Sports 1 HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2569.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/5FjUBR",FR: Bein Sports 2 HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2556.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/EMq3xz",FR: Bein Sports 3 HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2590.ts
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DMtgww" group-title="OSN",======OSN=======
@@ -776,7 +734,7 @@ http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3447.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS",=====KIDS========
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FH6vuE",Space Toon
-http://www.zeebra.tv:8000/live/Next88/Next88/3530.ts
+http://streaming.i-sat.tv:8081/livestream/spacetooon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/UxV1RC",majed kids 
 http://adtv.ercdn.net/adsport7/adsport7.m3u8 
 #EXTINF:-1 tvg-logo="https://goo.gl/zaUKgm",taha 
@@ -784,11 +742,11 @@ http://www.zeebra.tv:8000/live/Next88/Next88/3046.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/xDxDbp",Nour Alshabab
 https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/5JgvNw",Semsem
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4277.ts
+http://streaming.i-sat.tv:1935/livestream/sms/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",Toyor Aljanah
-http://www.zeebra.tv:8000/live/Next88/Next88/3047.ts
+http://streaming.i-sat.tv:8081/livestream/toyourjanaa/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/f8v11K",Karameesh
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2768.ts
+
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OTHER ARAB",=====OTHER ARAB========
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
@@ -801,7 +759,9 @@ http://bit.ly/Safwanlogo
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/fQkZGt",Nat Geo
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/K2guvh",Dubai
+#EXTINF:-1 tvg-logo="https://goo.gl/K2guvh",Dubai(S1)
+http://streaming.i-sat.tv:8081/livestream/dubaii/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/K2guvh",Dubai(S2)
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-logo="https://goo.gl/gPJMso",Sama Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
@@ -884,17 +844,17 @@ http://bit.ly/Safwanlogo
 http://bit.ly/Safwanlogo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1 
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3220.ts
+http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 2 
 http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 3 
 http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF Sport 
 http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://austria24.tv/wp-content/uploads/2014/01/A24_logo_big.png",Austria 24
-rtmp://streaming.austria24.tv/live//mp4:stream_720p
 #EXTINF:-1 tvg-logo="https://goo.gl/3n3CsA",Namsa At
 http://78.129.184.15:34546/streaming/stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://austria24.tv/wp-content/uploads/2014/01/A24_logo_big.png",Austria 24
+rtmp://streaming.austria24.tv/live//mp4:stream_720p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/1200px-3sat-Logo.svg.png",3Sat
 http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/2000px-Alex_Offener_Kanal_Berlin_Logo.svg.png",ALEX Berlin
@@ -985,277 +945,6 @@ http://livestreams.br.de/i/bfssued_worldwide@119891/index_3776_av-p.m3u8
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist_w1737037020.m3u8
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/8/8d/RTL-Tele-Luxembourg.jpg",RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.imageto.org/images/7hJD9.gif" group-title="Turk",======Turk=======
-http://bit.ly/Safwanlogo
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", A HBR 
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5362.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", A Melodi
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5372.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", A Spor HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3843.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", A2 Tv
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5427.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Adana
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5436.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Akilli TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5413.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Altas
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2687.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Anadolu Vuslat
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5192.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Animal Planet
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2683.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", AS TV Bursa
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5424.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Atlas
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5376.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", ATV HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2678.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Baby TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10930.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Bengu Turk
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5400.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Beyaz HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5422.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Bloomberg
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5379.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", BS TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2748.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Cartoon Network
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5639.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Cem TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5402.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Cinemax
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5367.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", CNN Turk HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2692.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Damla TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5411.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", DaVinci Learning
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5423.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Digimax 2 HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/6358.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Digimax HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2691.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Discovery Channel HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10959.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Discovery Science
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5434.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Discovery Showcase
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10960.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Disney Channel HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5440.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Disney Junior
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10934.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Dizi TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/6376.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Dolunay Int
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5414.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Dost
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5394.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Dream Turk
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2703.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Dream TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2704.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Duck
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10933.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Ege
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5420.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Ekin Turk
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5366.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Euro D
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5439.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Eurostar HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2666.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Fanatik TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2700.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", FB TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5602.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", FB TV Spor
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5416.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Fil TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5363.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Flash TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2685.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Fox Crime
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5419.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Fox HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5421.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Full Aksiyon
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5368.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", FX TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/6361.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", GS TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5369.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Haber Turk HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2693.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Halk
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5406.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Hilal
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5384.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", History
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5431.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", IMC
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5435.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kanal 24
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5405.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kanal 26
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5398.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kanal 5
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5396.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kanal 7 Avrupa
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2684.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kanal 7 HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2686.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kanal A
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5425.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kanal B
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5399.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kanal D HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2680.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kanal Firat
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5429.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kanal Tek
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5364.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kardelen TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5380.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kon TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5403.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Koy TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5407.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kral Pop
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5355.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Kral TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5360.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Lalegul TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4508.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Loca 1
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5432.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Loca 3
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5393.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Loca2
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5412.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Minika Cocuk
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10931.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Minika Go
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2694.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Movie Smart Gold
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5383.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Movie Smart Turk HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5374.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Moviemax Star
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10957.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Moviemax Turk HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5193.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Nick JR
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/11079.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Nickelodeon
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/10932.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", NR1 HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2705.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", NTV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5417.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", NTV Spor HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3310.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Planet Turk
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5359.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Planete Cocuk
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5356.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Planete Mutfak
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5358.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Planete Pembe
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5357.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Power Turk HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2706.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Power TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2707.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Rumeli
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5397.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Samanyolu TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5378.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Semerkand TV HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2891.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Seymen
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5388.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Show HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2679.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Show Max
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5409.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Show Tv Avrupa
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5426.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Sky 360
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5386.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Sports TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3072.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Star TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2681.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Tarim TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2696.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Tay TV
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5361.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TGRT Haber HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5418.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Tivibu Spor 1 HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4652.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Tivibu Spor 2 HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5343.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TLC
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2890.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TMB
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5382.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TRT 1 HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2608.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TRT AVAZ HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2670.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TRT Belgesel HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2676.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TRT Cocuk
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2697.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TRT Diyanet HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2677.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TRT HABER HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2667.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TRT Kurdi HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2671.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TRT Muzik HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2702.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TRT OKUL
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2672.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TRT SPOR HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2675.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TRT Turk HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2668.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TRT World HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2669.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Türkmax Gurme HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5387.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TV 2 HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2695.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TV 2000
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5395.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TV 6
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5381.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TV EM
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5415.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TV Net
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5375.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TV52 Ordu
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5410.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TV8 HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5392.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", TVEM
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2688.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Ulke HD
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5408.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Ulusal Kanal
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5404.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", World Travel Channel
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3635.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Yaban
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5391.ts
-#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29", Yol
-http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/5365.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" group-title="ABOUT ME",=======ABOUT ME=========
 http://bit.ly/Safwanlogo
