@@ -1,5 +1,14 @@
-#EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Arabic CH",-------  Arabic  -------
+#EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Arabic",-------  Arabic  -------
 http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+http://bit.ly/Safwanlogo
+
 #EXTINF:-1,AR: MBC 1 (SA)
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/63204.ts
 #EXTINF:-1,AR: MBC 1 HD
@@ -1845,7 +1854,15 @@ http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/110169.ts
 #EXTINF:-1,AR: Zitouna TV
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/113462.ts
 
-#EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Sports",======Sports=======
+#EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Sports",------- Sports -------
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 #EXTINF:0,Bein1 1M
 http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1286.ts
@@ -3733,7 +3750,15 @@ http://stream-full.selfip.com:8000/live/bogi/Iwfhagx2v4/1779.ts
 http://stream-full.selfip.com:8000/live/bogi/Iwfhagx2v4/655.ts
 #EXTINF:0,AR:BEIN_SPORTS_8SD
 http://stream-full.selfip.
-#EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="DEUTSCH",======DEUTSCH=======
+#EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="DEUTSCH",------- DEUTSCH -------
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 #EXTINF:-1,DE: 1-2-3 TV HD
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/94729.ts
@@ -4221,6 +4246,14 @@ http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/120523.ts
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/62055.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/fETVF3" group-title="TURK",-------  TURK -------
 http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+http://bit.ly/Safwanlogo
 #EXTINF:-1,TR | TRT Spor HD
 http://uhdsport.goldentv.eu:8899/live/kenan1/kenan2/11.ts
 #EXTINF:-1,TR | A Spor HD
@@ -4275,7 +4308,6 @@ http://uhdsport.goldentv.eu:8899/live/kenan1/kenan2/4243.ts
 http://uhdsport.goldentv.eu:8899/live/kenan1/kenan2/4244.ts
 #EXTINF:-1,TR | DMAX HD
 http://uhdsport.goldentv.eu:8899/live/kenan1/kenan2/9.ts
-
 #EXTINF:-1,Star 
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,Fox Tv
@@ -4329,6 +4361,14 @@ http://powerturktv.listenpowerapp.com/powerturktv/abr/powerturktv/720/chunks.m3u
 #EXTINF:-1,1 beIN Futbol
 http://87.98.162.77:7080/playlist
 #EXTINF:-1 tvg-logo="https://goo.gl/fETVF3" group-title="SKY IT",------- SKY IT -------
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 #EXTINF:-1,IT: Alice
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64016.ts
@@ -5090,3 +5130,22 @@ http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/63939.ts
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64005.ts
 #EXTINF:-1,IT: Video Tolento
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64001.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" group-title="ABOUT ME",=======ABOUT ME=========
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan Al Najjar
+http://bit.ly/Safwanlogo
+
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Tel:068110665485
+http://bit.ly/Safwanlogo
+
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",Download my app here
+http://bit.ly/Safwanlogo
+
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+http://bit.ly/Safwanlogo
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",Don't hesitate to contact me
+http://bit.ly/Safwanlogo
+
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,www.saftv.cf
+http://bit.ly/Safwanlogo
