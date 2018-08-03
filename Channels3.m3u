@@ -8,6 +8,26 @@ http://bit.ly/Safwanlogo
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
+#EXTINF:0,AR: SYRIA DRAMA  syria
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/19933.ts
+#EXTINF:0,AR: SAMA TV  syria
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/14112.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Souria
+http://mtqtqloqdxtlive.mediatriple.net/mtqtqloqdxtlive/u_stream_5ae30a53230df_3/chunklist.m3u8
+#EXTINF:0,AR: Halab Today TV syria
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15436.ts
+#EXTINF:0,AR: HALAB TODAY  syria
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/19937.ts
+#EXTINF:0,AR: Orient News TV  syria
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15434.ts
+#EXTINF:0,AR: ANN news syria
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/13595.ts
+#EXTINF:0,AR: AL QANAT  syria
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15416.ts
+#EXTINF:0,AR: MTV Lebanon
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20559.ts
+#EXTINF:0,AR: OTV  lebanon
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/10841.ts
 #EXTINF:0,AR: SAUDI  1  HD  local
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11061.ts
 #EXTINF:0,AR: SAUDI NEWS
@@ -104,8 +124,7 @@ http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11036.ts
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11055.ts
 #EXTINF:0,AR: Alhurra TV  iraq
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11043.ts
-#EXTINF:0,AR: OTV  lebanon
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/10841.ts
+
 #EXTINF:0,AR: 218 libia
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/10842.ts
 #EXTINF:0,AR: ON SPORT  local
@@ -194,8 +213,6 @@ http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11863.ts
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15445.ts
 #EXTINF:0,AR:ADDOUNIA  local
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15365.ts
-#EXTINF:0,AR: ANN news syria
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/13595.ts
 #EXTINF:0,AR: CNBC  dubai
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15427.ts
 #EXTINF:0,AR: ECHOROUK BENNA  local
@@ -250,8 +267,7 @@ http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15633.ts
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15451.ts
 #EXTINF:0,AR: 2M_MAROC
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15449.ts
-#EXTINF:0,AR: SAMA TV  syria
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/14112.ts
+
 #EXTINF:0,AR: DUBAI drama
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15372.ts
 #EXTINF:0,AR: Akamaihd  Tv   local
@@ -280,10 +296,6 @@ http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15672.ts
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22352.ts
 #EXTINF:0,AR: Alfallujah  iraq
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22359.ts
-#EXTINF:0,AR: Halab Today TV syria
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15436.ts
-#EXTINF:0,AR: Orient News TV  syria
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15434.ts
 #EXTINF:0,AR: alnabaa tv  libia
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15671.ts
 #EXTINF:0,AR: Noor Dubai TV
@@ -370,16 +382,12 @@ http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/19135.ts
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/19137.ts
 #EXTINF:0,AR: Alwatan TV libia
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/19940.ts
-#EXTINF:0,AR: HALAB TODAY  syria
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/19937.ts
 #EXTINF:0,AR: AL HADATH   dubai
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/19943.ts
 #EXTINF:0,AR: AL DAFRAH  dubai
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/19941.ts
 #EXTINF:0,AR: S24  sudan rtm
 rtmp://82.212.74.5/live//8036
-#EXTINF:0,AR: SYRIA DRAMA  syria
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/19933.ts
 #EXTINF:0,AR:  OMAN TV   local
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/19968.ts
 #EXTINF:0,AR: AL MAGRABIA  local
@@ -492,8 +500,6 @@ http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15407.ts
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20545.ts
 #EXTINF:0,AR: MAKAN TV
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20540.ts
-#EXTINF:0,AR: MTV Lebanon
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20559.ts
 #EXTINF:0,AR: KTV Al Majlis  kuwait
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20550.ts
 #EXTINF:0,AR: NILE CINEMA  egipt
@@ -536,8 +542,6 @@ http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20556.ts
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20538.ts
 #EXTINF:0,AR: AL HAYAT
 rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p
-#EXTINF:0,AR: AL QANAT  syria
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15416.ts
 #EXTINF:0,AR: Al Sharqiya News TV
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15300.ts
 #EXTINF:0,AR: Al-Aqsa TV  palastin
@@ -570,8 +574,6 @@ http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11042.ts
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/9677.ts
 #EXTINF:0,AR: KTV EXTRAA  kuwait
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/9676.ts
-#EXTINF:0,PK: Al-Mahdi TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15303.ts
 #EXTINF:0,AR: Alrai TV  jordan
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15304.ts
 #EXTINF:0,AR: Medi 1 TV  LOCAL
@@ -586,6 +588,149 @@ http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/9678.ts
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/9675.ts
 #EXTINF:0,AR: KTV SPORT PLUS  kuwait
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/9679.ts
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="beIN",------- beIN --------
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+http://bit.ly/Safwanlogo
+#EXTINF:-1,Ar: Ar: BeIN MOVIES 1HD
+http://am-iptv.club:25461/live/ma2/ma2/728.ts
+#EXTINF:-1,Ar: BeIN MOVIES 2HD
+http://am-iptv.club:25461/live/ma2/ma2/729.ts
+#EXTINF:-1,Ar: BeIN MOVIES 3HD
+http://am-iptv.club:25461/live/ma2/ma2/730.ts
+#EXTINF:-1,Ar: BeIN MOVIES 4HD
+http://am-iptv.club:25461/live/ma2/ma2/731.ts
+#EXTINF:-1,AR: BEIN SERIES 1
+http://am-iptv.club:25461/live/ma2/ma2/7148.ts
+#EXTINF:-1,AR: BeIN_GROUMMET
+http://am-iptv.club:25461/live/ma2/ma2/7147.ts
+#EXTINF:-1,FR: BEiN SPORT 1
+http://am-iptv.club:25461/live/ma2/ma2/6079.ts
+#EXTINF:-1,FR: BEiN SPORT 2
+http://am-iptv.club:25461/live/ma2/ma2/6078.ts
+#EXTINF:-1,FR: BEiN SPORT 3
+http://am-iptv.club:25461/live/ma2/ma2/6077.ts
+#EXTINF:-1,******Bein*Sports******
+http://am-iptv.club:25461/live/ma2/ma2/280.ts
+#EXTINF:-1,AR: BEIN SPORT 1 HD
+http://am-iptv.club:25461/live/ma2/ma2/2908.ts
+#EXTINF:-1,AR: BEIN SPORT 2 HD
+http://am-iptv.club:25461/live/ma2/ma2/2907.ts
+#EXTINF:-1,AR: BEIN SPORT 3 HD
+http://am-iptv.club:25461/live/ma2/ma2/2906.ts
+#EXTINF:-1,AR: BEIN SPORT 4 HD
+http://am-iptv.club:25461/live/ma2/ma2/2905.ts
+#EXTINF:-1,AR: BEIN SPORT 5 HD
+http://am-iptv.club:25461/live/ma2/ma2/2904.ts
+#EXTINF:-1,AR: BEIN SPORT 6 HD
+http://am-iptv.club:25461/live/ma2/ma2/2903.ts
+#EXTINF:-1,AR: BEIN SPORT 7 HD
+http://am-iptv.club:25461/live/ma2/ma2/2902.ts
+#EXTINF:-1,AR: BEIN SPORT 8 HD
+http://am-iptv.club:25461/live/ma2/ma2/2901.ts
+#EXTINF:-1,AR: BEIN SPORT 9 HD
+http://am-iptv.club:25461/live/ma2/ma2/2900.ts
+#EXTINF:-1,AR: BEIN SPORT 10 HD
+http://am-iptv.club:25461/live/ma2/ma2/2899.ts
+#EXTINF:-1,Bein Sport 1 HD
+http://am-iptv.club:25461/live/ma2/ma2/6685.ts
+#EXTINF:-1,Bein Sport 2 HD
+http://am-iptv.club:25461/live/ma2/ma2/6684.ts
+#EXTINF:-1,Bein Sport 3 HD
+http://am-iptv.club:25461/live/ma2/ma2/6683.ts
+#EXTINF:-1,Bein Sport 4 HD
+http://am-iptv.club:25461/live/ma2/ma2/6682.ts
+#EXTINF:-1,Bein Sport 5 HD
+http://am-iptv.club:25461/live/ma2/ma2/6681.ts
+#EXTINF:-1,Bein Sport 6 HD
+http://am-iptv.club:25461/live/ma2/ma2/6680.ts
+#EXTINF:-1,Bein Sport 7 HD
+http://am-iptv.club:25461/live/ma2/ma2/6679.ts
+#EXTINF:-1,Bein Sport 8 HD
+http://am-iptv.club:25461/live/ma2/ma2/6678.ts
+#EXTINF:-1,Bein Sport 9 HD
+http://am-iptv.club:25461/live/ma2/ma2/6677.ts
+#EXTINF:-1,Bein Sport 10 HD
+http://am-iptv.club:25461/live/ma2/ma2/6676.ts
+#EXTINF:-1,BEIN Sports 1 vip
+http://am-iptv.club:25461/live/ma2/ma2/3063.ts
+#EXTINF:-1,BEIN Sports 2 vip
+http://am-iptv.club:25461/live/ma2/ma2/3062.ts
+#EXTINF:-1,BEIN Sports 3 vip
+http://am-iptv.club:25461/live/ma2/ma2/3061.ts
+#EXTINF:-1,BEIN Sports 4 vip
+http://am-iptv.club:25461/live/ma2/ma2/3060.ts
+#EXTINF:-1,BEIN Sports 5 vip
+http://am-iptv.club:25461/live/ma2/ma2/3059.ts
+#EXTINF:-1,BEIN Sports 6 vip
+http://am-iptv.club:25461/live/ma2/ma2/3058.ts
+#EXTINF:-1,BEIN Sports 7 vip
+http://am-iptv.club:25461/live/ma2/ma2/3057.ts
+#EXTINF:-1,BEIN Sports 8 vip
+http://am-iptv.club:25461/live/ma2/ma2/3056.ts
+#EXTINF:-1,BEIN Sports 9 vip
+http://am-iptv.club:25461/live/ma2/ma2/3055.ts
+#EXTINF:-1,BEIN Sports 10 vip
+http://am-iptv.club:25461/live/ma2/ma2/3054.ts
+#EXTINF:-1,#BEIN SPORT HD1
+http://am-iptv.club:25461/live/ma2/ma2/6116.ts
+#EXTINF:-1,#BEIN SPORT HD2
+http://am-iptv.club:25461/live/ma2/ma2/6115.ts
+#EXTINF:-1,#BEIN SPORT HD3
+http://am-iptv.club:25461/live/ma2/ma2/6114.ts
+#EXTINF:-1,#BEIN SPORT HD4
+http://am-iptv.club:25461/live/ma2/ma2/6113.ts
+#EXTINF:-1,#BEIN SPORT HD5
+http://am-iptv.club:25461/live/ma2/ma2/6112.ts
+#EXTINF:-1,#BEIN SPORT HD6
+http://am-iptv.club:25461/live/ma2/ma2/6111.ts
+#EXTINF:-1,#BEIN SPORT HD7
+http://am-iptv.club:25461/live/ma2/ma2/6110.ts
+#EXTINF:-1,#BEIN SPORT HD8
+http://am-iptv.club:25461/live/ma2/ma2/6109.ts
+#EXTINF:-1,#BEIN SPORT HD9
+http://am-iptv.club:25461/live/ma2/ma2/6108.ts
+#EXTINF:-1,#BEIN SPORT HD10
+http://am-iptv.club:25461/live/ma2/ma2/6107.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="OSN",------- OSN -------
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+http://bit.ly/Safwanlogo
+http://am-iptv.club:25461/live/ma2/ma2/350.ts
+#EXTINF:-1,AR: OSN | Movies Festival
+http://am-iptv.club:25461/live/ma2/ma2/7150.ts
+#EXTINF:-1,AR: OSN | Movies First
+http://am-iptv.club:25461/live/ma2/ma2/7151.ts
+#EXTINF:-1,AR: OSN CINEMA_1
+http://am-iptv.club:25461/live/ma2/ma2/1340.ts
+#EXTINF:-1,AR: OSN CINEMA_2
+http://am-iptv.club:25461/live/ma2/ma2/7979.ts
+#EXTINF:-1,AR: OSN Ya_Hala_Cinema
+http://am-iptv.club:25461/live/ma2/ma2/1342.ts
+#EXTINF:-1,AR: OSN Ya Hala
+http://am-iptv.club:25461/live/ma2/ma2/1238.ts
+#EXTINF:-1,AR: OSN WWE
+http://am-iptv.club:25461/live/ma2/ma2/7980.ts
+#EXTINF:-1,OSN-Nat-Geo-Wild-HD
+http://am-iptv.club:25461/live/ma2/ma2/652.ts
+#EXTINF:-1,AR_OSN_Movies-Box-Office-1HD
+http://am-iptv.club:25461/live/ma2/ma2/537.ts
+#EXTINF:-1,AR_OSN_Movies-Box-Office-2HD
+http://am-iptv.club:25461/live/ma2/ma2/536.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="DEUTSCH",------- DEUTSCH -------
 http://bit.ly/Safwanlogo
@@ -3249,13 +3394,18 @@ http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/9142.ts
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan Al Najjar
 http://bit.ly/Safwanlogo
+
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Tel:068110665485
 http://bit.ly/Safwanlogo
+
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",Download my app here
 http://bit.ly/Safwanlogo
+
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
 http://bit.ly/Safwanlogo
+
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",Don't hesitate to contact me
 http://bit.ly/Safwanlogo
+
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,www.saftv.cf
 http://bit.ly/Safwanlogo
