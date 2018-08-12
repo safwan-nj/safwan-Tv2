@@ -590,7 +590,7 @@ http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/9675.ts
 http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/9679.ts
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="beIN",------- beIN --------
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title=beIN Sports SD",------- beIN Sports SD --------
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
@@ -600,107 +600,33 @@ http://bit.ly/Safwanlogo
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
-#EXTINF:-1,Ar: Ar: BeIN MOVIES 1HD
-http://am-iptv.club:25461/live/ma2/ma2/728.ts
-#EXTINF:-1,Ar: BeIN MOVIES 2HD
-http://am-iptv.club:25461/live/ma2/ma2/729.ts
-#EXTINF:-1,Ar: BeIN MOVIES 3HD
-http://am-iptv.club:25461/live/ma2/ma2/730.ts
-#EXTINF:-1,Ar: BeIN MOVIES 4HD
-http://am-iptv.club:25461/live/ma2/ma2/731.ts
-#EXTINF:-1,AR: BEIN SERIES 1
-http://am-iptv.club:25461/live/ma2/ma2/7148.ts
-#EXTINF:-1,AR: BeIN_GROUMMET
-http://am-iptv.club:25461/live/ma2/ma2/7147.ts
-#EXTINF:-1,FR: BEiN SPORT 1
-http://am-iptv.club:25461/live/ma2/ma2/6079.ts
-#EXTINF:-1,FR: BEiN SPORT 2
-http://am-iptv.club:25461/live/ma2/ma2/6078.ts
-#EXTINF:-1,FR: BEiN SPORT 3
-http://am-iptv.club:25461/live/ma2/ma2/6077.ts
-#EXTINF:-1,******Bein*Sports******
-http://am-iptv.club:25461/live/ma2/ma2/280.ts
-#EXTINF:-1,AR: BEIN SPORT 1 HD
-http://am-iptv.club:25461/live/ma2/ma2/2908.ts
-#EXTINF:-1,AR: BEIN SPORT 2 HD
-http://am-iptv.club:25461/live/ma2/ma2/2907.ts
-#EXTINF:-1,AR: BEIN SPORT 3 HD
-http://am-iptv.club:25461/live/ma2/ma2/2906.ts
-#EXTINF:-1,AR: BEIN SPORT 4 HD
-http://am-iptv.club:25461/live/ma2/ma2/2905.ts
-#EXTINF:-1,AR: BEIN SPORT 5 HD
-http://am-iptv.club:25461/live/ma2/ma2/2904.ts
-#EXTINF:-1,AR: BEIN SPORT 6 HD
-http://am-iptv.club:25461/live/ma2/ma2/2903.ts
-#EXTINF:-1,AR: BEIN SPORT 7 HD
-http://am-iptv.club:25461/live/ma2/ma2/2902.ts
-#EXTINF:-1,AR: BEIN SPORT 8 HD
-http://am-iptv.club:25461/live/ma2/ma2/2901.ts
-#EXTINF:-1,AR: BEIN SPORT 9 HD
-http://am-iptv.club:25461/live/ma2/ma2/2900.ts
-#EXTINF:-1,AR: BEIN SPORT 10 HD
-http://am-iptv.club:25461/live/ma2/ma2/2899.ts
-#EXTINF:-1,Bein Sport 1 HD
-http://am-iptv.club:25461/live/ma2/ma2/6685.ts
-#EXTINF:-1,Bein Sport 2 HD
-http://am-iptv.club:25461/live/ma2/ma2/6684.ts
-#EXTINF:-1,Bein Sport 3 HD
-http://am-iptv.club:25461/live/ma2/ma2/6683.ts
-#EXTINF:-1,Bein Sport 4 HD
-http://am-iptv.club:25461/live/ma2/ma2/6682.ts
-#EXTINF:-1,Bein Sport 5 HD
-http://am-iptv.club:25461/live/ma2/ma2/6681.ts
-#EXTINF:-1,Bein Sport 6 HD
-http://am-iptv.club:25461/live/ma2/ma2/6680.ts
-#EXTINF:-1,Bein Sport 7 HD
-http://am-iptv.club:25461/live/ma2/ma2/6679.ts
-#EXTINF:-1,Bein Sport 8 HD
-http://am-iptv.club:25461/live/ma2/ma2/6678.ts
-#EXTINF:-1,Bein Sport 9 HD
-http://am-iptv.club:25461/live/ma2/ma2/6677.ts
-#EXTINF:-1,Bein Sport 10 HD
-http://am-iptv.club:25461/live/ma2/ma2/6676.ts
-#EXTINF:-1,BEIN Sports 1 vip
-http://am-iptv.club:25461/live/ma2/ma2/3063.ts
-#EXTINF:-1,BEIN Sports 2 vip
-http://am-iptv.club:25461/live/ma2/ma2/3062.ts
-#EXTINF:-1,BEIN Sports 3 vip
-http://am-iptv.club:25461/live/ma2/ma2/3061.ts
-#EXTINF:-1,BEIN Sports 4 vip
-http://am-iptv.club:25461/live/ma2/ma2/3060.ts
-#EXTINF:-1,BEIN Sports 5 vip
-http://am-iptv.club:25461/live/ma2/ma2/3059.ts
-#EXTINF:-1,BEIN Sports 6 vip
-http://am-iptv.club:25461/live/ma2/ma2/3058.ts
-#EXTINF:-1,BEIN Sports 7 vip
-http://am-iptv.club:25461/live/ma2/ma2/3057.ts
-#EXTINF:-1,BEIN Sports 8 vip
-http://am-iptv.club:25461/live/ma2/ma2/3056.ts
-#EXTINF:-1,BEIN Sports 9 vip
-http://am-iptv.club:25461/live/ma2/ma2/3055.ts
-#EXTINF:-1,BEIN Sports 10 vip
-http://am-iptv.club:25461/live/ma2/ma2/3054.ts
-#EXTINF:-1,#BEIN SPORT HD1
-http://am-iptv.club:25461/live/ma2/ma2/6116.ts
-#EXTINF:-1,#BEIN SPORT HD2
-http://am-iptv.club:25461/live/ma2/ma2/6115.ts
-#EXTINF:-1,#BEIN SPORT HD3
-http://am-iptv.club:25461/live/ma2/ma2/6114.ts
-#EXTINF:-1,#BEIN SPORT HD4
-http://am-iptv.club:25461/live/ma2/ma2/6113.ts
-#EXTINF:-1,#BEIN SPORT HD5
-http://am-iptv.club:25461/live/ma2/ma2/6112.ts
-#EXTINF:-1,#BEIN SPORT HD6
-http://am-iptv.club:25461/live/ma2/ma2/6111.ts
-#EXTINF:-1,#BEIN SPORT HD7
-http://am-iptv.club:25461/live/ma2/ma2/6110.ts
-#EXTINF:-1,#BEIN SPORT HD8
-http://am-iptv.club:25461/live/ma2/ma2/6109.ts
-#EXTINF:-1,#BEIN SPORT HD9
-http://am-iptv.club:25461/live/ma2/ma2/6108.ts
-#EXTINF:-1,#BEIN SPORT HD10
-http://am-iptv.club:25461/live/ma2/ma2/6107.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="OSN",------- OSN -------
+#EXTINF:-1,|AR| BEIN SPORTS NEWS SD
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/689.ts
+#EXTINF:-1,|AR|beIN sPORTS 1SD.
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/2.ts
+#EXTINF:-1,|AR|beIN sPORTS 2SD.
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/3.ts
+#EXTINF:-1,|AR|beIN sPORTS 3SD.
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/4.ts
+#EXTINF:-1,|AR|beIN sPORTS 4SD.
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/5.ts
+#EXTINF:-1,|AR|beIN sPORTS 5SD.
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6.ts
+#EXTINF:-1,|AR|beIN sPORTS 6SD.
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7.ts
+#EXTINF:-1,|AR|beIN sPORTS 7SD.
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/8.ts
+#EXTINF:-1,|AR|beIN sPORTS 8SD.
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/9.ts
+#EXTINF:-1,|AR|beIN sPORTS 9SD.
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/10.ts
+#EXTINF:-1,|AR|beIN sPORTS 10SD.
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/11.ts
+#EXTINF:-1,|AR|beIN sPORTS 11SD.
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/12.ts
+#EXTINF:-1,|AR|beIN sPORTS 12SD.
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/13.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title=beIN Sports HD",------- beIN Sports HD --------
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
@@ -710,27 +636,108 @@ http://bit.ly/Safwanlogo
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
-http://am-iptv.club:25461/live/ma2/ma2/350.ts
-#EXTINF:-1,AR: OSN | Movies Festival
-http://am-iptv.club:25461/live/ma2/ma2/7150.ts
-#EXTINF:-1,AR: OSN | Movies First
-http://am-iptv.club:25461/live/ma2/ma2/7151.ts
-#EXTINF:-1,AR: OSN CINEMA_1
-http://am-iptv.club:25461/live/ma2/ma2/1340.ts
-#EXTINF:-1,AR: OSN CINEMA_2
-http://am-iptv.club:25461/live/ma2/ma2/7979.ts
-#EXTINF:-1,AR: OSN Ya_Hala_Cinema
-http://am-iptv.club:25461/live/ma2/ma2/1342.ts
-#EXTINF:-1,AR: OSN Ya Hala
-http://am-iptv.club:25461/live/ma2/ma2/1238.ts
-#EXTINF:-1,AR: OSN WWE
-http://am-iptv.club:25461/live/ma2/ma2/7980.ts
-#EXTINF:-1,OSN-Nat-Geo-Wild-HD
-http://am-iptv.club:25461/live/ma2/ma2/652.ts
-#EXTINF:-1,AR_OSN_Movies-Box-Office-1HD
-http://am-iptv.club:25461/live/ma2/ma2/537.ts
-#EXTINF:-1,AR_OSN_Movies-Box-Office-2HD
-http://am-iptv.club:25461/live/ma2/ma2/536.ts
+#EXTINF:-1,|AR| Bein Sports HD1
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7176.ts
+#EXTINF:-1,|AR| Bein Sports HD2
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7174.ts
+#EXTINF:-1,|AR| Bein Sports HD3
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7173.ts
+#EXTINF:-1,|AR| Bein Sports HD4
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7172.ts
+#EXTINF:-1,|AR| Bein Sports HD5
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7171.ts
+#EXTINF:-1,|AR| Bein Sports HD6
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7170.ts
+#EXTINF:-1,|AR| Bein Sports HD7
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7169.ts
+#EXTINF:-1,|AR| Bein Sports HD8
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7168.ts
+#EXTINF:-1,|AR| Bein Sports HD9
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7167.ts
+#EXTINF:-1,|AR| Bein Sports HD10
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7175.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title=beIN Sports 4K",------- beIN Sports 4K --------
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+http://bit.ly/Safwanlogo
+#EXTINF:-1,|AR| beIN SPORTS 4K 1
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7327.ts
+#EXTINF:-1,|AR| beIN SPORTS 4K 2
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7326.ts
+#EXTINF:-1,|AR| beIN SPORTS 4K 3
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7325.ts
+#EXTINF:-1,|AR| beIN SPORTS 4K 4
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7324.ts
+#EXTINF:-1,|AR| beIN SPORTS 4K 5
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7323.ts
+#EXTINF:-1,|AR| beIN SPORTS 4K 6
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7322.ts
+#EXTINF:-1,|AR| beIN SPORTS 4K 7
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7321.ts
+#EXTINF:-1,|AR| beIN SPORTS 4K 8
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7320.ts
+#EXTINF:-1,|AR| beIN SPORTS 4K 9
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7319.ts
+#EXTINF:-1,|AR| beIN SPORTS 4K 10
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/7318.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title=beIN Movies",------- beIN Movies --------
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+http://bit.ly/Safwanlogo
+#EXTINF:-1,|AR| beINMOVIES HD1 PREMIER.
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/190.ts
+#EXTINF:-1,|AR| beINMOVIES HD2 .ACTION
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/193.ts
+#EXTINF:-1,|AR| beINMOVIES HD3.DRAMA
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/192.ts
+#EXTINF:-1,|AR| beINMOVIES HD4 FAMILY
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/191.ts
+#EXTINF:-1,|AR| beIN SERIES HD1
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/301.ts
+#EXTINF:-1,|AR| BeIN Series HD2
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6811.ts
+#EXTINF:-1,|AR| beiN Drama
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6810.ts
+#EXTINF:-1,|AR| Fox Action Moveis
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6809.ts
+#EXTINF:-1,|AR| FOX HD
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6806.ts
+#EXTINF:-1,|AR| Fox Movie HD
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6807.ts
+#EXTINF:-1,|AR| FOX Family Movies
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6808.ts
+#EXTINF:-1,|beIN| JUNIOR HD
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/1185.ts
+#EXTINF:-1,|AR| JUNIOR BE
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6798.ts
+#EXTINF:-1,beiN Dream Works
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6797.ts
+#EXTINF:-1,beiN Gourmet
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6804.ts
+#EXTINF:-1,|AR| AMC
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6803.ts
+#EXTINF:-1,|AR| Animal Planet
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6799.ts
+#EXTINF:-1,|AR| BBC EARTH
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6801.ts
+#EXTINF:-1,|AR| DMAX
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6802.ts
+#EXTINF:-1,|AR| FXHD
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6805.ts
+#EXTINF:-1,|AR| NAT GEO WILD
+http://xc.kingtv.pro:504/live/KingEpic/GolStaDo_000.@/6800.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="DEUTSCH",------- DEUTSCH -------
 http://bit.ly/Safwanlogo
