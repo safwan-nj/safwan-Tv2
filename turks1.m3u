@@ -1,0 +1,250 @@
+#EXTINF:-1 tvg-logo="https://goo.gl/fETVF3" group-title="TURK",-------  TURK -------
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+http://bit.ly/Safwanlogo
+#EXTINF:0,TR: YABAN TV
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/831.m3u8
+#EXTINF:0,TR: ـlke Tv HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1946.m3u8
+#EXTINF:0,TR: TV2 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2348.m3u8
+#EXTINF:0,TR: TV 8 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/865.m3u8
+#EXTINF:0,TR: TRT TURK
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1938.m3u8
+#EXTINF:0,TR: TRT SPOR HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1536.m3u8
+#EXTINF:0,TR: TRT OKUL
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1940.m3u8
+#EXTINF:0,TR: TRT MUZIK
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1939.m3u8
+#EXTINF:0,TR: TRT HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/877.m3u8
+#EXTINF:0,TR: TRT HABER HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1645.m3u8
+#EXTINF:0,TR: TIVIBUSPOR 2 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2345.m3u8
+#EXTINF:0,TR: TIVIBUSPOR 1 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1535.m3u8
+#EXTINF:0,TR: STAR TV
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1603.m3u8
+#EXTINF:0,TR: SMART SPOR 2 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2658.m3u8
+#EXTINF:0,TR: SMART SPOR 1 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2659.m3u8
+#EXTINF:0,TR: SINEMA TV HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2351.m3u8
+#EXTINF:0,TR: SHOW TV HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1572.m3u8
+#EXTINF:0,TR: SHOW TV
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2662.m3u8
+#EXTINF:0,TR: SALON 3
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1112.m3u8
+#EXTINF:0,TR: POWER TURK HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1642.m3u8
+#EXTINF:0,TR: CINESTAR VIZYON 2 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1943.m3u8
+#EXTINF:0,TR: CAPTAIN MOVIES 3
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1944.m3u8
+#EXTINF:0,TR: NTV
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1605.m3u8
+#EXTINF:0,TR: NR1 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/825.m3u8
+#EXTINF:0,TR: NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2663.m3u8
+#EXTINF:0,TR: NATIONAL GEOGRAPHIC HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2664.m3u8
+#EXTINF:0,TR: FILMBOXHD BILIMKURGU HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/829.m3u8
+#EXTINF:0,TR: BURSA SPOR TV
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2435.m3u8
+#EXTINF:0,TR: FILMBOXHD DRAM HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/828.m3u8
+#EXTINF:0,TR: FILMBOXHD ADRENALIN HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2440.m3u8
+#EXTINF:0,TR: LOCA 3
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1609.m3u8
+#EXTINF:0,TR: LOCA 2
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1608.m3u8
+#EXTINF:0,TR: LOCA 1
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1607.m3u8
+#EXTINF:0,TR: BEIN SPORTS 4 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/863.m3u8
+#EXTINF:0,TR: LIGTV 2 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1994.m3u8
+#EXTINF:0,TR: BEIN SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/862.m3u8
+#EXTINF:0,TR: LIGTV 1 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1993.m3u8
+#EXTINF:0,TR: LIGTV 1
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/861.m3u8
+#EXTINF:0,TR: LIG TV HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2370.m3u8
+#EXTINF:0,TR: BEIN SPORTS 3 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2328.m3u8
+#EXTINF:0,TR: BEIN SPORTS 1 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2278.m3u8
+#EXTINF:0,TR: KANAL D
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/869.m3u8
+#EXTINF:0,TR: KANAL A HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1948.m3u8
+#EXTINF:0,TR: KANAL 7 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1641.m3u8
+#EXTINF:0,TR: SINEMA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2666.m3u8
+#EXTINF:0,TR: KANAL 24
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1947.m3u8
+#EXTINF:0,TR: Istanbul 1 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2347.m3u8
+#EXTINF:0,TR: SINEMA TV 1001 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2349.m3u8
+#EXTINF:0,TR: HISTORY HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1702.m3u8
+#EXTINF:0,TR: HABER TURK
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1611.m3u8
+#EXTINF:0,TR: FOX HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/879.m3u8
+#EXTINF:0,TR: FIL TV HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1950.m3u8
+#EXTINF:0,TR: DISNEY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1889.m3u8
+#EXTINF:0,TR: CNN TURK
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/827.m3u8
+#EXTINF:0,TR: SINEMA TV 2 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2624.m3u8
+#EXTINF:0,TR: SINEMAX COMEDY HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2623.m3u8
+#EXTINF:0,TR: TV8.5
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2626.m3u8
+#EXTINF:0,TR: CAPTAIN MOVIES 2
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2350.m3u8
+#EXTINF:0,TR: SINEMA TV AKSIYON HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/832.m3u8
+#EXTINF:0,TR: DIZI TV HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1704.m3u8
+#EXTINF:0,TR: BEYAZ TV
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/824.m3u8
+#EXTINF:0,TR: ATV HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1610.m3u8
+#EXTINF:0,TR: A SPOR HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1951.m3u8
+#EXTINF:0,TR: A HABER HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1952.m3u8
+#EXTINF:0,TR:  SALON 2
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/714.m3u8
+#EXTINF:0,TR:  SALON 1
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/713.m3u8
+#EXTINF:0,TR: FOX CRIME
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3156.m3u8
+#EXTINF:0,TR: NTV SPORT HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3157.m3u8
+#EXTINF:0,TR: SHOWMAX
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3158.m3u8
+#EXTINF:0,TR: FILMBOXHD KORKU HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3777.m3u8
+#EXTINF:0,TR: FILMBOXHD FANTASTIK HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3779.m3u8
+#EXTINF:0,TR: CINESTAR VIZYON 3
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3780.m3u8
+#EXTINF:0,TR: beIN BOX OFFICE 3 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3781.m3u8
+#EXTINF:0,TR: beIN BOX OFFICE 2 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3782.m3u8
+#EXTINF:0,TR: FILMBOXHD TURK HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3775.m3u8
+#EXTINF:0,TR: FILMBOXHD YESILCAM HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3774.m3u8
+#EXTINF:0,TR: FILMBOXHD PREMIER HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3776.m3u8
+#EXTINF:0,TR: TIVIBUSPOR 3 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3739.m3u8
+#EXTINF:0,TR: TIVIBUSPOR 4 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3740.m3u8
+#EXTINF:0,TR: FENERBAHاE TV HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1949.m3u8

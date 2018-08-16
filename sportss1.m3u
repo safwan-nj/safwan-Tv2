@@ -1,0 +1,65 @@
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD1",======BeIn Sports HD1=======
+http://bit.ly/Safwanlogo
+#EXTINF: tvg-logo="https://goo.gl/fETVF3",beIN SPORTS NEWS
+http://www.zeebra.tv:8000/live/Next88/Next88/2673.ts
+#EXTINF: tvg-logo="https://goo.gl/fETVF3",beIN SPORTS HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2674.ts
+#EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/1675.ts
+#EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/1674.ts
+#EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/1566.ts
+#EXTINF: tvg-logo="https://goo.gl/expt4F",BEINSPORTS-4 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/1565.ts
+#EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEINSPORTS-5 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/1564.ts
+#EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEINSPORTS-6 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/1563.ts
+#EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEINSPORTS-7 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/487.ts
+#EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEINSPORTS-8 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/10.ts
+#EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEINSPORTS-9 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/9.ts
+#EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/8.ts
+#EXTINF: tvg-logo="https://goo.gl/fETVF3",logo not exist
+#EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Other Sports",======Other Sports=======
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/4dYPSD",Al Kass Sports 1sd
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-logo="https://goo.gl/UMCGZV",Al Kass Sports 2sd
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-logo="https://goo.gl/FPnGzd",Al Kass Sports 3sd
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 tvg-logo="https://goo.gl/Xvk8n8",Al Kass Sports 4sd
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-logo="https://goo.gl/6z6oZW",Al Kass Sports 5sd
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-logo="https://goo.gl/jp3VHg",AD Sports 1
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/622T6X",AD Sports 2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/fETVF3",KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1 tvg-logo="https://goo.gl/ZYV8Bm",Dubai Sports 1
+http://www.zeebra.tv:8000/live/Next88/Next88/2630.ts
+#EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",Dubai Sport 2
+http://www.zeebra.tv:8000/live/Next88/Next88/2631.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/jd3vHw",Dubai Sports 3
+http://www.zeebra.tv:8000/live/Next88/Next88/2632.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/TBJpxh",Dubai Sports 4
+http://www.zeebra.tv:8000/live/Next88/Next88/2637.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/BLTSHm",Dubai Racing
+http://www.zeebra.tv:8000/live/Next88/Next88/2637.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/9dyaVx",Nile Sport
+http://www.zeebra.tv:8000/live/Next88/Next88/3061.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/yqT9bE",Saudi Sport 
+http://www.zeebra.tv:8000/live/Next88/Next88/3853.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/R2xEE5",Sharjah Sports HD
+http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2785.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/iDhhHs",Yas Sports HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2694.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/ecHNDb",Oman Sports
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8

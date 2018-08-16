@@ -1,0 +1,160 @@
+#EXTINF:-1 tvg-logo="https://goo.gl/fETVF3" group-title="NETHERLANDS",---------- NETHERLANDS ----------
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+http://bit.ly/Safwanlogo
+#EXTINF:0,NL: Extreme Sports
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2918.m3u8
+#EXTINF:0,NL: Film 1 Drama
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/3159.m3u8
+#EXTINF:0,NL: Fox Sports 6
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2914.m3u8
+#EXTINF:0,NL: RTL Crime
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2920.m3u8
+#EXTINF:0,NL: RTL Z
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2921.m3u8
+#EXTINF:0,NL: JimJam
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/4203.m3u8
+#EXTINF:0,NL: Ziggo Sport Voetbal
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2737.m3u8
+#EXTINF:0,NL: Ziggo Sport Extra 1
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2366.m3u8
+#EXTINF:0,NL: Veronica
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2368.m3u8
+#EXTINF:0,NL: TV ORANJE
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2736.m3u8
+#EXTINF:0,NL: SPORT 1 SELECT
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1736.m3u8
+#EXTINF:0,NL: SBS 9
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1719.m3u8
+#EXTINF:0,NL: SBS 6 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1718.m3u8
+#EXTINF:0,NL: RTL 8 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1716.m3u8
+#EXTINF:0,NL: RTL 7
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1715.m3u8
+#EXTINF:0,NL: RTL 5 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1714.m3u8
+#EXTINF:0,NL: RTL 4
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1713.m3u8
+#EXTINF:0,NL: NPO 101
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2638.m3u8
+#EXTINF:0,NL: NPO 3 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1712.m3u8
+#EXTINF:0,NL: NPO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1711.m3u8
+#EXTINF:0,NL: NPO 1 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1710.m3u8
+#EXTINF:0,NL: NET 5
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1717.m3u8
+#EXTINF:0,NL: National Geographic HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2010.m3u8
+#EXTINF:0,NL: Investigation Discovery
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2640.m3u8
+#EXTINF:0,NL: History HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2639.m3u8
+#EXTINF:0,NL: HBO 3
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1720.m3u8
+#EXTINF:0,NL: HBO 2
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1721.m3u8
+#EXTINF:0,NL: HBO 1
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1722.m3u8
+#EXTINF:0,NL: Fox Sports 5 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1728.m3u8
+#EXTINF:0,NL: Fox Sports 4 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1727.m3u8
+#EXTINF:0,NL: Fox Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1726.m3u8
+#EXTINF:0,NL: Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1725.m3u8
+#EXTINF:0,NL: Fox Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1724.m3u8
+#EXTINF:0,NL: Fox
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1723.m3u8
+#EXTINF:0,NL: Film 1 Sundance
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2012.m3u8
+#EXTINF:0,NL: Film 1 Premiere
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1730.m3u8
+#EXTINF:0,NL: Film 1 Comedy and Kids
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1731.m3u8
+#EXTINF:0,NL: Film 1 Action
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1732.m3u8
+#EXTINF:0,NL: EDGE
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2726.m3u8
+#EXTINF:0,NL: Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2641.m3u8
+#EXTINF:0,NL: Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2013.m3u8
+#EXTINF:0,NL: Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2011.m3u8
+#EXTINF:0,NL: AT5
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2727.m3u8
+#EXTINF:0,NL: 24kitchen
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/1737.m3u8
+#EXTINF:0,NL: Comedy Central Family
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2922.m3u8
+#EXTINF:0,NL: DISNEY JUNIOR
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2923.m3u8
+#EXTINF:0,NL: Eurosport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2919.m3u8
+#EXTINF:0,NL: Ziggo Sport Golf
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2917.m3u8
+#EXTINF:0,NL: Ziggo Sport racing
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2916.m3u8
+#EXTINF:0,NL: Ziggo Sport Select HD
+#EXTVLCOPT:network-caching=1000
+http://5.189.187.55:8000/live/Fadil/skype/2915.m3u8
