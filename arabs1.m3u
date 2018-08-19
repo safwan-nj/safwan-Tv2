@@ -113,29 +113,29 @@ http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC",======MBC=======
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1",MBC 1
-http://5.189.187.55:8000/live/Fadil/skype/1743.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/1743.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/FDvujj",MBC 2
-http://5.189.187.55:8000/live/Fadil/skype/1746.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/1746.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/E4CNhT",MBC 3
-http://5.189.187.55:8000/live/Fadil/skype/1745.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/1745.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/jjAQdb",MBC 4
-http://5.189.187.55:8000/live/Fadil/skype/1744.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/1744.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/Qh3mL7",MBC Action
-http://5.189.187.55:8000/live/Fadil/skype/1749.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/1749.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm",MBC Max
-http://5.189.187.55:8000/live/Fadil/skype/1751.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/1751.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/TPNedw",MBC Bollywood
-http://5.189.187.55:8000/live/Fadil/skype/1748.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/1748.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama
-http://5.189.187.55:8000/live/Fadil/skype/1750.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/1750.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/yXPF9L",MBC Masr
-http://5.189.187.55:8000/live/Fadil/skype/1747.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/1747.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Masr 2
 http://www.zeebra.tv:8000/live/Next88/Next88/2628.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/dnHy2e",Zee Aflam
-http://5.189.187.55:8000/live/Fadil/skype/3234.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/3234.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/4vmvAX",Zee Alwan
-http://5.189.187.55:8000/live/Fadil/skype/3235.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/3235.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/oXGqeX",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/H6Vx6U" group-title="EGYPT",======EGYPT=======
