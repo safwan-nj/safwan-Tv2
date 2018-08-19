@@ -1,12 +1,12 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="SYRIA",======SYRIA=======
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+#EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+#EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+#EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf",Syria
 http://82.137.248.16:1935/Sat/stream11072018/chunklist.m3u8
@@ -52,13 +52,13 @@ http://82.137.248.16:1935/RDimshq/RDimshqLive/chunklist.m3u8
 http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xZabzC" group-title="LEBANON",======LEBANON=======
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+#EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+#EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+#EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed
 http://youness-export.com/tv/aljadeed
@@ -85,13 +85,13 @@ https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/jBWNeU" group-title="ROTANA",======ROTANA=======
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+#EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+#EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+#EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/BoM2KE",Rotana cinema EGY
 http://streaming.i-sat.tv:1935/livestream/mrtc/chunklist.m3u8
@@ -113,40 +113,40 @@ http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC",======MBC=======
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1",MBC 1
-http://www.zeebra.tv:8000/live/Next88/Next88/2619.ts
+http://5.189.187.55:8000/live/Fadil/skype/1743.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/FDvujj",MBC 2
-http://www.zeebra.tv:8000/live/Next88/Next88/2620.ts
+http://5.189.187.55:8000/live/Fadil/skype/1746.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/E4CNhT",MBC 3
-http://www.zeebra.tv:8000/live/Next88/Next88/2621.ts
+http://5.189.187.55:8000/live/Fadil/skype/1745.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/jjAQdb",MBC 4
-http://www.zeebra.tv:8000/live/Next88/Next88/2622.ts
+http://5.189.187.55:8000/live/Fadil/skype/1744.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Qh3mL7",MBC Action
-http://www.zeebra.tv:8000/live/Next88/Next88/2627.ts
+http://5.189.187.55:8000/live/Fadil/skype/1749.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm",MBC Max
-http://www.zeebra.tv:8000/live/Next88/Next88/2623.ts
+http://5.189.187.55:8000/live/Fadil/skype/1751.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/TPNedw",MBC Bollywood
-http://www.zeebra.tv:8000/live/Next88/Next88/2626.ts
+http://5.189.187.55:8000/live/Fadil/skype/1748.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama
-http://www.zeebra.tv:8000/live/Next88/Next88/2625.ts
+http://5.189.187.55:8000/live/Fadil/skype/1750.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/yXPF9L",MBC Masr
-http://www.zeebra.tv:8000/live/Next88/Next88/2624.ts
+http://5.189.187.55:8000/live/Fadil/skype/1747.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Masr 2
 http://www.zeebra.tv:8000/live/Next88/Next88/2628.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/dnHy2e",Zee Aflam
-http://www.zeebra.tv:8000/live/Next88/Next88/2685.ts
+http://5.189.187.55:8000/live/Fadil/skype/3234.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/4vmvAX",Zee Alwan
-http://www.zeebra.tv:8000/live/Next88/Next88/2680.ts
+http://5.189.187.55:8000/live/Fadil/skype/3235.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/oXGqeX",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/H6Vx6U" group-title="EGYPT",======EGYPT=======
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+#EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+#EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+#EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/we1jqe",Rotana Drama
 http://itats.dynv6.net:1935/live/rotanamasr/playlist.m3u8
@@ -200,13 +200,13 @@ http://www.zeebra.tv:8000/live/Next88/Next88/3506.ts
 http://www.zeebra.tv:8000/live/Next88/Next88/3507.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/yXJFyG" group-title="IRAQ",=====IRAQ========
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+#EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+#EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+#EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/QHufyd",Sumaria
 http://youness-export.com/tv/sumaria
@@ -230,13 +230,13 @@ http://www.zeebra.tv:8000/live/Next88/Next88/3271.ts
 http://stream1.joinvisions.net:1935/taglive/taghier/media.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/zfXXBu" group-title="TUNISIA",=====TUNISIA========
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+#EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+#EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+#EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 #EXTINF:0 tvg-logo="https://goo.gl/oUB4Dz",Alwataniya 1
 http://www.zeebra.tv:8000/live/Next88/Next88/2928.ts
@@ -276,13 +276,13 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS",=====NEWS========
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+#EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+#EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+#EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/FMuNVJ",Aljazeera
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
@@ -330,13 +330,13 @@ http://streaming.i-sat.tv:8081/livestream/toyourjanaa/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OTHER ARAB",=====OTHER ARAB========
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2" ,Safwan TvBox-tel:068110665485
+#EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/FxqFm2",fb.com/mr.safwan.alnajjar
+#EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
+#EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/fQkZGt",Nat Geo
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
