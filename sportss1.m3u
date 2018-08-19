@@ -1,5 +1,13 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD1",======BeIn Sports HD1=======
 http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
+http://bit.ly/Safwanlogo
+#EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
+http://bit.ly/Safwanlogo
 #EXTINF: tvg-logo="https://goo.gl/fETVF3",beIN SPORTS NEWS
 http://www.zeebra.tv:8000/live/Next88/Next88/2673.ts
 #EXTINF: tvg-logo="https://goo.gl/fETVF3",beIN SPORTS HD
@@ -24,6 +32,56 @@ http://www.zeebra.tv:8000/live/Next88/Next88/10.ts
 http://www.zeebra.tv:8000/live/Next88/Next88/9.ts
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 HD
 http://www.zeebra.tv:8000/live/Next88/Next88/8.ts
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD2",======BeIn Sports HD2=======
+http://bit.ly/Safwanlogo
+#EXTINF: tvg-logo="https://goo.gl/fETVF3",beIN SPORTS NEWS
+http://5.189.187.55:8000/live/Fadil/skype/2635.m3u8
+#EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 HD
+http://5.189.187.55:8000/live/Fadil/skype/779.m3u8
+#EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 HD
+http://5.189.187.55:8000/live/Fadil/skype/775.m3u8
+#EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 HD
+http://5.189.187.55:8000/live/Fadil/skype/774.m3u8
+#EXTINF: tvg-logo="https://goo.gl/expt4F",BEINSPORTS-4 HD
+http://5.189.187.55:8000/live/Fadil/skype/773.m3u8
+#EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEINSPORTS-5 HD
+http://5.189.187.55:8000/live/Fadil/skype/772.m3u8
+#EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEINSPORTS-6 HD
+http://5.189.187.55:8000/live/Fadil/skype/771.m3u8
+#EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEINSPORTS-7 HD
+http://5.189.187.55:8000/live/Fadil/skype/770.m3u8
+#EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEINSPORTS-8 HD
+http://5.189.187.55:8000/live/Fadil/skype/769.m3u8
+#EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEINSPORTS-9 HD
+http://5.189.187.55:8000/live/Fadil/skype/768.m3u8
+#EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 HD
+http://5.189.187.55:8000/live/Fadil/skype/778.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD",======BeIn Sports SD=======
+http://bit.ly/Safwanlogo
+#EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 SD
+http://www.zeebra.tv:8000/live/Next88/Next88/3069.ts
+#EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 SD
+http://www.zeebra.tv:8000/live/Next88/Next88/3070.ts
+#EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 SD
+http://www.zeebra.tv:8000/live/Next88/Next88/3071.ts
+#EXTINF: tvg-logo="https://goo.gl/expt4F",BEINSPORTS-4 SD
+http://www.zeebra.tv:8000/live/Next88/Next88/3072.ts
+#EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEINSPORTS-5 SD
+http://www.zeebra.tv:8000/live/Next88/Next88/3073.ts
+#EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEINSPORTS-6 SD
+http://www.zeebra.tv:8000/live/Next88/Next88/3076.ts
+#EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEINSPORTS-7 SD
+http://www.zeebra.tv:8000/live/Next88/Next88/3077.ts
+#EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEINSPORTS-8 SD
+http://www.zeebra.tv:8000/live/Next88/Next88/3078.ts
+#EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEINSPORTS-9 SD
+http://www.zeebra.tv:8000/live/Next88/Next88/3079.ts
+#EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 SD
+http://www.zeebra.tv:8000/live/Next88/Next88/3080.ts
+
+
 #EXTINF: tvg-logo="https://goo.gl/fETVF3",logo not exist
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Other Sports",======Other Sports=======
 http://bit.ly/Safwanlogo
