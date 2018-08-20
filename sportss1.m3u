@@ -13,50 +13,54 @@ http://www.zeebra.tv:8000/live/Next88/Next88/2673.ts
 #EXTINF: tvg-logo="https://goo.gl/fETVF3",beIN SPORTS HD
 http://www.zeebra.tv:8000/live/Next88/Next88/2674.ts
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/1675.ts
+http://hbox.cdnss.me:80/live/mtg/2406/3943.ts
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/1674.ts
+http://hbox.cdnss.me:80/live/mtg/2406/3944.ts
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/1566.ts
+http://hbox.cdnss.me:80/live/mtg/2406/3945.ts
 #EXTINF: tvg-logo="https://goo.gl/expt4F",BEINSPORTS-4 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/1565.ts
+http://hbox.cdnss.me:80/live/mtg/2406/3946.ts
 #EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEINSPORTS-5 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/1564.ts
+http://hbox.cdnss.me:80/live/mtg/2406/4194.ts
 #EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEINSPORTS-6 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/1563.ts
+http://hbox.cdnss.me:80/live/mtg/2406/4195.ts
 #EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEINSPORTS-7 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/487.ts
+http://hbox.cdnss.me:80/live/mtg/2406/4196.ts
 #EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEINSPORTS-8 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/10.ts
+http://hbox.cdnss.me:80/live/mtg/2406/4197.ts
 #EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEINSPORTS-9 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/9.ts
+http://hbox.cdnss.me:80/live/mtg/2406/4366.ts
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/8.ts
+http://hbox.cdnss.me:80/live/mtg/2406/4365.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD2",======BeIn Sports HD2=======
 http://bit.ly/Safwanlogo
 #EXTINF: tvg-logo="https://goo.gl/fETVF3",beIN SPORTS NEWS
-http://5.189.187.55:8000/live/Fadil/skype/2635.m3u8
+http://hbox.cdnss.me:80/live/mtg/2406/2301.ts
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 HD
-http://5.189.187.55:8000/live/Fadil/skype/779.m3u8
+http://hbox.cdnss.me:80/live/mtg/2406/553.ts
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 HD
-http://5.189.187.55:8000/live/Fadil/skype/775.m3u8
+http://hbox.cdnss.me:80/live/mtg/2406/552.ts
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 HD
-http://5.189.187.55:8000/live/Fadil/skype/774.m3u8
+http://hbox.cdnss.me:80/live/mtg/2406/554.ts
 #EXTINF: tvg-logo="https://goo.gl/expt4F",BEINSPORTS-4 HD
-http://5.189.187.55:8000/live/Fadil/skype/773.m3u8
+http://hbox.cdnss.me:80/live/mtg/2406/555.ts
 #EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEINSPORTS-5 HD
-http://5.189.187.55:8000/live/Fadil/skype/772.m3u8
+http://hbox.cdnss.me:80/live/mtg/2406/556.ts
 #EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEINSPORTS-6 HD
-http://5.189.187.55:8000/live/Fadil/skype/771.m3u8
+http://hbox.cdnss.me:80/live/mtg/2406/557.ts
 #EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEINSPORTS-7 HD
-http://5.189.187.55:8000/live/Fadil/skype/770.m3u8
+http://hbox.cdnss.me:80/live/mtg/2406/587.ts
 #EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEINSPORTS-8 HD
-http://5.189.187.55:8000/live/Fadil/skype/769.m3u8
+http://hbox.cdnss.me:80/live/mtg/2406/588.ts
 #EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEINSPORTS-9 HD
-http://5.189.187.55:8000/live/Fadil/skype/768.m3u8
+http://hbox.cdnss.me:80/live/mtg/2406/589.ts
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 HD
-http://5.189.187.55:8000/live/Fadil/skype/778.m3u8
+http://hbox.cdnss.me:80/live/mtg/2406/590.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein_11 HD (local)
+http://hbox.cdnss.me:80/live/mtg/2406/4364.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein_12 HD (local)
+http://hbox.cdnss.me:80/live/mtg/2406/4363.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD",======BeIn Sports SD=======
 http://bit.ly/Safwanlogo
