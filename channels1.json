@@ -1,3257 +1,3262 @@
-[
+{
+  "Arab Channels": [{
+    "category": "======SYRIA=======",
+    "Channels":[
    {
-      "@title": "======SYRIA=======",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "======SYRIA=======",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Safwan_TvBox-tel:068110665485",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Safwan_TvBox-tel:068110665485",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "fb.com/mr.safwan.alnajjar",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "fb.com/mr.safwan.alnajjar",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Syria",
-      "@urlkey": "0",
-      "@url": "http://82.137.248.16:1935/Sat/stream11072018/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Syria",
+      "sourceskey": "0",
+      "sources": "http://82.137.248.16:1935/Sat/stream11072018/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Syria_drama",
-      "@urlkey": "0",
-      "@url": "http://82.137.248.16:1935/Drama/stream11072018/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Syria_drama",
+      "sourceskey": "0",
+      "sources": "http://82.137.248.16:1935/Drama/stream11072018/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Syria_news",
-      "@urlkey": "0",
-      "@url": "http://82.137.248.16:1935/Snews/stream11072018/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Syria_news",
+      "sourceskey": "0",
+      "sources": "http://82.137.248.16:1935/Snews/stream11072018/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Noor_Alsham_HD",
-      "@urlkey": "0",
-      "@url": "http://82.137.248.16:1935/Nour/stream11072018/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Noor_Alsham_HD",
+      "sourceskey": "0",
+      "sources": "http://82.137.248.16:1935/Nour/stream11072018/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "SamaTV",
-      "@urlkey": "0",
-      "@url": "http://sama-tv.net:1935/live/samatv/gmswf.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "SamaTV",
+      "sourceskey": "0",
+      "sources": "http://sama-tv.net:1935/live/samatv/gmswf.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Lana_Souria",
-      "@urlkey": "0",
-      "@url": "http://mtqtqloqdxtlive.mediatriple.net/mtqtqloqdxtlive/u_stream_5ae30a53230df_3/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Lana_Souria",
+      "sourceskey": "0",
+      "sources": "http://mtqtqloqdxtlive.mediatriple.net/mtqtqloqdxtlive/u_stream_5ae30a53230df_3/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Hawa_Syria",
-      "@urlkey": "0",
-      "@url": "http://178.162.204.47:1935/fifa/fifa/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Hawa_Syria",
+      "sourceskey": "0",
+      "sources": "http://178.162.204.47:1935/fifa/fifa/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Ogarit",
-      "@urlkey": "0",
-      "@url": "http://82.137.248.16:1935/Ugarit/stream11072018/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Ogarit",
+      "sourceskey": "0",
+      "sources": "http://82.137.248.16:1935/Ugarit/stream11072018/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Syrian_Education",
-      "@urlkey": "0",
-      "@url": "http://82.137.248.16:1935/SEdu/stream11072018/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Syrian_Education",
+      "sourceskey": "0",
+      "sources": "http://82.137.248.16:1935/SEdu/stream11072018/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Ninar",
-      "@urlkey": "0",
-      "@url": "http://5.39.218.151:1984/live/ch1.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Ninar",
+      "sourceskey": "0",
+      "sources": "http://5.39.218.151:1984/live/ch1.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Souryana_HD",
-      "@urlkey": "0",
-      "@url": "http://82.137.248.16:1935/Souryana/stream11072018/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Souryana_HD",
+      "sourceskey": "0",
+      "sources": "http://82.137.248.16:1935/Souryana/stream11072018/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Souria_Tv",
-      "@urlkey": "0",
-      "@url": "http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Souria_Tv",
+      "sourceskey": "0",
+      "sources": "http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Halab-Today",
-      "@urlkey": "0",
-      "@url": "http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Halab-Today",
+      "sourceskey": "0",
+      "sources": "http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Orient",
-      "@urlkey": "0",
-      "@url": "https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Orient",
+      "sourceskey": "0",
+      "sources": "https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "alminber",
-      "@urlkey": "0",
-      "@url": "http://itats.dynv6.net:1935/live/alminbar/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "alminber",
+      "sourceskey": "0",
+      "sources": "http://itats.dynv6.net:1935/live/alminbar/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Qamishlo",
-      "@urlkey": "0",
-      "@url": "http://itats.dynv6.net:1935/live/Qamishlo/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Qamishlo",
+      "sourceskey": "0",
+      "sources": "http://itats.dynv6.net:1935/live/Qamishlo/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ANN",
-      "@urlkey": "0",
-      "@url": "http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ANN",
+      "sourceskey": "0",
+      "sources": "http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "DORAR_TV",
-      "@urlkey": "0",
-      "@url": "http://de.live.net.sa:1935/live/dorar/gmswf.m3u8?v=1558393494",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "DORAR_TV",
+      "sourceskey": "0",
+      "sources": "http://de.live.net.sa:1935/live/dorar/gmswf.m3u8?v=1558393494",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Radio_Sham_FM",
-      "@urlkey": "0",
-      "@url": "http://shamfm.info:8200/;",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Radio_Sham_FM",
+      "sourceskey": "0",
+      "sources": "http://shamfm.info:8200/;",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Radio_Damascus",
-      "@urlkey": "0",
-      "@url": "http://82.137.248.16:1935/RDimshq/RDimshqLive/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Radio_Damascus",
+      "sourceskey": "0",
+      "sources": "http://82.137.248.16:1935/RDimshq/RDimshqLive/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Radio_Sawt_Alshabab",
-      "@urlkey": "0",
-      "@url": "http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
-   },
+      "title": "Radio_Sawt_Alshabab",
+      "sourceskey": "0",
+      "sources": "http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
+   }],
    {
-      "@title": "======LEBANON=======",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "======LEBANON=======",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Safwan_TvBox-tel:068110665485",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Safwan_TvBox-tel:068110665485",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "fb.com/mr.safwan.alnajjar",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "fb.com/mr.safwan.alnajjar",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Aljadeed",
-      "@urlkey": "0",
-      "@url": "http://youness-export.com/tv/aljadeed",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Aljadeed",
+      "sourceskey": "0",
+      "sources": "http://youness-export.com/tv/aljadeed",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MTV_lebanon",
-      "@urlkey": "0",
-      "@url": "https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MTV_lebanon",
+      "sourceskey": "0",
+      "sources": "https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "LBC",
-      "@urlkey": "0",
-      "@url": "http://youness-export.com/tv/lbc",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "LBC",
+      "sourceskey": "0",
+      "sources": "http://youness-export.com/tv/lbc",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "LDC",
-      "@urlkey": "0",
-      "@url": "http://streaming.i-sat.tv:8081/livestream/ldcle/chunks.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "LDC",
+      "sourceskey": "0",
+      "sources": "http://streaming.i-sat.tv:8081/livestream/ldcle/chunks.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OTV",
-      "@urlkey": "0",
-      "@url": "http://youness-export.com/tv/otv",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OTV",
+      "sourceskey": "0",
+      "sources": "http://youness-export.com/tv/otv",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "NBN",
-      "@urlkey": "0",
-      "@url": "http://youness-export.com/tv/nbn",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "NBN",
+      "sourceskey": "0",
+      "sources": "http://youness-export.com/tv/nbn",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Future_TV",
-      "@urlkey": "0",
-      "@url": "http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Future_TV",
+      "sourceskey": "0",
+      "sources": "http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Mayadeen",
-      "@urlkey": "0",
-      "@url": "http://lmd.cdn.octivid.com/lmd/smil:switch.smil/gmswf.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Mayadeen",
+      "sourceskey": "0",
+      "sources": "http://lmd.cdn.octivid.com/lmd/smil:switch.smil/gmswf.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Manar",
-      "@urlkey": "0",
-      "@url": "http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Manar",
+      "sourceskey": "0",
+      "sources": "http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Arabica_TV",
-      "@urlkey": "0",
-      "@url": "https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Arabica_TV",
+      "sourceskey": "0",
+      "sources": "https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "======ROTANA=======",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "======ROTANA=======",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Safwan_TvBox-tel:068110665485",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Safwan_TvBox-tel:068110665485",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "fb.com/mr.safwan.alnajjar",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "fb.com/mr.safwan.alnajjar",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Rotana_cinema_EGY",
-      "@urlkey": "0",
-      "@url": "http://streaming.i-sat.tv:1935/livestream/mrtc/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Rotana_cinema_EGY",
+      "sourceskey": "0",
+      "sources": "http://streaming.i-sat.tv:1935/livestream/mrtc/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Rotana_cinema_KSA",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2692.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Rotana_cinema_KSA",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2692.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Rotana_Aflam",
-      "@urlkey": "0",
-      "@url": "http://streaming.i-sat.tv:8081/livestream/rotanaaflamm/chunks.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Rotana_Aflam",
+      "sourceskey": "0",
+      "sources": "http://streaming.i-sat.tv:8081/livestream/rotanaaflamm/chunks.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Rotana_classic",
-      "@urlkey": "0",
-      "@url": "http://streaming.i-sat.tv:1935/livestream/rtca/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Rotana_classic",
+      "sourceskey": "0",
+      "sources": "http://streaming.i-sat.tv:1935/livestream/rtca/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Rotana_music",
-      "@urlkey": "0",
-      "@url": "http://streaming.i-sat.tv:8081/livestream/rotanamusick/chunks.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Rotana_music",
+      "sourceskey": "0",
+      "sources": "http://streaming.i-sat.tv:8081/livestream/rotanamusick/chunks.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Rotana_clip",
-      "@urlkey": "0",
-      "@url": "http://streaming.i-sat.tv:1935/livestream/rtcp/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Rotana_clip",
+      "sourceskey": "0",
+      "sources": "http://streaming.i-sat.tv:1935/livestream/rtcp/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Rotana_Drama",
-      "@urlkey": "0",
-      "@url": "http://streaming.i-sat.tv:1935/livestream/rotanamasr/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Rotana_Drama",
+      "sourceskey": "0",
+      "sources": "http://streaming.i-sat.tv:1935/livestream/rotanamasr/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Rotana_khalijia",
-      "@urlkey": "0",
-      "@url": "http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/chunks.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Rotana_khalijia",
+      "sourceskey": "0",
+      "sources": "http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/chunks.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "======MBC=======",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "======MBC=======",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MBC_1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2619.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MBC_1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2619.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MBC_2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2620.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MBC_2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2620.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MBC_3",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2621.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MBC_3",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2621.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MBC_4",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2622.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MBC_4",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2622.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MBC_Action",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2627.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MBC_Action",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2627.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MBC_Max",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2623.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MBC_Max",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2623.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MBC_Bollywood",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2626.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MBC_Bollywood",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2626.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MBC_Drama",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2625.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MBC_Drama",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2625.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MBC_Masr",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2624.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MBC_Masr",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2624.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MBC_Masr_2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2628.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MBC_Masr_2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2628.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Zee_Aflam",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2685.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Zee_Aflam",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2685.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Zee_Alwan",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2680.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Zee_Alwan",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2680.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Wanasah",
-      "@urlkey": "0",
-      "@url": "http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Wanasah",
+      "sourceskey": "0",
+      "sources": "http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "======BeIn_Sports_HD1=======",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "======BeIn_Sports_HD1=======",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "beIN_SPORTS_NEWS",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2673.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "beIN_SPORTS_NEWS",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2673.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "beIN_SPORTS_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2674.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "beIN_SPORTS_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2674.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-1_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1675.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-1_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1675.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-2_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1674.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-2_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1674.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-3_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1566.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-3_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1566.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-4_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1565.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-4_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1565.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-5_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1564.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-5_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1564.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-6_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1563.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-6_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1563.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-7_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/487.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-7_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/487.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-8_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/10.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-8_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/10.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-9_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/9.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-9_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/9.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-10_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/8.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-10_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/8.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "======BeIn_Sports_HD2=======",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "======BeIn_Sports_HD2=======",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1791.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1791.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1777.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1777.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-3",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1776.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-3",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1776.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-4",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1775.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-4",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1775.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-5",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1773.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-5",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1773.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-6",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1772.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-6",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1772.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-7",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1679.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-7",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1679.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-8",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1678.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-8",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1678.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-9",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1677.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-9",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1677.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-10",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1676.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-10",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1676.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "======BeIn_Sports_SD=======",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "======BeIn_Sports_SD=======",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_1SD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3069.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_1SD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3069.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_2SD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3070.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_2SD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3070.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_3SD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3071.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_3SD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3071.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_4SD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3072.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_4SD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3072.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_5SD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3073.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_5SD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3073.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_6SD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3076.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_6SD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3076.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_7SD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3077.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_7SD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3077.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_8SD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3078.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_8SD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3078.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-9",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3079.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-9",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3079.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-10",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3080.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-10",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3080.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "logo_not_exist",
-      "@urlkey": "0",
-      "@url": "",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "logo_not_exist",
+      "sourceskey": "0",
+      "sources": "",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "======BeIn_Sports_Low=======",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "======BeIn_Sports_Low=======",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_1Low",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3108.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_1Low",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3108.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_2Low",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3109.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_2Low",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3109.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_3Low",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3110.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_3Low",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3110.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_4Low",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3111.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_4Low",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3111.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_5Low",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3112.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_5Low",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3112.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_6Low",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3113.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_6Low",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3113.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_7Low",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3114.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_7Low",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3114.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORT_8Low",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3115.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORT_8Low",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3115.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-9",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3116.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-9",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3116.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BEINSPORTS-10",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3117.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BEINSPORTS-10",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3117.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "======Other_Sports=======",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "======Other_Sports=======",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Hawa_Syria",
-      "@urlkey": "0",
-      "@url": "http://178.162.204.47:1935/fifa/fifa/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Hawa_Syria",
+      "sourceskey": "0",
+      "sources": "http://178.162.204.47:1935/fifa/fifa/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Kass_Sports_1sd",
-      "@urlkey": "0",
-      "@url": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Kass_Sports_1sd",
+      "sourceskey": "0",
+      "sources": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Kass_Sports_2sd",
-      "@urlkey": "0",
-      "@url": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Kass_Sports_2sd",
+      "sourceskey": "0",
+      "sources": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Kass_Sports_3sd",
-      "@urlkey": "0",
-      "@url": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Kass_Sports_3sd",
+      "sourceskey": "0",
+      "sources": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Kass_Sports_4sd",
-      "@urlkey": "0",
-      "@url": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Kass_Sports_4sd",
+      "sourceskey": "0",
+      "sources": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Kass_Sports_5sd",
-      "@urlkey": "0",
-      "@url": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Kass_Sports_5sd",
+      "sourceskey": "0",
+      "sources": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "AD_Sports_1",
-      "@urlkey": "0",
-      "@url": "http://adtv.ercdn.net/adsport1/adsport1.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "AD_Sports_1",
+      "sourceskey": "0",
+      "sources": "http://adtv.ercdn.net/adsport1/adsport1.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "AD_Sports_2",
-      "@urlkey": "0",
-      "@url": "http://adtv.ercdn.net/adsport2/adsport2.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "AD_Sports_2",
+      "sourceskey": "0",
+      "sources": "http://adtv.ercdn.net/adsport2/adsport2.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "KTV_Sport",
-      "@urlkey": "0",
-      "@url": "http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "KTV_Sport",
+      "sourceskey": "0",
+      "sources": "http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Dubai_Sports_1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2630.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Dubai_Sports_1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2630.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Dubai_Sport_2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2631.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Dubai_Sport_2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2631.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Dubai_Sports_3",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2632.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Dubai_Sports_3",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2632.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Dubai_Sports_4",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2637.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Dubai_Sports_4",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2637.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Dubai_Racing",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2637.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Dubai_Racing",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2637.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Nile_Sport",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3061.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Nile_Sport",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3061.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Saudi_Sport_",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3853.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Saudi_Sport_",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3853.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Sharjah_Sports_HD",
-      "@urlkey": "0",
-      "@url": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2785.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Sharjah_Sports_HD",
+      "sourceskey": "0",
+      "sources": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2785.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Yas_Sports_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2694.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Yas_Sports_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2694.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Oman_Sports",
-      "@urlkey": "0",
-      "@url": "http://38.96.148.30:1935/live/omantv2//playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Oman_Sports",
+      "sourceskey": "0",
+      "sources": "http://38.96.148.30:1935/live/omantv2//playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "======OSN=======",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "======OSN=======",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_DISCOVERY_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2291.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_DISCOVERY_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2291.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Discovery_Sc_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1800.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Discovery_Sc_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1800.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Discovery_Life_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3042.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Discovery_Life_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3042.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_DISCOVERY_ID_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2894.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_DISCOVERY_ID_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2894.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Discovery_Family_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3177.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Discovery_Family_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3177.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Nat_Geo_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3178.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Nat_Geo_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3178.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Nat_Geo_People_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2586.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Nat_Geo_People_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2586.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Nat_Geo_Wild_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2241.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Nat_Geo_Wild_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2241.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Animal_Planet_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1927.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Animal_Planet_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1927.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Outdoor_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2892.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Outdoor_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2892.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_AD_Nat_Geo_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2836.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_AD_Nat_Geo_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2836.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_History_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2768.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_History_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2768.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_H2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2765.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_H2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2765.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_DMAX",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2766.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_DMAX",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2766.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_Duka_Box",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3192.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_Duka_Box",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3192.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Travel",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2585.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Travel",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2585.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Crime",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3317.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Crime",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3317.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Ya_Hala!_Aloula_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1823.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Ya_Hala!_Aloula_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1823.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Yahala_Aloula_+2_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2582.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Yahala_Aloula_+2_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2582.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Ya_Hala!_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2239.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Ya_Hala!_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2239.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Yahala_Cinema_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2616.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Yahala_Cinema_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2616.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_MBC+_Drama_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1798.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_MBC+_Drama_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1798.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_MBC_P_Variety_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2618.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_MBC_P_Variety_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2618.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Musalsalat_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3038.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Musalsalat_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3038.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Musalsalat_2HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3334.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Musalsalat_2HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3334.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_AD_Nat_Geo_Kids_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3372.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_AD_Nat_Geo_Kids_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3372.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Fann",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3068.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Fann",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3068.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Al_Yawm",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2482.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Al_Yawm",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2482.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Al_Safwa",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2881.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Al_Safwa",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2881.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_CINEMA_1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1910.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_CINEMA_1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1910.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_CINEMA_2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1909.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_CINEMA_2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1909.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_ART_Aflam_1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2405.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_ART_Aflam_1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2405.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_ART_Aflam_2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2406.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_ART_Aflam_2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2406.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_ART_Cinema",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2409.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_ART_Cinema",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2409.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_ART_Hekayat_1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2407.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_ART_Hekayat_1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2407.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_ART_Hekayat_2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2408.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_ART_Hekayat_2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2408.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_GULLI_ARABIC",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3535.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_GULLI_ARABIC",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3535.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_SeeVii_Al_Aoula_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2843.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_SeeVii_Al_Aoula_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2843.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_SeeVii_Drama_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2581.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_SeeVii_Drama_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2581.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_SeeVii_Beelink_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2767.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_SeeVii_Beelink_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2767.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_SeeVii_Shamiya_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2596.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_SeeVii_Shamiya_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2596.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_SeeVii_PRIME1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3311.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_SeeVii_PRIME1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3311.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_SeeVii_PRIME2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3312.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_SeeVii_PRIME2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3312.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_SeeVii_PRIME3",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3313.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_SeeVii_PRIME3",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3313.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Movies_First_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2289.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Movies_First_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2289.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Mov_First_HD_+2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2615.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Mov_First_HD_+2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2615.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Movies_Action_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2245.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Movies_Action_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2245.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Movies_Action_+2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1827.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Movies_Action_+2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1827.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Movies_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2246.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Movies_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2246.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Movies_HD_+2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2205.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Movies_HD_+2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2205.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Movies_Comedy_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1915.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Movies_Comedy_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1915.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_MOVIES_COMEDY_+2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3037.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_MOVIES_COMEDY_+2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3037.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Movies_Thriller_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1877.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Movies_Thriller_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1877.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Movies_Thriller_+2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3195.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Movies_Thriller_+2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3195.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_MOVIES_FESTIVAL_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2244.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_MOVIES_FESTIVAL_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2244.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_MOVIES_Kids_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1914.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_MOVIES_Kids_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1914.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Movies_HD_Disney",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2995.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Movies_HD_Disney",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2995.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Paramount_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3376.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Paramount_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3376.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Comedy_Central_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3041.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Comedy_Central_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3041.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Syfy_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3039.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Syfy_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3039.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_AMC_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3007.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_AMC_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3007.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Sundance",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3179.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Sundance",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3179.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_FX_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2908.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_FX_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2908.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_FOX_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3074.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_FOX_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3074.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_Fox_Movies_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3075.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_Fox_Movies_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3075.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_Fox_Movies_Action_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2598.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_Fox_Movies_Action_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2598.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_Fox_Family_Movies_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2566.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_Fox_Family_Movies_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2566.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Star_movies",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2529.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Star_movies",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2529.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Star_movies+",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2574.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Star_movies+",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2574.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Star_world",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2905.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Star_world",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2905.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Star_world+",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2528.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Star_world+",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2528.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_FilmBox",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3189.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_FilmBox",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3189.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_MY_Cinema",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3440.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_MY_Cinema",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3440.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_NHK_World",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3441.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_NHK_World",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3441.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_FilmBox_Arthouse",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3190.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_FilmBox_Arthouse",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3190.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Kid_Zone_TV",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3332.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Kid_Zone_TV",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3332.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_VH1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3193.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_VH1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3193.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Series_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2242.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Series_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2242.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Series_First_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1916.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Series_First_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1916.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Series_First_+2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3315.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Series_First_+2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3315.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_First_HBO_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2912.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_First_HBO_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2912.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Series_Com_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2292.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Series_Com_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2292.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Series_Com_+2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3316.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Series_Com_+2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3316.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_BBC_First_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3083.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_BBC_First_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3083.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Music_Now",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2588.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Music_Now",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2588.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Mtv_Classic",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3180.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Mtv_Classic",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3180.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Mtv_live_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3181.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Mtv_live_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3181.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_MTV_Rocks_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3381.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_MTV_Rocks_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3381.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_FIX_FOXI",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3377.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_FIX_FOXI",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3377.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_Planet_Earth_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3384.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_Planet_Earth_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3384.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_Myme_Music_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3375.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_Myme_Music_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3375.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_Cinemachi_Movies_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3380.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_Cinemachi_Movies_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3380.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_NEWS",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3379.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_NEWS",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3379.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Trace_TV",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3385.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Trace_TV",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3385.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_E!",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2565.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_E!",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2565.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Food_Network_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2815.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Food_Network_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2815.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Living_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2713.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Living_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2713.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_TLC_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2597.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_TLC_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2597.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_ITV_Choice_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3194.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_ITV_Choice_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3194.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_FASHION",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3333.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_FASHION",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3333.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_WORLD_FASHION_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3335.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_WORLD_FASHION_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3335.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Baby_tv",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2821.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Baby_tv",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2821.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Disney_XD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2525.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Disney_XD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2525.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Disney_Junior",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2526.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Disney_Junior",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2526.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Disney_Channel_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2488.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Disney_Channel_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2488.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_DISNEY_XD_+1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3343.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_DISNEY_XD_+1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3343.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_DISNEY_CHANNEL_+1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3341.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_DISNEY_CHANNEL_+1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3341.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Nick_Junior",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2829.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Nick_Junior",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2829.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_DISNEY_JUNIOR_+1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3342.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_DISNEY_JUNIOR_+1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3342.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Nickelodeon_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2828.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Nickelodeon_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2828.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_CARTOON_NETWORK",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2842.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_CARTOON_NETWORK",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2842.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Boomerang",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2997.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Boomerang",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2997.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_JIM_JAM",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3314.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_JIM_JAM",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3314.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MyHD_Cinemachi_kids_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3188.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MyHD_Cinemachi_kids_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3188.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Box_Office_1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1917.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Box_Office_1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1917.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Box_Office_2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1878.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Box_Office_2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1878.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Box_Office_3",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1918.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Box_Office_3",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1918.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Home_Cinema_1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2460.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Home_Cinema_1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2460.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Home_Cinema_2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2461.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Home_Cinema_2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2461.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Home_Cinema_3",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2462.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Home_Cinema_3",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2462.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Home_Cinema_4",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2463.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Home_Cinema_4",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2463.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Home_Cinema_5",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3163.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Home_Cinema_5",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3163.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Home_Cinema_6",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3164.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Home_Cinema_6",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3164.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Home_Cinema_7",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3165.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Home_Cinema_7",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3165.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Home_Cinema_8",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3166.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Home_Cinema_8",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3166.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Home_Cinema_9",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3167.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Home_Cinema_9",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3167.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_Home_Cinema_10",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3168.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_Home_Cinema_10",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3168.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_On_Demand_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/1802.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_On_Demand_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/1802.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_On_Demand_Extra_1HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2182.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_On_Demand_Extra_1HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2182.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "OSN_On_Demand_Extra_2HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2996.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "OSN_On_Demand_Extra_2HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2996.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "PPV_WWE_HD",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2464.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "PPV_WWE_HD",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2464.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "======EGYPT=======",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "======EGYPT=======",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Safwan_TvBox-tel:068110665485",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Safwan_TvBox-tel:068110665485",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "fb.com/mr.safwan.alnajjar",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "fb.com/mr.safwan.alnajjar",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Rotana_Drama",
-      "@urlkey": "0",
-      "@url": "http://itats.dynv6.net:1935/live/rotanamasr/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Rotana_Drama",
+      "sourceskey": "0",
+      "sources": "http://itats.dynv6.net:1935/live/rotanamasr/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Dream",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3053.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Dream",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3053.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "dmc",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3404.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "dmc",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3404.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "dmc_Drama",
-      "@urlkey": "0",
-      "@url": "http://streaming.i-sat.tv:8081/live/dmcdrama/chunks.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "dmc_Drama",
+      "sourceskey": "0",
+      "sources": "http://streaming.i-sat.tv:8081/live/dmcdrama/chunks.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "cbc",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3405.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "cbc",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3405.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "cbc_drama",
-      "@urlkey": "0",
-      "@url": "http://itats.dynv6.net:1935/live/cbc/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "cbc_drama",
+      "sourceskey": "0",
+      "sources": "http://itats.dynv6.net:1935/live/cbc/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "cbc_Sofra",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2914.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "cbc_Sofra",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2914.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "CBC_Extra",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2921.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "CBC_Extra",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2921.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Elsharq_tv",
-      "@urlkey": "0",
-      "@url": "http://46.101.172.110:8081/elsharqtv_source/live/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Elsharq_tv",
+      "sourceskey": "0",
+      "sources": "http://46.101.172.110:8081/elsharqtv_source/live/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Mekameleen",
-      "@urlkey": "0",
-      "@url": "http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Mekameleen",
+      "sourceskey": "0",
+      "sources": "http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Nile_Cinema",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3065.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Nile_Cinema",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3065.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Nile_drama",
-      "@urlkey": "0",
-      "@url": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4269.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Nile_drama",
+      "sourceskey": "0",
+      "sources": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4269.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Nile_comedy",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3064.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Nile_comedy",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3064.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Nile_Cultural",
-      "@urlkey": "0",
-      "@url": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4271.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Nile_Cultural",
+      "sourceskey": "0",
+      "sources": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/4271.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Nile_Family",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3063.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Nile_Family",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3063.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Nile_Life",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3062.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Nile_Life",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3062.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Watan_tv",
-      "@urlkey": "0",
-      "@url": "http://188.166.3.79:8081/watantv_source2/live/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Watan_tv",
+      "sourceskey": "0",
+      "sources": "http://188.166.3.79:8081/watantv_source2/live/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "MehwarTV",
-      "@urlkey": "0",
-      "@url": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2815.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "MehwarTV",
+      "sourceskey": "0",
+      "sources": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2815.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Alhayat_1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3499.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Alhayat_1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3499.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Hayat_+2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3500.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Hayat_+2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3500.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Hayat_Musalsalat",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3501.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Hayat_Musalsalat",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3501.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Nahar_Al_Yawm",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3504.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Nahar_Al_Yawm",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3504.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Nahar_Cinema",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3505.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Nahar_Cinema",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3505.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Nahar_Drama",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3506.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Nahar_Drama",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3506.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Nahar_One",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3507.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Nahar_One",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3507.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "=====IRAQ========",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "=====IRAQ========",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Safwan_TvBox-tel:068110665485",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Safwan_TvBox-tel:068110665485",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "fb.com/mr.safwan.alnajjar",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "fb.com/mr.safwan.alnajjar",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Sumaria",
-      "@urlkey": "0",
-      "@url": "http://youness-export.com/tv/sumaria",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Sumaria",
+      "sourceskey": "0",
+      "sources": "http://youness-export.com/tv/sumaria",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Iraqiya",
-      "@urlkey": "0",
-      "@url": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3458.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Iraqiya",
+      "sourceskey": "0",
+      "sources": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3458.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "AlSharqiya_1",
-      "@urlkey": "0",
-      "@url": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "AlSharqiya_1",
+      "sourceskey": "0",
+      "sources": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "AlSharqiya_2",
-      "@urlkey": "0",
-      "@url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "AlSharqiya_2",
+      "sourceskey": "0",
+      "sources": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Houna_Baghdad",
-      "@urlkey": "0",
-      "@url": "https://svs.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Houna_Baghdad",
+      "sourceskey": "0",
+      "sources": "https://svs.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Dejlah",
-      "@urlkey": "0",
-      "@url": "http://91.134.145.75/Dijlah/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Dejlah",
+      "sourceskey": "0",
+      "sources": "http://91.134.145.75/Dijlah/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "AL_Rasheed_TV",
-      "@urlkey": "0",
-      "@url": "http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "AL_Rasheed_TV",
+      "sourceskey": "0",
+      "sources": "http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Anb_iraq",
-      "@urlkey": "0",
-      "@url": "http://185.27.116.54:1935/live/anb.stream_360p/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Anb_iraq",
+      "sourceskey": "0",
+      "sources": "http://185.27.116.54:1935/live/anb.stream_360p/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Baghdad",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3271.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Baghdad",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3271.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Taghier",
-      "@urlkey": "0",
-      "@url": "http://stream1.joinvisions.net:1935/taglive/taghier/media.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Taghier",
+      "sourceskey": "0",
+      "sources": "http://stream1.joinvisions.net:1935/taglive/taghier/media.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "=====TUNISIA========",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "=====TUNISIA========",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Safwan_TvBox-tel:068110665485",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Safwan_TvBox-tel:068110665485",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "fb.com/mr.safwan.alnajjar",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "fb.com/mr.safwan.alnajjar",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Alwataniya_1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2928.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Alwataniya_1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2928.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Alwataniya_2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2929.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Alwataniya_2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2929.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Nesma_Live",
-      "@urlkey": "0",
-      "@url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1500000-audio_AACL_und_65200_120=65200.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Nesma_Live",
+      "sourceskey": "0",
+      "sources": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1500000-audio_AACL_und_65200_120=65200.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Elhiwar_Ettounsi",
-      "@urlkey": "0",
-      "@url": "http://158.58.172.243:8081/edge/at/chunks.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Elhiwar_Ettounsi",
+      "sourceskey": "0",
+      "sources": "http://158.58.172.243:8081/edge/at/chunks.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Zaytouna",
-      "@urlkey": "0",
-      "@url": "http://wowzacontrol.com:1935/8088/8088/chunklist_w194555271.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Zaytouna",
+      "sourceskey": "0",
+      "sources": "http://wowzacontrol.com:1935/8088/8088/chunklist_w194555271.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Jawhara_Fm",
-      "@urlkey": "0",
-      "@url": "http://streaming.toutech.net/live/jfm/index.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Jawhara_Fm",
+      "sourceskey": "0",
+      "sources": "http://streaming.toutech.net/live/jfm/index.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Hannibal",
-      "@urlkey": "0",
-      "@url": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3167.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Hannibal",
+      "sourceskey": "0",
+      "sources": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3167.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Tunisia_First_TV",
-      "@urlkey": "0",
-      "@url": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3352.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Tunisia_First_TV",
+      "sourceskey": "0",
+      "sources": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3352.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Ettasiaa",
-      "@urlkey": "0",
-      "@url": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3382.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Ettasiaa",
+      "sourceskey": "0",
+      "sources": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3382.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Insen",
-      "@urlkey": "0",
-      "@url": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3429.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Insen",
+      "sourceskey": "0",
+      "sources": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3429.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "=====MAROC========",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "=====MAROC========",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "2M_Monde",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2931.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "2M_Monde",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2931.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Oula",
-      "@urlkey": "0",
-      "@url": "http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Oula",
+      "sourceskey": "0",
+      "sources": "http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Arryadia",
-      "@urlkey": "0",
-      "@url": "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Arryadia",
+      "sourceskey": "0",
+      "sources": "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Arrabiaa_Althaqafiya",
-      "@urlkey": "0",
-      "@url": "http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Arrabiaa_Althaqafiya",
+      "sourceskey": "0",
+      "sources": "http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Maghribia",
-      "@urlkey": "0",
-      "@url": "http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Maghribia",
+      "sourceskey": "0",
+      "sources": "http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Assadissa",
-      "@urlkey": "0",
-      "@url": "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Assadissa",
+      "sourceskey": "0",
+      "sources": "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Tamazight",
-      "@urlkey": "0",
-      "@url": "http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Tamazight",
+      "sourceskey": "0",
+      "sources": "http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "=====NEWS========",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "=====NEWS========",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Safwan_TvBox-tel:068110665485",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Safwan_TvBox-tel:068110665485",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "fb.com/mr.safwan.alnajjar",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "fb.com/mr.safwan.alnajjar",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Aljazeera",
-      "@urlkey": "0",
-      "@url": "http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Aljazeera",
+      "sourceskey": "0",
+      "sources": "http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Jazeera_Mubashir",
-      "@urlkey": "0",
-      "@url": "http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Jazeera_Mubashir",
+      "sourceskey": "0",
+      "sources": "http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Alarabiyia",
-      "@urlkey": "0",
-      "@url": "http://live.alarabiya.net/alarabiya/myStream/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Alarabiyia",
+      "sourceskey": "0",
+      "sources": "http://live.alarabiya.net/alarabiya/myStream/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Alhadath",
-      "@urlkey": "0",
-      "@url": "http://live.alhadath.net/hadath/myStream_720p/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Alhadath",
+      "sourceskey": "0",
+      "sources": "http://live.alhadath.net/hadath/myStream_720p/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "RT_Arabic",
-      "@urlkey": "0",
-      "@url": "https://secure-streams.akamaized.net/rt-arab/index.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "RT_Arabic",
+      "sourceskey": "0",
+      "sources": "https://secure-streams.akamaized.net/rt-arab/index.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "BBC",
-      "@urlkey": "0",
-      "@url": "http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "BBC",
+      "sourceskey": "0",
+      "sources": "http://bbcwshdlive01-lh.akamaihd.net/i/atv_161433/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Skynews",
-      "@urlkey": "0",
-      "@url": "https://stream.skynewsarabia.com/hls/sna_480.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Skynews",
+      "sourceskey": "0",
+      "sources": "https://stream.skynewsarabia.com/hls/sna_480.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "cnbc_arabia",
-      "@urlkey": "0",
-      "@url": "https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "cnbc_arabia",
+      "sourceskey": "0",
+      "sources": "https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Deutsche_Welle",
-      "@urlkey": "0",
-      "@url": "http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Deutsche_Welle",
+      "sourceskey": "0",
+      "sources": "http://dwstream2-lh.akamaihd.net/i/dwstream2_live124400/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "TRT",
-      "@urlkey": "0",
-      "@url": "http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "TRT",
+      "sourceskey": "0",
+      "sources": "http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1181945/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Hurra",
-      "@urlkey": "0",
-      "@url": "http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Hurra",
+      "sourceskey": "0",
+      "sources": "http://mbnhls-lh.akamaihd.net/i/MBN_1118619/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "alaraby",
-      "@urlkey": "0",
-      "@url": "http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "alaraby",
+      "sourceskey": "0",
+      "sources": "http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "NRT_Arabiya",
-      "@urlkey": "0",
-      "@url": "http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "NRT_Arabiya",
+      "sourceskey": "0",
+      "sources": "http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Hiwar",
-      "@urlkey": "0",
-      "@url": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3447.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Hiwar",
+      "sourceskey": "0",
+      "sources": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3447.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "=====KIDS========",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "=====KIDS========",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Space_Toon",
-      "@urlkey": "0",
-      "@url": "http://streaming.i-sat.tv:8081/livestream/spacetooon/chunks.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Space_Toon",
+      "sourceskey": "0",
+      "sources": "http://streaming.i-sat.tv:8081/livestream/spacetooon/chunks.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "majed_kids_",
-      "@urlkey": "0",
-      "@url": "http://adtv.ercdn.net/adsport7/adsport7.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "majed_kids_",
+      "sourceskey": "0",
+      "sources": "http://adtv.ercdn.net/adsport7/adsport7.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "taha_",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3046.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "taha_",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3046.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Nour_Alshabab",
-      "@urlkey": "0",
-      "@url": "https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Nour_Alshabab",
+      "sourceskey": "0",
+      "sources": "https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Semsem",
-      "@urlkey": "0",
-      "@url": "http://streaming.i-sat.tv:1935/livestream/sms/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Semsem",
+      "sourceskey": "0",
+      "sources": "http://streaming.i-sat.tv:1935/livestream/sms/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Toyor_Aljanah",
-      "@urlkey": "0",
-      "@url": "http://streaming.i-sat.tv:8081/livestream/toyourjanaa/chunks.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Toyor_Aljanah",
+      "sourceskey": "0",
+      "sources": "http://streaming.i-sat.tv:8081/livestream/toyourjanaa/chunks.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Karameesh",
-      "@urlkey": "0",
-      "@url": "",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Karameesh",
+      "sourceskey": "0",
+      "sources": "",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "=====OTHER_ARAB========",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "=====OTHER_ARAB========",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Safwan_TvBox-tel:068110665485",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Safwan_TvBox-tel:068110665485",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "fb.com/mr.safwan.alnajjar",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "fb.com/mr.safwan.alnajjar",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Nat_Geo",
-      "@urlkey": "0",
-      "@url": "http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Nat_Geo",
+      "sourceskey": "0",
+      "sources": "http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Dubai(S1)",
-      "@urlkey": "0",
-      "@url": "http://streaming.i-sat.tv:8081/livestream/dubaii/chunks.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Dubai(S1)",
+      "sourceskey": "0",
+      "sources": "http://streaming.i-sat.tv:8081/livestream/dubaii/chunks.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Dubai(S2)",
-      "@urlkey": "0",
-      "@url": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Dubai(S2)",
+      "sourceskey": "0",
+      "sources": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Sama_Dubai",
-      "@urlkey": "0",
-      "@url": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Sama_Dubai",
+      "sourceskey": "0",
+      "sources": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Dubai_One",
-      "@urlkey": "0",
-      "@url": "http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Dubai_One",
+      "sourceskey": "0",
+      "sources": "http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "dubai_zaman",
-      "@urlkey": "0",
-      "@url": "http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "dubai_zaman",
+      "sourceskey": "0",
+      "sources": "http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Abu_Dhabi_TV",
-      "@urlkey": "0",
-      "@url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Abu_Dhabi_TV",
+      "sourceskey": "0",
+      "sources": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "emarat",
-      "@urlkey": "0",
-      "@url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "emarat",
+      "sourceskey": "0",
+      "sources": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "abu_dhabi_drama",
-      "@urlkey": "0",
-      "@url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "abu_dhabi_drama",
+      "sourceskey": "0",
+      "sources": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "alrai",
-      "@urlkey": "0",
-      "@url": "http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "alrai",
+      "sourceskey": "0",
+      "sources": "http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "aldhafra",
-      "@urlkey": "0",
-      "@url": "http://aldafrahtv.noip.us:1935/live/_definst_/myStream1/1.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "aldhafra",
+      "sourceskey": "0",
+      "sources": "http://aldafrahtv.noip.us:1935/live/_definst_/myStream1/1.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "saudi_1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2684.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "saudi_1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2684.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "saudi_2",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/3274.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "saudi_2",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/3274.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "alresala",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2926.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "alresala",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2926.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "bahrain_1",
-      "@urlkey": "0",
-      "@url": "http://www.zeebra.tv:8000/live/Next88/Next88/2644.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "bahrain_1",
+      "sourceskey": "0",
+      "sources": "http://www.zeebra.tv:8000/live/Next88/Next88/2644.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Libya_24",
-      "@urlkey": "0",
-      "@url": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3436.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Libya_24",
+      "sourceskey": "0",
+      "sources": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/3436.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Libya_news",
-      "@urlkey": "0",
-      "@url": "http://starmena.ercdn.net/libyaschannel/libyaschannel.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Libya_news",
+      "sourceskey": "0",
+      "sources": "http://starmena.ercdn.net/libyaschannel/libyaschannel.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "alnabaa",
-      "@urlkey": "0",
-      "@url": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2807.ts",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "alnabaa",
+      "sourceskey": "0",
+      "sources": "http://068aby79mu.niacam.live:8711/live/imanian2MCSEXCH/f0EYcD6r63/2807.ts",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "alshorooq_sudan",
-      "@urlkey": "0",
-      "@url": "rtmp://82.212.74.98:1935/live/7913",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "alshorooq_sudan",
+      "sourceskey": "0",
+      "sources": "rtmp://82.212.74.98:1935/live/7913",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "tayba",
-      "@urlkey": "0",
-      "@url": "http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "tayba",
+      "sourceskey": "0",
+      "sources": "http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "afriqia1",
-      "@urlkey": "0",
-      "@url": "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "afriqia1",
+      "sourceskey": "0",
+      "sources": "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "afriqia2",
-      "@urlkey": "0",
-      "@url": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "afriqia2",
+      "sourceskey": "0",
+      "sources": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Amen_FM_89.5",
-      "@urlkey": "0",
-      "@url": "http://185.27.116.54:1935/live/amn/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Amen_FM_89.5",
+      "sourceskey": "0",
+      "sources": "http://185.27.116.54:1935/live/amn/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Aqsa",
-      "@urlkey": "0",
-      "@url": "http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Aqsa",
+      "sourceskey": "0",
+      "sources": "http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Masdar_TV",
-      "@urlkey": "0",
-      "@url": "http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Masdar_TV",
+      "sourceskey": "0",
+      "sources": "http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Aan",
-      "@urlkey": "0",
-      "@url": "http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Aan",
+      "sourceskey": "0",
+      "sources": "http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Al_Jazeera_Documentary",
-      "@urlkey": "0",
-      "@url": "http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Al_Jazeera_Documentary",
+      "sourceskey": "0",
+      "sources": "http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "KTV_1",
-      "@urlkey": "0",
-      "@url": "https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "KTV_1",
+      "sourceskey": "0",
+      "sources": "https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "KTV_2",
-      "@urlkey": "0",
-      "@url": "https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "KTV_2",
+      "sourceskey": "0",
+      "sources": "https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "KTV_Al_Arabi",
-      "@urlkey": "0",
-      "@url": "https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "KTV_Al_Arabi",
+      "sourceskey": "0",
+      "sources": "https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "KTV_Plus",
-      "@urlkey": "0",
-      "@url": "https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "KTV_Plus",
+      "sourceskey": "0",
+      "sources": "https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "KTV_Al_Majlis",
-      "@urlkey": "0",
-      "@url": "https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "KTV_Al_Majlis",
+      "sourceskey": "0",
+      "sources": "https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Oman_TV",
-      "@urlkey": "0",
-      "@url": "http://38.96.148.30:1935/live/omantv1//playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Oman_TV",
+      "sourceskey": "0",
+      "sources": "http://38.96.148.30:1935/live/omantv1//playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Oman_Mubasher",
-      "@urlkey": "0",
-      "@url": "http://38.96.148.30:1935/live/omantv3/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Oman_Mubasher",
+      "sourceskey": "0",
+      "sources": "http://38.96.148.30:1935/live/omantv3/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Oman_Documentary",
-      "@urlkey": "0",
-      "@url": "http://38.96.148.30:1935/live/omantv4/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
-   },
+      "title": "Oman_Documentary",
+      "sourceskey": "0",
+      "sources": "http://38.96.148.30:1935/live/omantv4/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
+   }],
+   }
    {
-      "@title": "======DEUTSCH=======",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "======DEUTSCH=======",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Safwan_TvBox-tel:068110665485",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Safwan_TvBox-tel:068110665485",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "طھط£ظƒط¯_ظ…ظ†_طھط­ظ…ظٹظ„_ط§ظ„طھط·ط¨ظٹظ‚_ظ…ظ†_طµظپط­طھظٹ_ط§ظ„ط±ط³ظ…ظٹط©_ظپظ‚ط·_ط¹ظ„ظ‰_ظپظٹط³ط¨ظˆظƒ",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "fb.com/mr.safwan.alnajjar",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "fb.com/mr.safwan.alnajjar",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ظٹط±ط¬ظ‰_ط§ط¨ظ„ط§ط؛ظٹ_ظپظٹ_ط­ط§ظ„_طھظˆظ‚ظپ_ط§ظٹ_ظ‚ظ†ط§ط©",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ORF_1_",
-      "@urlkey": "0",
-      "@url": "http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ORF_1_",
+      "sourceskey": "0",
+      "sources": "http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ORF_2_",
-      "@urlkey": "0",
-      "@url": "http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ORF_2_",
+      "sourceskey": "0",
+      "sources": "http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ORF_3_",
-      "@urlkey": "0",
-      "@url": "http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ORF_3_",
+      "sourceskey": "0",
+      "sources": "http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ORF_Sport_",
-      "@urlkey": "0",
-      "@url": "http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ORF_Sport_",
+      "sourceskey": "0",
+      "sources": "http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Namsa_At",
-      "@urlkey": "0",
-      "@url": "http://78.129.184.15:34546/streaming/stream/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Namsa_At",
+      "sourceskey": "0",
+      "sources": "http://78.129.184.15:34546/streaming/stream/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Austria_24",
-      "@urlkey": "0",
-      "@url": "rtmp://streaming.austria24.tv/live//mp4:stream_720p",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Austria_24",
+      "sourceskey": "0",
+      "sources": "rtmp://streaming.austria24.tv/live//mp4:stream_720p",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "3Sat",
-      "@urlkey": "0",
-      "@url": "http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "3Sat",
+      "sourceskey": "0",
+      "sources": "http://zdf0910-lh.akamaihd.net/i/dach10_v1392872/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ALEX_Berlin",
-      "@urlkey": "0",
-      "@url": "http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ALEX_Berlin",
+      "sourceskey": "0",
+      "sources": "http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Allgau_TV",
-      "@urlkey": "0",
-      "@url": "http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Allgau_TV",
+      "sourceskey": "0",
+      "sources": "http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Baden_TV",
-      "@urlkey": "0",
-      "@url": "http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Baden_TV",
+      "sourceskey": "0",
+      "sources": "http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Blizz_TV",
-      "@urlkey": "0",
-      "@url": "http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Blizz_TV",
+      "sourceskey": "0",
+      "sources": "http://familytvblizz-lh.akamaihd.net/i/familytv_1458351/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Deutsche_Welle",
-      "@urlkey": "0",
-      "@url": "http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Deutsche_Welle",
+      "sourceskey": "0",
+      "sources": "http://dwstream5-lh.akamaihd.net/i/dwstream5_live124540/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Deutsche_Welle*",
-      "@urlkey": "0",
-      "@url": "http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Deutsche_Welle*",
+      "sourceskey": "0",
+      "sources": "http://dwstream72-lh.akamaihd.net/i/dwstream72_live123556/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Elbekanal",
-      "@urlkey": "0",
-      "@url": "http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Elbekanal",
+      "sourceskey": "0",
+      "sources": "http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "EOTV",
-      "@urlkey": "0",
-      "@url": "http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "EOTV",
+      "sourceskey": "0",
+      "sources": "http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Franken_Fernsehen",
-      "@urlkey": "0",
-      "@url": "http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Franken_Fernsehen",
+      "sourceskey": "0",
+      "sources": "http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "HR_Fernsehen",
-      "@urlkey": "0",
-      "@url": "http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "HR_Fernsehen",
+      "sourceskey": "0",
+      "sources": "http://livestream-1.hr.de:80/i/hr_fernsehen75910/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "INTV",
-      "@urlkey": "0",
-      "@url": "https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "INTV",
+      "sourceskey": "0",
+      "sources": "https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Krone_Tv",
-      "@urlkey": "0",
-      "@url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Krone_Tv",
+      "sourceskey": "0",
+      "sources": "https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Munchen_TV",
-      "@urlkey": "0",
-      "@url": "http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Munchen_TV",
+      "sourceskey": "0",
+      "sources": "http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Noa_4_Norderstedt",
-      "@urlkey": "0",
-      "@url": "http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Noa_4_Norderstedt",
+      "sourceskey": "0",
+      "sources": "http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Noa_4_Hamburg",
-      "@urlkey": "0",
-      "@url": "http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Noa_4_Hamburg",
+      "sourceskey": "0",
+      "sources": "http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "RFO",
-      "@urlkey": "0",
-      "@url": "http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "RFO",
+      "sourceskey": "0",
+      "sources": "http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Rheinmain_TV",
-      "@urlkey": "0",
-      "@url": "http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Rheinmain_TV",
+      "sourceskey": "0",
+      "sources": "http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "tagesschau24",
-      "@urlkey": "0",
-      "@url": "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "tagesschau24",
+      "sourceskey": "0",
+      "sources": "http://tagesschau-lh.akamaihd.net/i/tagesschau_1119231/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Telebasel",
-      "@urlkey": "0",
-      "@url": "http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Telebasel",
+      "sourceskey": "0",
+      "sources": "http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "TVA_Ostbayern",
-      "@urlkey": "0",
-      "@url": "http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "TVA_Ostbayern",
+      "sourceskey": "0",
+      "sources": "http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "TV_Berlin",
-      "@urlkey": "0",
-      "@url": "http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "TV_Berlin",
+      "sourceskey": "0",
+      "sources": "http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "TV_Oberfranken",
-      "@urlkey": "0",
-      "@url": "http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "TV_Oberfranken",
+      "sourceskey": "0",
+      "sources": "http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "TV_Touring_Schweinfurt",
-      "@urlkey": "0",
-      "@url": "http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "TV_Touring_Schweinfurt",
+      "sourceskey": "0",
+      "sources": "http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "TV_Touring_Wurzburg",
-      "@urlkey": "0",
-      "@url": "http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "TV_Touring_Wurzburg",
+      "sourceskey": "0",
+      "sources": "http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "WDR_Fernsehen",
-      "@urlkey": "0",
-      "@url": "http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "WDR_Fernsehen",
+      "sourceskey": "0",
+      "sources": "http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit112033/master.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Welt_der_Wunder",
-      "@urlkey": "0",
-      "@url": "http://live.vidoo.de/live/weltderwunder/f1tv.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Welt_der_Wunder",
+      "sourceskey": "0",
+      "sources": "http://live.vidoo.de/live/weltderwunder/f1tv.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Deluxe_Music",
-      "@urlkey": "0",
-      "@url": "http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Deluxe_Music",
+      "sourceskey": "0",
+      "sources": "http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "QVC",
-      "@urlkey": "0",
-      "@url": "http://ios-stream.qvc.de/qvc.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "QVC",
+      "sourceskey": "0",
+      "sources": "http://ios-stream.qvc.de/qvc.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "1-2-3_TV",
-      "@urlkey": "0",
-      "@url": "http://123tv.cdn.ses-ps.com/index.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "1-2-3_TV",
+      "sourceskey": "0",
+      "sources": "http://123tv.cdn.ses-ps.com/index.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Dorf_TV",
-      "@urlkey": "0",
-      "@url": "https://stream.openplayout.org/hls/dorf_high/index.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Dorf_TV",
+      "sourceskey": "0",
+      "sources": "https://stream.openplayout.org/hls/dorf_high/index.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "KroneHit",
-      "@urlkey": "0",
-      "@url": "http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "KroneHit",
+      "sourceskey": "0",
+      "sources": "http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "KroneHit*",
-      "@urlkey": "0",
-      "@url": "http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "KroneHit*",
+      "sourceskey": "0",
+      "sources": "http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Okto_TV",
-      "@urlkey": "0",
-      "@url": "http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Okto_TV",
+      "sourceskey": "0",
+      "sources": "http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "RTS_Salzburg",
-      "@urlkey": "0",
-      "@url": "http://80.237.191.228:1935/live/_definst_/RTS2015/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "RTS_Salzburg",
+      "sourceskey": "0",
+      "sources": "http://80.237.191.228:1935/live/_definst_/RTS2015/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "ServusTV",
-      "@urlkey": "0",
-      "@url": "http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-p.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "ServusTV",
+      "sourceskey": "0",
+      "sources": "http://hdiosstv-f.akamaihd.net/i/servustvhdde_175540/index_2592_av-p.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Tirol_TV",
-      "@urlkey": "0",
-      "@url": "http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Tirol_TV",
+      "sourceskey": "0",
+      "sources": "http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "W24",
-      "@urlkey": "0",
-      "@url": "http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "W24",
+      "sourceskey": "0",
+      "sources": "http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "RE_Eins",
-      "@urlkey": "0",
-      "@url": "http://www.reeins.tv:1935/live/re1/chunklist_w1257786105.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "RE_Eins",
+      "sourceskey": "0",
+      "sources": "http://www.reeins.tv:1935/live/re1/chunklist_w1257786105.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Family_live_tv",
-      "@urlkey": "0",
-      "@url": "http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/index_500_av-p.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Family_live_tv",
+      "sourceskey": "0",
+      "sources": "http://familytvblizz-lh.akamaihd.net/i/blizzlive_136699/index_500_av-p.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Munchen",
-      "@urlkey": "0",
-      "@url": "http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_3/chunklist_w1844412927.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Munchen",
+      "sourceskey": "0",
+      "sources": "http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_3/chunklist_w1844412927.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Deutsches_Musik",
-      "@urlkey": "0",
-      "@url": "http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Deutsches_Musik",
+      "sourceskey": "0",
+      "sources": "http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Bayerischer_Rundfunk",
-      "@urlkey": "0",
-      "@url": "http://livestreams.br.de/i/bfssued_worldwide@119891/index_3776_av-p.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Bayerischer_Rundfunk",
+      "sourceskey": "0",
+      "sources": "http://livestreams.br.de/i/bfssued_worldwide119891/index_3776_av-p.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Deluxe_Music",
-      "@urlkey": "0",
-      "@url": "http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist_w1737037020.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Deluxe_Music",
+      "sourceskey": "0",
+      "sources": "http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist_w1737037020.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "RTL",
-      "@urlkey": "0",
-      "@url": "http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "RTL",
+      "sourceskey": "0",
+      "sources": "http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "=======ABOUT_ME=========",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "=======ABOUT_ME=========",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Safwan_Al_Najjar",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Safwan_Al_Najjar",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Tel:068110665485",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Tel:068110665485",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Download_my_app_here",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Download_my_app_here",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "fb.com/mr.safwan.alnajjar",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "fb.com/mr.safwan.alnajjar",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "Don't_hesitate_to_contact_me",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "Don't_hesitate_to_contact_me",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    },
    {
-      "@title": "www.saftv.cf",
-      "@urlkey": "0",
-      "@url": "http://bit.ly/Safwanlogo",
-      "@description": "TvChannels",
-      "@iconsrc": ""
+      "title": "www.saftv.cf",
+      "sourceskey": "0",
+      "sources": "http://bit.ly/Safwanlogo",
+      "description": "TvChannels",
+      "iconsrc": ""
    }
 ]
+}
