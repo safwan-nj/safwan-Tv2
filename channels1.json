@@ -1,20 +1,20 @@
 {
   "googlevideos": [{
-    "category": "Google+",
+    "category": "BeIn Sports",
     "videos": [{
-      "description": "My Logo",
-      "sources": ["http://bit.ly/Safwanlogo"],
-      "card": "https://goo.gl/FxqFm2",
+      "description": "bein Sports 1 HD",
+      "sources": ["http://hbox.cdnss.me:80/live/mtg/2406/3943.ts"],
+      "card": "https://goo.gl/KT6bko",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
-      "title": "Safwan Tv Logo",
+      "title": "bein Sports 1 HD",
       "studio": "Safwan FreeTv"
     }, {
-      "description": "Lana Syrian Channel streaming a lot of drama series",
-      "sources": ["http://mtqtqloqdxtlive.mediatriple.net/mtqtqloqdxtlive/u_stream_5ae30a53230df_3/chunklist.m3u8"],
-      "card": "https://goo.gl/s2bep9",
+      "description": "bein sports 2 HD",
+      "sources": ["http://hbox.cdnss.me:80/live/mtg/2406/3944.ts"],
+      "card": "https://goo.gl/pAC3pi",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
       "title": "Lana Souria",
-      "studio": "Google+"
+      "studio": "Safwan FreeTv"
     }, {
       "description": "Laugh, share news, celebrate, learn something new or stay in touch with Hangouts. And with Hangouts on your phone, you can drop in from wherever you are.",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4"],
