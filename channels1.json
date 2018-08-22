@@ -1,132 +1,68 @@
 {
-  " googlevideos":
+  "googlevideos":
   [
-{
-	"category": "Syria",
-    "videos":[
-
-        {
-            "description":"Syria Sat",
-            "sources":"http://82.137.248.16:1935/Sat/stream11072018/chunklist.m3u8",
-            "card":"https://goo.gl/ahWMhf",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Syria Sat",
-            "studio":"Syria"
-        },
-        {
-            "description":"Syria Drama",
-            "sources":"http://82.137.248.16:1935/Drama/stream11072018/chunklist.m3u8",
-            "card":"https://goo.gl/wsGL6Z",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Syria Drama",
-            "studio":"Syria"
-        },
-        {
-            "description":"Syria News",
-            "sources":"http://82.137.248.16:1935/Snews/stream11072018/chunklist.m3u8",
-            "card":"https://goo.gl/14sTKR",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Syria News",
-            "studio":"Syria"
-        },
-        {
-            "description":"Noor Alsham",
-            "sources":"http://82.137.248.16:1935/Nour/stream11072018/chunklist.m3u8",
-            "card":"https://goo.gl/eDtLda",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Noor Alsham",
-            "studio":"Syria"
-        },
-        {
-            "description":"Sama Syria",
-            "sources":"http://sama-tv.net:1935/live/samatv/gmswf.m3u8",
-            "card":"https://goo.gl/LY6LX9",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Sama Syria",
-            "studio":"Syria"
-        },
-        {
-            "description":"Lana Souria",
-            "sources":"http://mtqtqloqdxtlive.mediatriple.net/mtqtqloqdxtlive/u_stream_5ae30a53230df_3/chunklist.m3u8",
-            "card":"https://goo.gl/s2bep9",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Lana Souria",
-            "studio":"Syria"
-        },
-        {
-            "description":"Ugarit",
-            "sources":"http://82.137.248.16:1935/Ugarit/stream11072018/chunklist.m3u8",
-            "card":"https://goo.gl/hkVXFD",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Ugarit",
-            "studio":"Syria"
-        },
-        {
-            "description":"Syrian Education",
-            "sources":"http://82.137.248.16:1935/SEdu/stream11072018/chunklist.m3u8",
-            "card":"https://goo.gl/VmQutr",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Syrian Education",
-            "studio":"Syria"
-        },
-        {
-            "description":"Ninar",
-            "sources":"http://5.39.218.151:1984/live/ch1.m3u8",
-            "card":"https://goo.gl/tE95C8",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Ninar",
-            "studio":"Syria"
-        },
-        {
-            "description":"Souryana",
-            "sources":"http://82.137.248.16:1935/Souryana/stream11072018/chunklist.m3u8",
-            "card":"https://goo.gl/UT3KyH",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Souryana",
-            "studio":"Syria"
-        },
-        {
-            "description":"Souria Tv",
-            "sources":"http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8",
-            "card":"https://goo.gl/EpsEdX",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Souria Tv",
-            "studio":"Syria"
-        },
-        {
-            "description":"Halab Today",
-            "sources":"http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8",
-            "card":"https://goo.gl/R8GXvz",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Halab Today",
-            "studio":"Syria"
-        },
-        {
-            "description":"Orient",
-            "sources":"https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist.m3u8",
-            "card":"https://goo.gl/eiDkcF",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Orient",
-            "studio":"Syria"
-        },
-        {
-            "description":"Alminber",
-            "sources":"http://itats.dynv6.net:1935/live/alminbar/playlist.m3u8",
-            "card":"https://goo.gl/yA8b7r",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Alminber",
-            "studio":"Syria"
-        },
-        {
-            "description":"ANN",
-            "sources":"http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8",
-            "card":"https://goo.gl/4Uds7Q",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"ANN",
-            "studio":"Syria"
-        }
-    ]
+  {
+    "category": "BeIn Sports",
+    "videos": [
 	{
+      "description": "bein Sports 1 HD",
+      "sources": ["http://hbox.cdnss.me:80/live/mtg/2406/3943.ts"],
+      "card": "https://goo.gl/KT6bko",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
+      "title": "bein Sports 1 HD",
+      "studio": "Safwan FreeTv"
+    },
+	{
+      "description": "bein sports 2 HD",
+      "sources": ["http://hbox.cdnss.me:80/live/mtg/2406/3944.ts"],
+      "card": "https://goo.gl/pAC3pi",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
+      "title": "Lana Souria",
+      "studio": "Safwan FreeTv"
+    },
+	{
+      "description": "Laugh, share news, celebrate, learn something new or stay in touch with Hangouts. And with Hangouts on your phone, you can drop in from wherever you are.",
+      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4"],
+      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts/card.jpg",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts/bg.jpg",
+      "title": "Say more with Hangouts",
+      "studio": "Google+"
+    },
+	{
+      "description": "Search on Google+ helps you get advice from the people you know -- sometimes when you least expect it. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
+      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4"],
+      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/card.jpg",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/bg.jpg",
+      "title": "Google+ Search",
+      "studio": "Google+"
+    },
+	{
+      "description": "New ways of sharing the right things with the right people. Join at http://google.com/+",
+      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4"],
+      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life/card.jpg",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life/bg.jpg",
+      "title": "Sharing but like real life",
+      "studio": "Google+"
+    },
+	{
+      "description": "Jed introduces Circles with a few thoughts on the nature of friendship. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
+      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Circles.mp4"],
+      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Circles/card.jpg",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Circles/bg.jpg",
+      "title": "Google+ Circles",
+      "studio": "Google+"
+    },
+	{
+      "description": "Aimee introduces Hangouts with a few thoughts on the spontaneous get-together. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
+      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts.mp4"],
+      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts/card.jpg",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts/bg.jpg",
+      "title": "Google+ Hangouts",
+      "studio": "Google+"
+    }
+	]
+  },
+  {
     "category": "Demo Slam",
     "videos": 
 	[
@@ -431,6 +367,6 @@
       "studio": "Google"
     }
 	]
-}
-]
+  }
+  ]
 }
