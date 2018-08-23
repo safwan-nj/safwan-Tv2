@@ -1,5 +1,5 @@
 {
-  "googlevideos":
+  " Arab Channels":
   [
 {
 	"category": "Syria",
@@ -7,7 +7,7 @@
 
         {
             "description":"Syria Sat",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1292.ts"],
+            "sources":["http://82.137.248.16:1935/Sat/stream11072018/chunklist.m3u8"],
             "card":"https://goo.gl/ahWMhf",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Syria Sat",
@@ -15,7 +15,7 @@
         },
         {
             "description":"Syria Drama",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1295.ts"],
+            "sources":["http://82.137.248.16:1935/Drama/stream11072018/chunklist.m3u8"],
             "card":"https://goo.gl/wsGL6Z",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Syria Drama",
@@ -23,7 +23,7 @@
         },
         {
             "description":"Syria News",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1338.ts"],
+            "sources":["http://82.137.248.16:1935/Snews/stream11072018/chunklist.m3u8"],
             "card":"https://goo.gl/14sTKR",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Syria News",
@@ -31,7 +31,7 @@
         },
         {
             "description":"Noor Alsham",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1331.ts"],
+            "sources":["http://82.137.248.16:1935/Nour/stream11072018/chunklist.m3u8"],
             "card":"https://goo.gl/eDtLda",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Noor Alsham",
@@ -39,7 +39,7 @@
         },
         {
             "description":"Sama Syria",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1412.ts"],
+            "sources":["http://sama-tv.net:1935/live/samatv/gmswf.m3u8"],
             "card":"https://goo.gl/LY6LX9",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Sama Syria",
@@ -54,9 +54,9 @@
             "studio":"Syria"
         },
         {
-            "description":"Alkhabar",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1020.ts
-            "card":"http://alkhabar-sy.com/wp-content/uploads/2017/04/logo1.png",
+            "description":"Ugarit",
+            "sources":["http://82.137.248.16:1935/Ugarit/stream11072018/chunklist.m3u8"],
+            "card":"https://goo.gl/hkVXFD",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Ugarit",
             "studio":"Syria"
