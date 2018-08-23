@@ -7,7 +7,7 @@
 
         {
             "description":"Syria Sat",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1292.ts"],
+            "sources":["http://tv2iptv.com:8000/live/power/power2018/1861.ts"],
             "card":"https://goo.gl/ahWMhf",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Syria Sat",
@@ -15,31 +15,31 @@
         },
         {
             "description":"Syria Drama",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1295.ts"],
+            "sources":["http://tv2iptv.com:8000/live/power/power2018/602.ts"],
             "card":"https://goo.gl/wsGL6Z",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Syria Drama",
             "studio":"Syria"
         },
         {
+            "description":"Noor Alsham",
+            "sources":["http://tv2iptv.com:8000/live/power/power2018/1792.ts"],
+            "card":"https://goo.gl/eDtLda",
+            "background":"https://www.eventflags.com/images/products/6851.png",
+            "title":"Noor Alsham",
+            "studio":"Syria"
+        },
+		{
             "description":"Syria News",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1338.ts"],
+            "sources":["http://tv2iptv.com:8000/live/power/power2018/1988.ts"],
             "card":"https://goo.gl/14sTKR",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Syria News",
             "studio":"Syria"
         },
         {
-            "description":"Noor Alsham",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1331.ts"],
-            "card":"https://goo.gl/eDtLda",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Noor Alsham",
-            "studio":"Syria"
-        },
-        {
             "description":"Sama Syria",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1412.ts"],
+            "sources":["http://tv2iptv.com:8000/live/power/power2018/1787.ts"],
             "card":"https://goo.gl/LY6LX9",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Sama Syria",
@@ -47,15 +47,15 @@
         },
         {
             "description":"Lana Souria",
-            "sources":["http://mtqtqloqdxtlive.mediatriple.net/mtqtqloqdxtlive/u_stream_5ae30a53230df_3/chunklist.m3u8"],
+            "sources":["http://tv2iptv.com:8000/live/power/power2018/14262.ts"],
             "card":"https://goo.gl/s2bep9",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Lana Souria",
             "studio":"Syria"
         },
         {
-            "description":"Ugarit",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1020.ts"],
+            "description":"Alkhabar",
+            "sources":["http://tv2iptv.com:8000/live/power/power2018/467.ts"],
             "card":"http://alkhabar-sy.com/wp-content/uploads/2017/04/logo1.png",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Alkhabar",
@@ -63,63 +63,31 @@
         },
         {
             "description":"Syrian Education",
-            "sources":["http://82.137.248.16:1935/SEdu/stream11072018/chunklist.m3u8"],
+            "sources":["http://tv2iptv.com:8000/live/power/power2018/1815.ts"],
             "card":"https://goo.gl/VmQutr",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Syrian Education",
             "studio":"Syria"
         },
         {
-            "description":"Ninar",
-            "sources":["http://5.39.218.151:1984/live/ch1.m3u8"],
-            "card":"https://goo.gl/tE95C8",
+            "description":"Sham FM",
+            "sources":["http://tv2iptv.com:8000/live/power/power2018/4018.ts"],
+            "card":"https://goo.gl/HfUwYv",
             "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Ninar",
-            "studio":"Syria"
-        },
-        {
-            "description":"Souryana",
-            "sources":["http://82.137.248.16:1935/Souryana/stream11072018/chunklist.m3u8"],
-            "card":"https://goo.gl/UT3KyH",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Souryana",
-            "studio":"Syria"
-        },
-        {
-            "description":"Souria Tv",
-            "sources":["http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8"],
-            "card":"https://goo.gl/EpsEdX",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Souria Tv",
-            "studio":"Syria"
-        },
-        {
-            "description":"Halab Today",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/102.ts"],
-            "card":"https://goo.gl/R8GXvz",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Halab Today",
+            "title":"Sham FM",
             "studio":"Syria"
         },
         {
             "description":"Orient",
-            "sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/80.ts"],
+            "sources":["http://tv2iptv.com:8000/live/power/power2018/8583.ts"],
             "card":"https://goo.gl/eiDkcF",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Orient",
             "studio":"Syria"
         },
         {
-            "description":"Alminber",
-            "sources":["http://itats.dynv6.net:1935/live/alminbar/playlist.m3u8"],
-            "card":"https://goo.gl/yA8b7r",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Alminber",
-            "studio":"Syria"
-        },
-        {
             "description":"ANN",
-            "sources":["http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8"],
+            "sources":["http://tv2iptv.com:8000/live/power/power2018/11614.ts"],
             "card":"https://goo.gl/4Uds7Q",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"ANN",
