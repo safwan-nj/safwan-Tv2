@@ -7,7 +7,7 @@
 
         {
             "description":"Syria Sat",
-            "sources":["http://tv2iptv.com:8000/live/power/power2018/1861.ts"],
+            "sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/6523.ts"],
             "card":"https://goo.gl/ahWMhf",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Syria Sat",
@@ -15,23 +15,15 @@
         },
         {
             "description":"Syria Drama",
-            "sources":["http://tv2iptv.com:8000/live/power/power2018/602.ts"],
+            "sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/6520.ts"],
             "card":"https://goo.gl/wsGL6Z",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Syria Drama",
             "studio":"Syria"
         },
-        {
-            "description":"Noor Alsham",
-            "sources":["http://tv2iptv.com:8000/live/power/power2018/1792.ts"],
-            "card":"https://goo.gl/eDtLda",
-            "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Noor Alsham",
-            "studio":"Syria"
-        },
-		{
+	{
             "description":"Syria News",
-            "sources":["http://tv2iptv.com:8000/live/power/power2018/1988.ts"],
+            "sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/555.ts"],
             "card":"https://goo.gl/14sTKR",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Syria News",
@@ -39,7 +31,7 @@
         },
         {
             "description":"Sama Syria",
-            "sources":["http://tv2iptv.com:8000/live/power/power2018/1787.ts"],
+            "sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/5579.ts"],
             "card":"https://goo.gl/LY6LX9",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Sama Syria",
@@ -47,7 +39,7 @@
         },
         {
             "description":"Lana Souria",
-            "sources":["http://tv2iptv.com:8000/live/power/power2018/14262.ts"],
+            "sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/26639.ts"],
             "card":"https://goo.gl/s2bep9",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Lana Souria",
@@ -55,7 +47,7 @@
         },
         {
             "description":"Alkhabar",
-            "sources":["http://tv2iptv.com:8000/live/power/power2018/467.ts"],
+            "sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/9002.ts"],
             "card":"http://alkhabar-sy.com/wp-content/uploads/2017/04/logo1.png",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Alkhabar",
@@ -63,36 +55,37 @@
         },
         {
             "description":"Syrian Education",
-            "sources":["http://tv2iptv.com:8000/live/power/power2018/1815.ts"],
+            "sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/6522.ts"],
             "card":"https://goo.gl/VmQutr",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Syrian Education",
             "studio":"Syria"
         },
         {
-            "description":"Sham FM",
-            "sources":["http://tv2iptv.com:8000/live/power/power2018/4018.ts"],
-            "card":"https://goo.gl/HfUwYv",
+            "description":"Mara7 Tv",
+            "sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/17185.ts"],
+            "card":"http://novahd.dnh.cz/images/stanice/mara7.jpg",
             "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"Sham FM",
+            "title":"Mara7 Tv",
             "studio":"Syria"
         },
         {
             "description":"Orient",
-            "sources":["http://tv2iptv.com:8000/live/power/power2018/8583.ts"],
+            "sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/17321.ts"],
             "card":"https://goo.gl/eiDkcF",
             "background":"https://www.eventflags.com/images/products/6851.png",
             "title":"Orient",
             "studio":"Syria"
         },
         {
-            "description":"ANN",
-            "sources":["http://tv2iptv.com:8000/live/power/power2018/11614.ts"],
-            "card":"https://goo.gl/4Uds7Q",
+            "description":"Souria",
+            "sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/17185.ts"],
+            "card":"https://goo.gl/EpsEdX",
             "background":"https://www.eventflags.com/images/products/6851.png",
-            "title":"ANN",
+            "title":"Souria",
             "studio":"Syria"
-        }
+        },
+	    
     ]
 }
 ]
