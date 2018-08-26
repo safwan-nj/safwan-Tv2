@@ -7,7 +7,7 @@
 
 				{
 					"description":"الفضائية السورية",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1292.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1292.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Sy-syria%20sat.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Syria Sat",
@@ -15,7 +15,7 @@
 				},
 				{
 					"description":"سورية دراما",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1295.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1295.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Sy-syria%20drama.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Syria Drama",
@@ -23,7 +23,7 @@
 				},
 				{
 					"description":"الإخبارية السورية",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1338.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1338.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Sy-syria%20news.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Syria News",
@@ -31,7 +31,7 @@
 				},
 				{
 					"description":"سما سوريا",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1412.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1412.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Sy-samat.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Sama Syria",
@@ -86,7 +86,7 @@
 
 				{
 					"description":"الجديد",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/704.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/704.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-aljadeed.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Al Jadeed",
@@ -94,7 +94,7 @@
 				},
 								{
 					"description":"ام تي في اللبنانية",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/227.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/227.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-mtv.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"MTV lebanon",
@@ -102,7 +102,7 @@
 				},
 								{
 					"description":"ال بي سي ",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/197.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/197.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-lbc.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"LBC",
@@ -110,7 +110,7 @@
 				},
 								{
 					"description":"ال دي سي",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/198.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/198.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-ldc.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"LDC",
@@ -118,7 +118,7 @@
 				},
 								{
 					"description":"أو تي في",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/272.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/272.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-otv.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"OTV",
@@ -126,7 +126,7 @@
 				},
 								{
 					"description":"ان بي ان",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1330.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1330.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-nbn.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"NBN",
@@ -134,7 +134,7 @@
 				},
 								{
 					"description":"المستقبل",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/177.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/177.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-future.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Future",
@@ -142,7 +142,7 @@
 				},
 												{
 					"description":"الميادين",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/82.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/82.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-almayadeen.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Al Mayadeen",
@@ -150,7 +150,7 @@
 				},
 												{
 					"description":"المنار",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/84.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/84.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-almanar.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Al Manar",
@@ -164,7 +164,7 @@
 
 				{
 					"description":"روتانا سينما",
-					"sources":["http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/280.ts"],
+					"sources":["http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/280.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Rotana-cinema.png",
 					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Rotana Cinema",
