@@ -73,7 +73,7 @@
 					"description":"سوريا",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/17185.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Sy-souria.png",
-					"background":"https://www.eventflags.com/images/products/6851.png",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Souria",
 					"studio":"Syria"
 				}
@@ -88,7 +88,7 @@
 					"description":"الجديد",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/6757.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-aljadeed.png",
-					"background":"https://wallpapercave.com/wp/wp1960738.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Al Jadeed",
 					"studio":"Lebanon"
 				},
@@ -96,7 +96,7 @@
 					"description":"ام تي في اللبنانية",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/6758.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-mtv.png",
-					"background":"https://wallpapercave.com/wp/wp1960738.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"MTV lebanon",
 					"studio":"Lebanon"
 				},
@@ -104,7 +104,7 @@
 					"description":"ال بي سي ",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/1508.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-lbc.png",
-					"background":"https://wallpapercave.com/wp/wp1960738.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"LBC",
 					"studio":"Lebanon"
 				},
@@ -112,7 +112,7 @@
 					"description":"ال دي سي",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/1507.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-ldc.png",
-					"background":"https://wallpapercave.com/wp/wp1960738.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"LDC",
 					"studio":"Lebanon"
 				},
@@ -120,7 +120,7 @@
 					"description":"أو تي في",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/554.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-otv.png",
-					"background":"https://wallpapercave.com/wp/wp1960738.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"OTV",
 					"studio":"Lebanon"
 				},
@@ -128,7 +128,7 @@
 					"description":"ان بي ان",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/1506.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-nbn.png",
-					"background":"https://wallpapercave.com/wp/wp1960738.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"NBN",
 					"studio":"Lebanon"
 				},
@@ -136,7 +136,7 @@
 					"description":"المستقبل",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/552.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-future.png",
-					"background":"https://wallpapercave.com/wp/wp1960738.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Future",
 					"studio":"Lebanon"
 				},
@@ -144,7 +144,7 @@
 					"description":"الميادين",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/6759.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-almayadeen.png",
-					"background":"https://wallpapercave.com/wp/wp1960738.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Al Mayadeen",
 					"studio":"Lebanon"
 				},
@@ -152,7 +152,7 @@
 					"description":"المنار",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/541.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Lb-almanar.png",
-					"background":"https://wallpapercave.com/wp/wp1960738.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Al Manar",
 					"studio":"Lebanon"
 				}
@@ -166,23 +166,15 @@
 					"description":"روتانا سينما",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/1005.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Rotana-cinema.png",
-					"background":"https://i.ytimg.com/vi/SNnb5EQIzyU/maxresdefault.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Rotana Cinema",
-					"studio":"Rotana"
-				},
-								{
-					"description":"روتانا سينما",
-					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/5505.ts"],
-					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Rotana-cinema.png",
-					"background":"https://i.ytimg.com/vi/SNnb5EQIzyU/maxresdefault.jpg",
-					"title":"Rotana Cinema HD",
 					"studio":"Rotana"
 				},
 								{
 					"description":"روتانا أفلام",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/5506.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Rotana-aflam.png",
-					"background":"https://i.ytimg.com/vi/SNnb5EQIzyU/maxresdefault.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Rotana Aflam",
 					"studio":"Rotana"
 				},
@@ -190,7 +182,7 @@
 					"description":"روتانا كلاسيك",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/5504.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Rotana-classic.png",
-					"background":"https://i.ytimg.com/vi/SNnb5EQIzyU/maxresdefault.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Rotana Classic",
 					"studio":"Rotana"
 				},
@@ -198,7 +190,7 @@
 					"description":"روتانا موسيقى",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/5501.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Rotana-music.png",
-					"background":"https://i.ytimg.com/vi/SNnb5EQIzyU/maxresdefault.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Rotana Music",
 					"studio":"Rotana"
 				},
@@ -206,7 +198,7 @@
 					"description":"روتانا كليب",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/1006.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Rotana-clip.png",
-					"background":"https://i.ytimg.com/vi/SNnb5EQIzyU/maxresdefault.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Rotana Clip",
 					"studio":"Rotana"
 				},
@@ -214,7 +206,7 @@
 					"description":"روتانا دراما",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/551.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Rotana-drama.png",
-					"background":"https://i.ytimg.com/vi/SNnb5EQIzyU/maxresdefault.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Rotana Drama",
 					"studio":"Rotana"
 				},
@@ -222,7 +214,7 @@
 					"description":"روتانا خليجية",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/1505.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Rotana-khalijia.png",
-					"background":"https://i.ytimg.com/vi/SNnb5EQIzyU/maxresdefault.jpg",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Rotana Khalijiah",
 					"studio":"Rotana"
 				}
