@@ -9,7 +9,7 @@
 					"description":"الفضائية السورية",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/6523.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Sy-syria%20sat.png",
-					"background":"https://www.eventflags.com/images/products/6851.png",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Syria Sat",
 					"studio":"Syria"
 				},
@@ -17,7 +17,7 @@
 					"description":"سورية دراما",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/6520.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Sy-syria%20drama.png",
-					"background":"https://www.eventflags.com/images/products/6851.png",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Syria Drama",
 					"studio":"Syria"
 				},
@@ -25,7 +25,7 @@
 					"description":"الإخبارية السورية",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/555.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Sy-syria%20news.png",
-					"background":"https://www.eventflags.com/images/products/6851.png",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Syria News",
 					"studio":"Syria"
 				},
@@ -33,7 +33,7 @@
 					"description":"سما سوريا",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/5579.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Sy-samat.png",
-					"background":"https://www.eventflags.com/images/products/6851.png",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Sama Syria",
 					"studio":"Syria"
 				},
@@ -41,7 +41,7 @@
 					"description":"لنا سوريا",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/26639.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Sy-lana.png",
-					"background":"https://www.eventflags.com/images/products/6851.png",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Lana Souria",
 					"studio":"Syria"
 				},
@@ -49,7 +49,7 @@
 					"description":"التربوية السورية",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/6522.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Sy-syria%20edu.png",
-					"background":"https://www.eventflags.com/images/products/6851.png",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Syrian Education",
 					"studio":"Syria"
 				},
@@ -57,7 +57,7 @@
 					"description":"مرح",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/17185.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Sy-syria%20mara7.png",
-					"background":"https://www.eventflags.com/images/products/6851.png",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Mara7 Tv",
 					"studio":"Syria"
 				},
@@ -65,7 +65,7 @@
 					"description":"المشرق",
 					"sources":["http://iptvfree1.com:6969/live/kimo..007/ZB9lvCN8Lb/17321.ts"],
 					"card":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/Sy-syria%20orient.png",
-					"background":"https://www.eventflags.com/images/products/6851.png",
+					"background":"https://raw.githubusercontent.com/safwan-nj/Safwan-Leanback/master/hd/bg.png",
 					"title":"Orient",
 					"studio":"Syria"
 				},
