@@ -155,7 +155,9 @@
 					"background":"https://wallpapercave.com/wp/wp1960738.jpg",
 					"title":"Al Manar",
 					"studio":"Lebanon"
-				},
+				}
+			]
+		},
 						{
 		"category": "Rotana",
 		"videos":[
@@ -225,8 +227,7 @@
 					"studio":"Rotana"
 				}
 	    
-			]
-		}
+
 
 	    
 			]
