@@ -8,453 +8,215 @@ http://bit.ly/Safwanlogo
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/sz8qr3",يرجى ابلاغي في حال توقف اي قناة
 http://bit.ly/Safwanlogo
-#EXTINF:0,UK: Baby TV
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2903.ts
-#EXTINF:0,UK: Nicktoons
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2790.ts
-#EXTINF:0,UK: 5STAR
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3275.ts
-#EXTINF:0,UK: B4U MUSIC
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3269.ts
-#EXTINF:0,UK: BET
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3209.ts
-#EXTINF:0,UK: CARTOON NETWORK
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2831.ts
-#EXTINF:0,UK: CHALLENGE
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3197.ts
-#EXTINF:0,UK: CNN HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2925.ts
-#EXTINF:0,UK: Discovery Shed
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3204.ts
-#EXTINF:0,UK: E! Entertainment
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3261.ts
-#EXTINF:0,UK: GEO TV
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3270.ts
-#EXTINF:0,UK: Motors TV
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3221.ts
-#EXTINF:0,UK: MTV Live HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3258.ts
-#EXTINF:0,UK: Nick Jr. Too
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3207.ts
-#EXTINF:0,UK: Really
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3208.ts
-#EXTINF:0,UK: Rishtey
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3272.ts
-#EXTINF:0,UK: Sky Movies Disney
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3229.ts
-#EXTINF:0,UK: Spike
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3260.ts
-#EXTINF:0,UK: STAR GOLD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3266.ts
-#EXTINF:0,UK: STAR PLUS
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3267.ts
-#EXTINF:0,UK: TG4
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3286.ts
-#EXTINF:0,UK: TV3
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3287.ts
-#EXTINF:0,UK: UTV Ireland
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3210.ts
-#EXTINF:0,UK: UTV MOVIES
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3268.ts
-#EXTINF:0,UK: ZEE CINEMA
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3222.ts
-#EXTINF:0,UK: Zee Classic
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3262.ts
-#EXTINF:0,UK: ZEE PUNJABI
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3263.ts
-#EXTINF:0,UK: ZEE TV
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3223.ts
-#EXTINF:0,UK: ZING
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3271.ts
-#EXTINF:0,UK: BT Sports 1 HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2759.ts
-#EXTINF:0,UK: Sky Sports Action HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2757.ts
-#EXTINF:0,UK: Sky Sports Arena HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3282.ts
-#EXTINF:0,UK: Sky Sports Cricket HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2756.ts
-#EXTINF:0,UK: Sky Sports Football HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3281.ts
-#EXTINF:0,UK: Sky Sports Golf HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2758.ts
-#EXTINF:0,UK: Sky Sports Main Event HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2755.ts
-#EXTINF:0,UK: SKY SPORTS MIX HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2881.ts
-#EXTINF:0,UK: Sky Sports Premier League HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3240.ts
-#EXTINF:0,UK: BT Sports 3 HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2924.ts
-#EXTINF:0,UK: BT SPORTS ESPN HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3754.ts
-#EXTINF:0,UK: Eir Sport 1
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/3274.ts
-#EXTINF:0,UK: Sky Sports News HQ
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/481.ts
-#EXTINF:0,UK: Sky Sports F1 HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/480.ts
-#EXTINF:0,UK: Sky Sports Premier League
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/479.ts
-#EXTINF:0,UK: Sky Sports Golf
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/478.ts
-#EXTINF:0,UK: Sky Sports Action
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/477.ts
-#EXTINF:0,UK: Sky Sports Cricket
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/476.ts
-#EXTINF:0,UK: Sky Sports Main Event
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/475.ts
-#EXTINF:0,UK: YESTERDAY
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2081.ts
-#EXTINF:0,UK: Watch
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2336.ts
-#EXTINF:0,UK: Vh1 Classic
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2337.ts
-#EXTINF:0,UK: VH1
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1131.ts
-#EXTINF:0,UK: Drama
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/484.ts
-#EXTINF:0,UK: ABC News
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/483.ts
-#EXTINF:0,UK: true movies +1
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1130.ts
-#EXTINF:0,UK: True Movies 1
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/703.ts
-#EXTINF:0,UK: Tru TV
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2734.ts
-#EXTINF:0,UK: TLC
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2338.ts
-#EXTINF:0,UK: B4U Movies
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2340.ts
-#EXTINF:0,UK: SyFy
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1107.ts
-#EXTINF:0,UK: Sky Two
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1127.ts
-#EXTINF:0,UK: Sky One
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/474.ts
-#EXTINF:0,UK: SKY NEWS
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/781.ts
-#EXTINF:0,UK: Sky Movies Crime & Thriller
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/472.ts
-#EXTINF:0,UK: Sky Movies Select
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/471.ts
-#EXTINF:0,UK: Sky Movies Sci-Fi & Horror
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/470.ts
-#EXTINF:0,UK: Sky Movies Premiere
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/469.ts
-#EXTINF:0,UK: Sky Movies Modern Great
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/468.ts
-#EXTINF:0,UK: Sky Movies Family
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/51.ts
-#EXTINF:0,UK: Sky Movies Drama
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/467.ts
-#EXTINF:0,UK: Sky Movies Comedy
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/49.ts
-#EXTINF:0,UK: Sky Movies Action
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/466.ts
-#EXTINF:0,UK: Sky Atlantic
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/465.ts
-#EXTINF:0,UK: CBS Reality
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1128.ts
-#EXTINF:0,UK: Sky Arts
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/463.ts
-#EXTINF:0,UK: Setanta Ireland
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/462.ts
-#EXTINF:0,UK: RTE 2
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/461.ts
-#EXTINF:0,UK: RTE 1
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/460.ts
-#EXTINF:0,UK: Racing UK
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/459.ts
-#EXTINF:0,UK: Quest
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2137.ts
-#EXTINF:0,UK: Premier Sports
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1073.ts
-#EXTINF:0,UK: Pick
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1303.ts
-#EXTINF:0,UK: Nickelodeon
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/783.ts
-#EXTINF:0,UK: Nick Jr.
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2332.ts
-#EXTINF:0,UK: National Geography Wild
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/458.ts
-#EXTINF:0,UK: National Geographic
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/914.ts
-#EXTINF:0,UK: MUTV
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1074.ts
-#EXTINF:0,UK: MTV Rocks
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2333.ts
-#EXTINF:0,UK: MTV Music
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/455.ts
-#EXTINF:0,UK: MTV dance
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/456.ts
-#EXTINF:0,UK: Movies24
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1369.ts
-#EXTINF:0,UK: Movies 4 Men
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/454.ts
-#EXTINF:0,UK: More 4
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1319.ts
-#EXTINF:0,UK: Living UK
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/453.ts
-#EXTINF:0,UK: Liverpool FC
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/452.ts
-#EXTINF:0,UK: Lifetime
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2139.ts
-#EXTINF:0,UK: ITV Encore
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2341.ts
-#EXTINF:0,UK: ITV be
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/787.ts
-#EXTINF:0,UK: ITV 4 HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2084.ts
-#EXTINF:0,UK: ITV 3 HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/450.ts
-#EXTINF:0,UK: ITV 2 HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/449.ts
-#EXTINF:0,UK: ITV 1 HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/448.ts
-#EXTINF:0,UK: Horror
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2082.ts
-#EXTINF:0,UK: HOME & HEALTH
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1302.ts
-#EXTINF:0,UK: Home
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2342.ts
-#EXTINF:0,UK: History Channel 2
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1453.ts
-#EXTINF:0,UK: History Channel
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/913.ts
-#EXTINF:0,UK: Gold
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/447.ts
-#EXTINF:0,UK: Fox
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2140.ts
-#EXTINF:0,UK: Food Network
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/782.ts
-#EXTINF:0,UK: Five
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/23.ts
-#EXTINF:0,UK: Film 4
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/445.ts
-#EXTINF:0,UK: Eurosport 2
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/444.ts
-#EXTINF:0,UK: Eurosport 1
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/443.ts
-#EXTINF:0,UK: ESPN HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/442.ts
-#EXTINF:0,UK: E4
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1320.ts
-#EXTINF:0,UK: Dmax
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/441.ts
-#EXTINF:0,UK: Disney XD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2080.ts
-#EXTINF:0,UK: Disney Junior
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2334.ts
-#EXTINF:0,UK: Disney Channel
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/440.ts
-#EXTINF:0,UK: Discovery Turbo
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2143.ts
-#EXTINF:0,UK: Discovery Science
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/704.ts
-#EXTINF:0,UK: Discovery Investigation
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/785.ts
-#EXTINF:0,UK: Discovery History
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/439.ts
-#EXTINF:0,UK: Discovery ch
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/438.ts
-#EXTINF:0,UK: Dave
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/437.ts
-#EXTINF:0,UK: Crime Investigation
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2538.ts
-#EXTINF:0,UK: Comedy Central Extra
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2142.ts
-#EXTINF:0,UK: Comedy Central
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/705.ts
-#EXTINF:0,UK: Colors
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/436.ts
-#EXTINF:0,UK: Chelsea FC
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/434.ts
-#EXTINF:0,UK: Channel 5
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/446.ts
-#EXTINF:0,UK: Channel 4
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2141.ts
-#EXTINF:0,UK: CBS Drama
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1147.ts
-#EXTINF:0,UK: CBS Action
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1148.ts
-#EXTINF:0,UK: BT Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/433.ts
-#EXTINF:0,UK: BT Sports 1
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/432.ts
-#EXTINF:0,UK: BT Sport Extra
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2083.ts
-#EXTINF:0,UK: BT Sport Europe
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/464.ts
-#EXTINF:0,UK: Boomerang
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2343.ts
-#EXTINF:0,UK: BBC News
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1065.ts
-#EXTINF:0,UK: BBC Four HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/431.ts
-#EXTINF:0,UK: BBC Three HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/430.ts
-#EXTINF:0,UK: BBC Two HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/429.ts
-#EXTINF:0,UK: BBC One HD
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/428.ts
-#EXTINF:0,UK: Animal Planet
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/712.ts
-#EXTINF:0,UK: Alibi
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/912.ts
-#EXTINF:0,UK: 5 USA
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/1146.ts
-#EXTINF:0,UK: 3E
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/2344.ts
-#EXTINF:0,UK: Box Nation
-#EXTVLCOPT:network-caching=1000
-http://5.189.187.55:8000/live/Fadil/skype/707.ts
+#EXTINF:0 group-title="(UK) United Kingdom",4SEVEN | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12517.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AAJ TAK | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2858.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ALIBI | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/933.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AMC | HD
+http://145.239.4.240:31000/live/2101/1012/761.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AND TV | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2841.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1643.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ASIA TV UPDATED | SD
+http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",B4U PLUS | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2851.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BET | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7618.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOLIVIATV VIVO | SD
+http://titiroq.xyz:25461/live/Saad55/Saad55/12887.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CAREWORLD | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2856.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/924.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/926.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/925.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHALLENGE | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12512.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 4 | HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/927.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 4 | SD
+http://145.239.4.240:31000/live/2101/1012/668.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 5 | HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/928.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 5 | SD
+http://145.239.4.240:31000/live/2101/1012/669.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CITV | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12511.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",COLORS | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2845.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",COLORS EUROPE | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2846.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",COMEDY CENTRAL | SD
+http://145.239.4.240:31000/live/2101/1012/670.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",COMEDY CENTRAL | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2219.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CRIME & INVESTIGATION | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12509.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CRIME INVETIGATION | SD
+http://145.239.4.240:31000/live/2101/1012/765.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DAVE | HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/934.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1638.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY HISTORY | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1245.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY HISTORY | SD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3170.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SCIENCE | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1299.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SHED | SD
+http://145.239.4.240:31000/live/2101/1012/768.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SHED | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12508.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DMAX | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2220.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EDEN | HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7628.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FILM 4 | HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/917.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FILM4 | HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7627.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FINE LIVING NETWORK | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1268.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FOOD | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/923.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FOOD NETWORK | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/4389.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FOX | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1632.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FRANCE 24 | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12504.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FRANCE 24 FRAN | SD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/108.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GOLD | SD
+http://145.239.4.240:31000/live/2101/1012/700.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GOLD | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/932.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HISTORY | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2236.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HOME | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/931.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HOME&HEALTH 1 | SD
+http://54.37.255.204:9977/live/Rivera/Rivera/27052.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HORROR CHANNEL | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/935.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HORSE AND COUNTRY | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7617.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ID FASHION | SD
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 1 | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/268.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 2 | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/267.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 3 | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/252.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 4 | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/251.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV ENCORE | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1266.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV4 | HD
+http://145.239.4.240:31000/live/2101/1012/676.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITVBE | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2224.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LIFE OK | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2842.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LIVE | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MORE 4 | HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7630.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MORE 4 | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1295.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOV4MEN1 | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1263.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1293.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO WILD | SD
+http://145.239.4.240:31000/live/2101/1012/641.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO WILD | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1302.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NATIONAL GEOGRAPHIC | HD
+http://145.239.4.240:31000/live/2101/1012/776.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PICK | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2223.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",QUEST | SD
+http://145.239.4.240:31000/live/2101/1012/772.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",QUEST | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/921.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",REAL LIVES | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2222.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",REALLY | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1631.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RISHTEY | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2843.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RT DOCUMENTARY | SD
+https://secure-streams.akamaized.net/rt-doc/index.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RT VIVO | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/12865.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTE ONE | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/418.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTEJR | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2227.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SAB TV SET | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2840.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SET MAX | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2849.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 1 | HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7629.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12275.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVING | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/585.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ONE | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/417.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY TWO | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/415.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SONY ENTERTAINMENT SET | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2839.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SPIKE | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2226.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR GOLD | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2848.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR JALSHA | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2857.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STARZ TV | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12488.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SYFY | SD
+http://54.37.255.204:9977/live/Rivera/Rivera/27108.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TCM | SD
+http://145.239.4.240:31000/live/2101/1012/771.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TG4 | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1255.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",THE VAULT | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12486.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TLC | SD
+http://145.239.4.240:31000/live/2101/1012/783.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TLC | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2074.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TRAVEL CHANNEL | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12484.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TRUE ENT | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12482.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TV3 IR | HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2225.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UNIVERSAL CHANNEL | SD
+http://145.239.4.240:31000/live/2101/1012/786.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UNIVERSAL CHANNEL | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12276.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UTV IRELAND | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2221.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",VINTAGE TV | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12304.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",WATCH | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1252.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",YESTERDAY | HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/936.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ZEE PUNJABI | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2855.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ZING | SD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2854.m3u8
