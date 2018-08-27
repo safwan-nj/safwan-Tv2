@@ -109,36 +109,36 @@ http://streaming.i-sat.tv:1935/livestream/rtcp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/we1jqe",Rotana Drama
 http://streaming.i-sat.tv:1935/livestream/rotanamasr/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/we1jqe",Rotana Drama
-http://5.189.187.55:8000/live/Fadil/skype/3233.ts
+http://hbox.cdnss.me:80/live/mtg/2406/506.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/hAZ938",Rotana khalijia
 http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC",======MBC=======
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1",MBC 1
-http://5.189.187.55:8000/live/Fadil/skype/1743.ts
+http://hbox.cdnss.me:80/live/mtg/2406/3063.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/FDvujj",MBC 2
-http://5.189.187.55:8000/live/Fadil/skype/1746.ts
+http://hbox.cdnss.me:80/live/mtg/2406/485.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/E4CNhT",MBC 3
-http://5.189.187.55:8000/live/Fadil/skype/1745.ts
+http://www.zeebra.tv:8000/live/Next88/Next88/2621.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/jjAQdb",MBC 4
-http://5.189.187.55:8000/live/Fadil/skype/1744.ts
+http://hbox.cdnss.me:80/live/mtg/2406/478.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/Qh3mL7",MBC Action
-http://5.189.187.55:8000/live/Fadil/skype/1749.ts
+http://hbox.cdnss.me:80/live/mtg/2406/482.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm",MBC Max
-http://5.189.187.55:8000/live/Fadil/skype/1751.ts
+http://hbox.cdnss.me:80/live/mtg/2406/484.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/TPNedw",MBC Bollywood
-http://5.189.187.55:8000/live/Fadil/skype/1748.ts
+http://hbox.cdnss.me:80/live/mtg/2406/483.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama
-http://5.189.187.55:8000/live/Fadil/skype/1750.ts
+http://hbox.cdnss.me:80/live/mtg/2406/480.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/yXPF9L",MBC Masr
-http://5.189.187.55:8000/live/Fadil/skype/1747.ts
+http://hbox.cdnss.me:80/live/mtg/2406/1212.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Masr 2
-http://www.zeebra.tv:8000/live/Next88/Next88/2628.ts
+http://hbox.cdnss.me:80/live/mtg/2406/1213.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/dnHy2e",Zee Aflam
-http://5.189.187.55:8000/live/Fadil/skype/3234.ts
+http://hbox.cdnss.me:80/live/mtg/2406/481.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/4vmvAX",Zee Alwan
-http://5.189.187.55:8000/live/Fadil/skype/3235.ts
+http://hbox.cdnss.me:80/live/mtg/2406/1642.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/oXGqeX",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/H6Vx6U" group-title="EGYPT",======EGYPT=======
@@ -277,6 +277,44 @@ http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/6k6Wmn",Tamazight
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="Algeria",=====Algeria========
+http://bit.ly/Safwanlogo
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/2000px-Samira_TV_logo.svg.png", Samira Tv
+http://hbox.cdnss.me:80/live/mtg/2406/498.ts
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BVjTCsFQ5Z0/WgGGZE1lesI/AAAAAAAAAWA/NCJ_fVbdACES4Qiwsgy4hpBlC3xUswCdACLcBGAs/s1600/index.jpg", El Bilad Tv
+http://hbox.cdnss.me:80/live/mtg/2406/3918.ts
+#EXTINF:-1 tvg-logo="http://dzairnewstv.com/tv/assets/front/images/logo.png", Dzair Tv
+http://hbox.cdnss.me:80/live/mtg/2406/495.ts
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-25vD56GCzZo/WgSjzIYqiMI/AAAAAAAAJL8/nQU_VHvph1Yc8SWz7oBuxwCOPLvsZmzwACLcBGAs/s1600/unnamed.png", Canal Algerie
+http://hbox.cdnss.me:80/live/mtg/2406/2485.ts
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/59978/logo_beur%20tv.png", Beur TV
+http://hbox.cdnss.me:80/live/mtg/2406/520.ts
+#EXTINF:-1 tvg-logo="http://www7.0zz0.com/2015/04/17/18/813683963.jpg", Berbere Music
+http://hbox.cdnss.me:80/live/mtg/2406/1443.ts
+#EXTINF:-1 tvg-logo="https://www.ariase.com/media/television/logo-132x99/bjeunesse.jpg", Berbere Jeunesse
+http://hbox.cdnss.me:80/live/mtg/2406/1580.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/BerbereTV.jpg", Berbere TV
+http://hbox.cdnss.me:80/live/mtg/2406/4035.ts
+#EXTINF:-1 tvg-logo="http://ismiletv.com/wp-content/uploads/2017/04/Al-Heddaf-200x153.jpg", Al Haddaf
+http://hbox.cdnss.me:80/live/mtg/2406/522.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eldjazairiaone1234.png", El Djazairia One
+http://hbox.cdnss.me:80/live/mtg/2406/489.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Echourouk_TV_logo.svg/1200px-Echourouk_TV_logo.svg.png", Echourouk
+http://hbox.cdnss.me:80/live/mtg/2406/519.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png", Echourouk News
+http://hbox.cdnss.me:80/live/mtg/2406/496.ts
+#EXTINF:-1 tvg-logo="http://www.arabe-media.com/tv/img141.jpg", Eptv Terrestre Tv Algerie
+http://hbox.cdnss.me:80/live/mtg/2406/521.ts
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Alg%C3%A9rie3ThalithaTV.png", Algeria Tv 3
+http://hbox.cdnss.me:80/live/mtg/2406/2490.ts
+#EXTINF:-1 tvg-logo="http://android.volkatv.biz/logochanel/735.png", Algerie Tv 4
+http://hbox.cdnss.me:80/live/mtg/2406/1970.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6Cqw7rsEpsM/Vi50knLbdWI/AAAAAAAAAkk/Mod1sM7841M/s1600/ENTV_5_Coran.png", Algerie Tv 5
+http://hbox.cdnss.me:80/live/mtg/2406/1971.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/829347736889737218/ChrXbleJ.jpg", Ennahar TV
+http://hbox.cdnss.me:80/live/mtg/2406/528.ts
+
 #EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS",=====NEWS========
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
